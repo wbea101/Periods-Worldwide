@@ -10,3 +10,6 @@ This project is important because it is vital to understand who is being impacte
 in contrast to giving away feminine products that they can not use.
 
 Monthly menstruation for girls who go to school has led them to have to miss class because of a lack of clean water and tools at schools or even work.
+
+# References
+https://awhs-updates.hsph.harvard.edu/cycle-length-variability/part-2/
