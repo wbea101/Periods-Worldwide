@@ -14,9 +14,3 @@ Monthly menstruation for girls who go to school has led them to have to miss cla
 
 # References
 https://awhs-updates.hsph.harvard.edu/cycle-length-variability/part-2/
-
-#Visual Ideas 
-Beayonie's Visulaization
-Timeline https://datavizcatalogue.com/methods/timeline.html
-Nightgale rose chart https://datavizcatalogue.com/methods/nightingale_rose_chart.html
-multi-set bar chart https://datavizcatalogue.com/methods/bar_chart.html
