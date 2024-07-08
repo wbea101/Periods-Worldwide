@@ -6,7 +6,7 @@ I would like to visualize the beginning and end of a period for multiple countri
 "showing the average of years when spent on their periods in many countries"
 
 Nightgale rose chart https://datavizcatalogue.com/methods/nightingale_rose_chart.html
-experiment with chart and see of it makes sense to use 
+Experiment with a chart and see if it makes sense to use 
 
 multi-set bar chart https://datavizcatalogue.com/methods/bar_chart.html
-Datasets on menopause in blue and datasets on menarche in orange on x-axis the country and y-axis is the year
+  Menopause age  is in blue menarche age is in orange on the x-axis of the country and the y-axis is the year
