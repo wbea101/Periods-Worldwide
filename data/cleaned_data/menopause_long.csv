@@ -1,0 +1,547 @@
+country,year_menopause,measure,age_group,percentage
+Afghanistan,2015,menopause,30-34 Years,2
+Afghanistan,2015,menopause,35-39 Years,4.9
+Afghanistan,2015,menopause,40-41 Years,14
+Afghanistan,2015,menopause,42-43 Years,16.5
+Afghanistan,2015,menopause,44-45 Years,26.8
+Afghanistan,2015,menopause,46-47 Years,28.8
+Afghanistan,2015,menopause,48-49 Years,50.1
+Albania,2017,menopause,30-34 Years,1.4
+Albania,2017,menopause,35-39 Years,3
+Albania,2017,menopause,40-41 Years,4.6
+Albania,2017,menopause,42-43 Years,4.8
+Albania,2017,menopause,44-45 Years,9.6
+Albania,2017,menopause,46-47 Years,22.9
+Albania,2017,menopause,48-49 Years,30
+Angola,2015,menopause,30-34 Years,4.2
+Angola,2015,menopause,35-39 Years,6.5
+Angola,2015,menopause,40-41 Years,12.7
+Angola,2015,menopause,42-43 Years,18.3
+Angola,2015,menopause,44-45 Years,33.7
+Angola,2015,menopause,46-47 Years,41.4
+Angola,2015,menopause,48-49 Years,50.7
+Armenia,2015,menopause,30-34 Years,1.1
+Armenia,2015,menopause,35-39 Years,2.8
+Armenia,2015,menopause,40-41 Years,6.2
+Armenia,2015,menopause,42-43 Years,6
+Armenia,2015,menopause,44-45 Years,13.6
+Armenia,2015,menopause,46-47 Years,17.5
+Armenia,2015,menopause,48-49 Years,37.4
+Azerbaijan,2006,menopause,30-34 Years,0.4
+Azerbaijan,2006,menopause,35-39 Years,3.2
+Azerbaijan,2006,menopause,40-41 Years,5.9
+Azerbaijan,2006,menopause,42-43 Years,9
+Azerbaijan,2006,menopause,44-45 Years,16.2
+Azerbaijan,2006,menopause,46-47 Years,32.1
+Azerbaijan,2006,menopause,48-49 Years,46.6
+Bangladesh,2017,menopause,30-34 Years,6.9
+Bangladesh,2017,menopause,35-39 Years,12.9
+Bangladesh,2017,menopause,40-41 Years,21.1
+Bangladesh,2017,menopause,42-43 Years,26.6
+Bangladesh,2017,menopause,44-45 Years,40.1
+Bangladesh,2017,menopause,46-47 Years,50.4
+Bangladesh,2017,menopause,48-49 Years,65.4
+Benin,2017,menopause,30-34 Years,1.3
+Benin,2017,menopause,35-39 Years,3
+Benin,2017,menopause,40-41 Years,8.3
+Benin,2017,menopause,42-43 Years,15.8
+Benin,2017,menopause,44-45 Years,20.9
+Benin,2017,menopause,46-47 Years,35.5
+Benin,2017,menopause,48-49 Years,52.6
+Bolivia,2008,menopause,30-34 Years,4.4
+Bolivia,2008,menopause,35-39 Years,5.5
+Bolivia,2008,menopause,40-41 Years,9.3
+Bolivia,2008,menopause,42-43 Years,14
+Bolivia,2008,menopause,44-45 Years,24.6
+Bolivia,2008,menopause,46-47 Years,38.8
+Bolivia,2008,menopause,48-49 Years,57
+Brazil,1996,menopause,30-34 Years,1.9
+Brazil,1996,menopause,35-39 Years,3.8
+Brazil,1996,menopause,40-41 Years,10.1
+Brazil,1996,menopause,42-43 Years,11.8
+Brazil,1996,menopause,44-45 Years,17.3
+Brazil,1996,menopause,46-47 Years,28.2
+Brazil,1996,menopause,48-49 Years,43
+Burkina Faso,2021,menopause,30-34 Years,1.6
+Burkina Faso,2021,menopause,35-39 Years,3
+Burkina Faso,2021,menopause,40-41 Years,7.5
+Burkina Faso,2021,menopause,42-43 Years,12.3
+Burkina Faso,2021,menopause,44-45 Years,23.8
+Burkina Faso,2021,menopause,46-47 Years,36.9
+Burkina Faso,2021,menopause,48-49 Years,49.5
+Burundi,2016,menopause,30-34 Years,2.2
+Burundi,2016,menopause,35-39 Years,2.6
+Burundi,2016,menopause,40-41 Years,6.2
+Burundi,2016,menopause,42-43 Years,9.1
+Burundi,2016,menopause,44-45 Years,16.3
+Burundi,2016,menopause,46-47 Years,24
+Burundi,2016,menopause,48-49 Years,38.7
+Cambodia,2021,menopause,30-34 Years,3.3
+Cambodia,2021,menopause,35-39 Years,6.1
+Cambodia,2021,menopause,40-41 Years,6.2
+Cambodia,2021,menopause,42-43 Years,9.2
+Cambodia,2021,menopause,44-45 Years,13.3
+Cambodia,2021,menopause,46-47 Years,20.6
+Cambodia,2021,menopause,48-49 Years,34.6
+Cameroon,2018,menopause,30-34 Years,1.5
+Cameroon,2018,menopause,35-39 Years,2.3
+Cameroon,2018,menopause,40-41 Years,4.9
+Cameroon,2018,menopause,42-43 Years,11.8
+Cameroon,2018,menopause,44-45 Years,21.1
+Cameroon,2018,menopause,46-47 Years,31
+Cameroon,2018,menopause,48-49 Years,49
+Central African Republic,1994,menopause,30-34 Years,1.7
+Central African Republic,1994,menopause,35-39 Years,4.5
+Central African Republic,1994,menopause,40-41 Years,15.3
+Central African Republic,1994,menopause,42-43 Years,21.1
+Central African Republic,1994,menopause,44-45 Years,30.9
+Central African Republic,1994,menopause,46-47 Years,50.2
+Central African Republic,1994,menopause,48-49 Years,64.4
+Chad,2014,menopause,30-34 Years,0.9
+Chad,2014,menopause,35-39 Years,3.1
+Chad,2014,menopause,40-41 Years,14.1
+Chad,2014,menopause,42-43 Years,14.4
+Chad,2014,menopause,44-45 Years,38
+Chad,2014,menopause,46-47 Years,47.2
+Chad,2014,menopause,48-49 Years,68.1
+Colombia,2015,menopause,30-34 Years,2.7
+Colombia,2015,menopause,35-39 Years,4.1
+Colombia,2015,menopause,40-41 Years,5.8
+Colombia,2015,menopause,42-43 Years,9.7
+Colombia,2015,menopause,44-45 Years,16.9
+Colombia,2015,menopause,46-47 Years,26.1
+Colombia,2015,menopause,48-49 Years,40.2
+Comoros,2012,menopause,30-34 Years,3.1
+Comoros,2012,menopause,35-39 Years,2.8
+Comoros,2012,menopause,40-41 Years,4.3
+Comoros,2012,menopause,42-43 Years,5.6
+Comoros,2012,menopause,44-45 Years,12.9
+Comoros,2012,menopause,46-47 Years,18.1
+Comoros,2012,menopause,48-49 Years,40.5
+Congo,2011,menopause,30-34 Years,0.7
+Congo,2011,menopause,35-39 Years,3
+Congo,2011,menopause,40-41 Years,6.8
+Congo,2011,menopause,42-43 Years,7.5
+Congo,2011,menopause,44-45 Years,19.8
+Congo,2011,menopause,46-47 Years,40.9
+Congo,2011,menopause,48-49 Years,56.8
+Congo Democratic Republic,2013,menopause,30-34 Years,1
+Congo Democratic Republic,2013,menopause,35-39 Years,2.1
+Congo Democratic Republic,2013,menopause,40-41 Years,5.9
+Congo Democratic Republic,2013,menopause,42-43 Years,13.8
+Congo Democratic Republic,2013,menopause,44-45 Years,25.8
+Congo Democratic Republic,2013,menopause,46-47 Years,37.7
+Congo Democratic Republic,2013,menopause,48-49 Years,58.9
+Cote d'Ivoire,2021,menopause,30-34 Years,1.8
+Cote d'Ivoire,2021,menopause,35-39 Years,3.4
+Cote d'Ivoire,2021,menopause,40-41 Years,10.2
+Cote d'Ivoire,2021,menopause,42-43 Years,12.3
+Cote d'Ivoire,2021,menopause,44-45 Years,18.9
+Cote d'Ivoire,2021,menopause,46-47 Years,30
+Cote d'Ivoire,2021,menopause,48-49 Years,47.5
+Dominican Republic,2013,menopause,30-34 Years,2.4
+Dominican Republic,2013,menopause,35-39 Years,7.2
+Dominican Republic,2013,menopause,40-41 Years,12.2
+Dominican Republic,2013,menopause,42-43 Years,18.3
+Dominican Republic,2013,menopause,44-45 Years,25.2
+Dominican Republic,2013,menopause,46-47 Years,30.9
+Dominican Republic,2013,menopause,48-49 Years,48.3
+Egypt,2014,menopause,30-34 Years,3.1
+Egypt,2014,menopause,35-39 Years,5.5
+Egypt,2014,menopause,40-41 Years,8.1
+Egypt,2014,menopause,42-43 Years,8.5
+Egypt,2014,menopause,44-45 Years,12.5
+Egypt,2014,menopause,46-47 Years,19.3
+Egypt,2014,menopause,48-49 Years,31
+Eritrea,2002,menopause,30-34 Years,1.3
+Eritrea,2002,menopause,35-39 Years,3.8
+Eritrea,2002,menopause,40-41 Years,11.9
+Eritrea,2002,menopause,42-43 Years,17.8
+Eritrea,2002,menopause,44-45 Years,25.7
+Eritrea,2002,menopause,46-47 Years,39.4
+Eritrea,2002,menopause,48-49 Years,53.6
+Eswatini,2006,menopause,30-34 Years,4.1
+Eswatini,2006,menopause,35-39 Years,4.2
+Eswatini,2006,menopause,40-41 Years,7.3
+Eswatini,2006,menopause,42-43 Years,12
+Eswatini,2006,menopause,44-45 Years,21.2
+Eswatini,2006,menopause,46-47 Years,36
+Eswatini,2006,menopause,48-49 Years,57.8
+Ethiopia,2016,menopause,30-34 Years,6.3
+Ethiopia,2016,menopause,35-39 Years,10.9
+Ethiopia,2016,menopause,40-41 Years,16.9
+Ethiopia,2016,menopause,42-43 Years,21.9
+Ethiopia,2016,menopause,44-45 Years,32
+Ethiopia,2016,menopause,46-47 Years,41.8
+Ethiopia,2016,menopause,48-49 Years,49.2
+Gabon,2019,menopause,30-34 Years,1.1
+Gabon,2019,menopause,35-39 Years,2.4
+Gabon,2019,menopause,40-41 Years,2.1
+Gabon,2019,menopause,42-43 Years,6.9
+Gabon,2019,menopause,44-45 Years,15.2
+Gabon,2019,menopause,46-47 Years,24.5
+Gabon,2019,menopause,48-49 Years,34.9
+Gambia,2019,menopause,30-34 Years,2.3
+Gambia,2019,menopause,35-39 Years,2.3
+Gambia,2019,menopause,40-41 Years,7.3
+Gambia,2019,menopause,42-43 Years,7.8
+Gambia,2019,menopause,44-45 Years,10.7
+Gambia,2019,menopause,46-47 Years,23.6
+Gambia,2019,menopause,48-49 Years,37.2
+Ghana,2022,menopause,30-34 Years,1.8
+Ghana,2022,menopause,35-39 Years,2.5
+Ghana,2022,menopause,40-41 Years,4.2
+Ghana,2022,menopause,42-43 Years,9
+Ghana,2022,menopause,44-45 Years,16.5
+Ghana,2022,menopause,46-47 Years,23.5
+Ghana,2022,menopause,48-49 Years,44.2
+Guatemala,2014,menopause,30-34 Years,3.8
+Guatemala,2014,menopause,35-39 Years,7.1
+Guatemala,2014,menopause,40-41 Years,12.8
+Guatemala,2014,menopause,42-43 Years,17.2
+Guatemala,2014,menopause,44-45 Years,28.6
+Guatemala,2014,menopause,46-47 Years,46.3
+Guatemala,2014,menopause,48-49 Years,58.1
+Guinea,2018,menopause,30-34 Years,2.7
+Guinea,2018,menopause,35-39 Years,3.9
+Guinea,2018,menopause,40-41 Years,12
+Guinea,2018,menopause,42-43 Years,13.3
+Guinea,2018,menopause,44-45 Years,28.3
+Guinea,2018,menopause,46-47 Years,36.5
+Guinea,2018,menopause,48-49 Years,50.8
+Guyana,2009,menopause,30-34 Years,1.2
+Guyana,2009,menopause,35-39 Years,2.6
+Guyana,2009,menopause,40-41 Years,4.6
+Guyana,2009,menopause,42-43 Years,5.8
+Guyana,2009,menopause,44-45 Years,11.8
+Guyana,2009,menopause,46-47 Years,13.3
+Guyana,2009,menopause,48-49 Years,23
+Haiti,2016,menopause,30-34 Years,5.1
+Haiti,2016,menopause,35-39 Years,5.7
+Haiti,2016,menopause,40-41 Years,8.9
+Haiti,2016,menopause,42-43 Years,9.9
+Haiti,2016,menopause,44-45 Years,19.4
+Haiti,2016,menopause,46-47 Years,23.3
+Haiti,2016,menopause,48-49 Years,49.7
+Honduras,2011,menopause,30-34 Years,3.9
+Honduras,2011,menopause,35-39 Years,3.6
+Honduras,2011,menopause,40-41 Years,6.5
+Honduras,2011,menopause,42-43 Years,8.1
+Honduras,2011,menopause,44-45 Years,15.4
+Honduras,2011,menopause,46-47 Years,27.7
+Honduras,2011,menopause,48-49 Years,45.2
+India,2019,menopause,30-34 Years,3
+India,2019,menopause,35-39 Years,6.7
+India,2019,menopause,40-41 Years,14.2
+India,2019,menopause,42-43 Years,19.3
+India,2019,menopause,44-45 Years,30.4
+India,2019,menopause,46-47 Years,39.7
+India,2019,menopause,48-49 Years,55.2
+Indonesia,2017,menopause,30-34 Years,9.7
+Indonesia,2017,menopause,35-39 Years,11
+Indonesia,2017,menopause,40-41 Years,12.7
+Indonesia,2017,menopause,42-43 Years,14.2
+Indonesia,2017,menopause,44-45 Years,17.1
+Indonesia,2017,menopause,46-47 Years,26.7
+Indonesia,2017,menopause,48-49 Years,43.1
+Jordan,2017,menopause,30-34 Years,1.4
+Jordan,2017,menopause,35-39 Years,1.9
+Jordan,2017,menopause,40-41 Years,2.3
+Jordan,2017,menopause,42-43 Years,5
+Jordan,2017,menopause,44-45 Years,5.1
+Jordan,2017,menopause,46-47 Years,15.3
+Jordan,2017,menopause,48-49 Years,27.9
+Kazakhstan,1999,menopause,30-34 Years,0.7
+Kazakhstan,1999,menopause,35-39 Years,2.7
+Kazakhstan,1999,menopause,40-41 Years,5.3
+Kazakhstan,1999,menopause,42-43 Years,8.8
+Kazakhstan,1999,menopause,44-45 Years,11.1
+Kazakhstan,1999,menopause,46-47 Years,31.4
+Kazakhstan,1999,menopause,48-49 Years,44.5
+Kenya,2022,menopause,30-34 Years,4.6
+Kenya,2022,menopause,35-39 Years,5.6
+Kenya,2022,menopause,40-41 Years,7.3
+Kenya,2022,menopause,42-43 Years,9.5
+Kenya,2022,menopause,44-45 Years,15.9
+Kenya,2022,menopause,46-47 Years,29.9
+Kenya,2022,menopause,48-49 Years,37.9
+Kyrgyz Republic,2012,menopause,30-34 Years,1
+Kyrgyz Republic,2012,menopause,35-39 Years,2.4
+Kyrgyz Republic,2012,menopause,40-41 Years,3.2
+Kyrgyz Republic,2012,menopause,42-43 Years,6.3
+Kyrgyz Republic,2012,menopause,44-45 Years,13.5
+Kyrgyz Republic,2012,menopause,46-47 Years,23.8
+Kyrgyz Republic,2012,menopause,48-49 Years,41.7
+Lesotho,2014,menopause,30-34 Years,5.1
+Lesotho,2014,menopause,35-39 Years,6
+Lesotho,2014,menopause,40-41 Years,4.8
+Lesotho,2014,menopause,42-43 Years,12.3
+Lesotho,2014,menopause,44-45 Years,17.1
+Lesotho,2014,menopause,46-47 Years,32.1
+Lesotho,2014,menopause,48-49 Years,53.6
+Liberia,2019,menopause,30-34 Years,3.1
+Liberia,2019,menopause,35-39 Years,2.4
+Liberia,2019,menopause,40-41 Years,5.2
+Liberia,2019,menopause,42-43 Years,10.6
+Liberia,2019,menopause,44-45 Years,17.6
+Liberia,2019,menopause,46-47 Years,38.8
+Liberia,2019,menopause,48-49 Years,47
+Madagascar,2021,menopause,30-34 Years,8
+Madagascar,2021,menopause,35-39 Years,10.5
+Madagascar,2021,menopause,40-41 Years,13.9
+Madagascar,2021,menopause,42-43 Years,13.8
+Madagascar,2021,menopause,44-45 Years,22.3
+Madagascar,2021,menopause,46-47 Years,28.7
+Madagascar,2021,menopause,48-49 Years,47.3
+Malawi,2015,menopause,30-34 Years,5.8
+Malawi,2015,menopause,35-39 Years,6.1
+Malawi,2015,menopause,40-41 Years,12.1
+Malawi,2015,menopause,42-43 Years,12.1
+Malawi,2015,menopause,44-45 Years,18.2
+Malawi,2015,menopause,46-47 Years,29.4
+Malawi,2015,menopause,48-49 Years,49.5
+Maldives,2016,menopause,30-34 Years,6.3
+Maldives,2016,menopause,35-39 Years,5.5
+Maldives,2016,menopause,40-41 Years,4.8
+Maldives,2016,menopause,42-43 Years,7.6
+Maldives,2016,menopause,44-45 Years,11
+Maldives,2016,menopause,46-47 Years,10.2
+Maldives,2016,menopause,48-49 Years,26.6
+Mali,2018,menopause,30-34 Years,1.1
+Mali,2018,menopause,35-39 Years,2.9
+Mali,2018,menopause,40-41 Years,9.3
+Mali,2018,menopause,42-43 Years,10.3
+Mali,2018,menopause,44-45 Years,21.9
+Mali,2018,menopause,46-47 Years,35.5
+Mali,2018,menopause,48-49 Years,45.3
+Mauritania,2019,menopause,30-34 Years,1.8
+Mauritania,2019,menopause,35-39 Years,1.8
+Mauritania,2019,menopause,40-41 Years,5.5
+Mauritania,2019,menopause,42-43 Years,9.5
+Mauritania,2019,menopause,44-45 Years,15.4
+Mauritania,2019,menopause,46-47 Years,27.3
+Mauritania,2019,menopause,48-49 Years,43.2
+Moldova,2005,menopause,30-34 Years,1.1
+Moldova,2005,menopause,35-39 Years,1.1
+Moldova,2005,menopause,40-41 Years,4.1
+Moldova,2005,menopause,42-43 Years,6.6
+Moldova,2005,menopause,44-45 Years,10.4
+Moldova,2005,menopause,46-47 Years,26.7
+Moldova,2005,menopause,48-49 Years,43.4
+Morocco,2003,menopause,30-34 Years,1.3
+Morocco,2003,menopause,35-39 Years,2.2
+Morocco,2003,menopause,40-41 Years,3.7
+Morocco,2003,menopause,42-43 Years,7.2
+Morocco,2003,menopause,44-45 Years,12.3
+Morocco,2003,menopause,46-47 Years,19.9
+Morocco,2003,menopause,48-49 Years,33.9
+Mozambique,2022,menopause,30-34 Years,5.1
+Mozambique,2022,menopause,35-39 Years,4.9
+Mozambique,2022,menopause,40-41 Years,7.9
+Mozambique,2022,menopause,42-43 Years,11.9
+Mozambique,2022,menopause,44-45 Years,15.8
+Mozambique,2022,menopause,46-47 Years,25.1
+Mozambique,2022,menopause,48-49 Years,36.8
+Myanmar,2015,menopause,30-34 Years,9.6
+Myanmar,2015,menopause,35-39 Years,11.4
+Myanmar,2015,menopause,40-41 Years,10
+Myanmar,2015,menopause,42-43 Years,13.5
+Myanmar,2015,menopause,44-45 Years,17
+Myanmar,2015,menopause,46-47 Years,29.1
+Myanmar,2015,menopause,48-49 Years,50
+Namibia,2013,menopause,30-34 Years,5.6
+Namibia,2013,menopause,35-39 Years,5.9
+Namibia,2013,menopause,40-41 Years,13.6
+Namibia,2013,menopause,42-43 Years,10
+Namibia,2013,menopause,44-45 Years,19.9
+Namibia,2013,menopause,46-47 Years,24.2
+Namibia,2013,menopause,48-49 Years,33.6
+Nepal,2022,menopause,30-34 Years,5.4
+Nepal,2022,menopause,35-39 Years,7.9
+Nepal,2022,menopause,40-41 Years,13.5
+Nepal,2022,menopause,42-43 Years,16.6
+Nepal,2022,menopause,44-45 Years,21.1
+Nepal,2022,menopause,46-47 Years,34.3
+Nepal,2022,menopause,48-49 Years,42.3
+Nicaragua,2001,menopause,30-34 Years,3.1
+Nicaragua,2001,menopause,35-39 Years,4.3
+Nicaragua,2001,menopause,40-41 Years,9.3
+Nicaragua,2001,menopause,42-43 Years,16.5
+Nicaragua,2001,menopause,44-45 Years,20.8
+Nicaragua,2001,menopause,46-47 Years,36.1
+Nicaragua,2001,menopause,48-49 Years,48.5
+Niger,2012,menopause,30-34 Years,1.5
+Niger,2012,menopause,35-39 Years,2.7
+Niger,2012,menopause,40-41 Years,6.5
+Niger,2012,menopause,42-43 Years,12.9
+Niger,2012,menopause,44-45 Years,23
+Niger,2012,menopause,46-47 Years,32.6
+Niger,2012,menopause,48-49 Years,49.5
+Nigeria,2018,menopause,30-34 Years,1.3
+Nigeria,2018,menopause,35-39 Years,2.3
+Nigeria,2018,menopause,40-41 Years,7.6
+Nigeria,2018,menopause,42-43 Years,9
+Nigeria,2018,menopause,44-45 Years,23.1
+Nigeria,2018,menopause,46-47 Years,28.6
+Nigeria,2018,menopause,48-49 Years,51.4
+Pakistan,2017,menopause,30-34 Years,2.2
+Pakistan,2017,menopause,35-39 Years,3.9
+Pakistan,2017,menopause,40-41 Years,12.7
+Pakistan,2017,menopause,42-43 Years,16.5
+Pakistan,2017,menopause,44-45 Years,23.8
+Pakistan,2017,menopause,46-47 Years,36.5
+Pakistan,2017,menopause,48-49 Years,39
+Papua New Guinea,2016,menopause,30-34 Years,3.7
+Papua New Guinea,2016,menopause,35-39 Years,4.3
+Papua New Guinea,2016,menopause,40-41 Years,7.9
+Papua New Guinea,2016,menopause,42-43 Years,12.2
+Papua New Guinea,2016,menopause,44-45 Years,14.6
+Papua New Guinea,2016,menopause,46-47 Years,26.7
+Papua New Guinea,2016,menopause,48-49 Years,41.6
+Paraguay,1990,menopause,30-34 Years,0.3
+Paraguay,1990,menopause,35-39 Years,2.4
+Paraguay,1990,menopause,40-41 Years,3.4
+Paraguay,1990,menopause,42-43 Years,8.8
+Paraguay,1990,menopause,44-45 Years,14.1
+Paraguay,1990,menopause,46-47 Years,26.9
+Paraguay,1990,menopause,48-49 Years,43
+Peru,2012,menopause,30-34 Years,5.5
+Peru,2012,menopause,35-39 Years,6.7
+Peru,2012,menopause,40-41 Years,10.5
+Peru,2012,menopause,42-43 Years,14.8
+Peru,2012,menopause,44-45 Years,22.3
+Peru,2012,menopause,46-47 Years,35.1
+Peru,2012,menopause,48-49 Years,57.6
+Philippines,2022,menopause,30-34 Years,1.8
+Philippines,2022,menopause,35-39 Years,2.7
+Philippines,2022,menopause,40-41 Years,2.7
+Philippines,2022,menopause,42-43 Years,3.9
+Philippines,2022,menopause,44-45 Years,5.3
+Philippines,2022,menopause,46-47 Years,13
+Philippines,2022,menopause,48-49 Years,23.1
+Rwanda,2019,menopause,30-34 Years,4.4
+Rwanda,2019,menopause,35-39 Years,5.4
+Rwanda,2019,menopause,40-41 Years,5.5
+Rwanda,2019,menopause,42-43 Years,7.9
+Rwanda,2019,menopause,44-45 Years,9.8
+Rwanda,2019,menopause,46-47 Years,19.3
+Rwanda,2019,menopause,48-49 Years,41.3
+Sao Tome and Principe,2008,menopause,30-34 Years,2.6
+Sao Tome and Principe,2008,menopause,35-39 Years,2.3
+Sao Tome and Principe,2008,menopause,40-41 Years,2.9
+Sao Tome and Principe,2008,menopause,42-43 Years,2.1
+Sao Tome and Principe,2008,menopause,44-45 Years,8.2
+Sao Tome and Principe,2008,menopause,46-47 Years,13.3
+Sao Tome and Principe,2008,menopause,48-49 Years,29.9
+Senegal,2019,menopause,30-34 Years,1.3
+Senegal,2019,menopause,35-39 Years,2.2
+Senegal,2019,menopause,40-41 Years,4.7
+Senegal,2019,menopause,42-43 Years,6.7
+Senegal,2019,menopause,44-45 Years,10.5
+Senegal,2019,menopause,46-47 Years,23.8
+Senegal,2019,menopause,48-49 Years,23.8
+Sierra Leone,2019,menopause,30-34 Years,2.7
+Sierra Leone,2019,menopause,35-39 Years,4.3
+Sierra Leone,2019,menopause,40-41 Years,9.3
+Sierra Leone,2019,menopause,42-43 Years,16.1
+Sierra Leone,2019,menopause,44-45 Years,30.1
+Sierra Leone,2019,menopause,46-47 Years,38.3
+Sierra Leone,2019,menopause,48-49 Years,55.7
+South Africa,2016,menopause,30-34 Years,8.9
+South Africa,2016,menopause,35-39 Years,9.5
+South Africa,2016,menopause,40-41 Years,13.7
+South Africa,2016,menopause,42-43 Years,16.1
+South Africa,2016,menopause,44-45 Years,24.7
+South Africa,2016,menopause,46-47 Years,30.4
+South Africa,2016,menopause,48-49 Years,44.7
+Tajikistan,2017,menopause,30-34 Years,1.1
+Tajikistan,2017,menopause,35-39 Years,2.6
+Tajikistan,2017,menopause,40-41 Years,5.6
+Tajikistan,2017,menopause,42-43 Years,10.5
+Tajikistan,2017,menopause,44-45 Years,17.4
+Tajikistan,2017,menopause,46-47 Years,22.1
+Tajikistan,2017,menopause,48-49 Years,44.4
+Tanzania,2022,menopause,30-34 Years,3.1
+Tanzania,2022,menopause,35-39 Years,4.5
+Tanzania,2022,menopause,40-41 Years,8.2
+Tanzania,2022,menopause,42-43 Years,11
+Tanzania,2022,menopause,44-45 Years,12.1
+Tanzania,2022,menopause,46-47 Years,26.6
+Tanzania,2022,menopause,48-49 Years,46.1
+Timor-Leste,2016,menopause,30-34 Years,6
+Timor-Leste,2016,menopause,35-39 Years,7.3
+Timor-Leste,2016,menopause,40-41 Years,15.5
+Timor-Leste,2016,menopause,42-43 Years,17.2
+Timor-Leste,2016,menopause,44-45 Years,22.8
+Timor-Leste,2016,menopause,46-47 Years,35.5
+Timor-Leste,2016,menopause,48-49 Years,43.3
+Togo,2013,menopause,30-34 Years,1.3
+Togo,2013,menopause,35-39 Years,3.4
+Togo,2013,menopause,40-41 Years,10.6
+Togo,2013,menopause,42-43 Years,12.4
+Togo,2013,menopause,44-45 Years,23
+Togo,2013,menopause,46-47 Years,39.7
+Togo,2013,menopause,48-49 Years,52.5
+Turkey,2013,menopause,30-34 Years,0.4
+Turkey,2013,menopause,35-39 Years,1.5
+Turkey,2013,menopause,40-41 Years,3.8
+Turkey,2013,menopause,42-43 Years,5.6
+Turkey,2013,menopause,44-45 Years,13.1
+Turkey,2013,menopause,46-47 Years,27.3
+Turkey,2013,menopause,48-49 Years,49.1
+Turkmenistan,2000,menopause,30-34 Years,0.9
+Turkmenistan,2000,menopause,35-39 Years,2.6
+Turkmenistan,2000,menopause,40-41 Years,5.3
+Turkmenistan,2000,menopause,42-43 Years,7.9
+Turkmenistan,2000,menopause,44-45 Years,13
+Turkmenistan,2000,menopause,46-47 Years,34.8
+Turkmenistan,2000,menopause,48-49 Years,54.1
+Uganda,2016,menopause,30-34 Years,3.2
+Uganda,2016,menopause,35-39 Years,4.8
+Uganda,2016,menopause,40-41 Years,7.6
+Uganda,2016,menopause,42-43 Years,9.4
+Uganda,2016,menopause,44-45 Years,18.7
+Uganda,2016,menopause,46-47 Years,24.6
+Uganda,2016,menopause,48-49 Years,40
+Ukraine,2007,menopause,30-34 Years,0.7
+Ukraine,2007,menopause,35-39 Years,1.9
+Ukraine,2007,menopause,40-41 Years,3.4
+Ukraine,2007,menopause,42-43 Years,6.8
+Ukraine,2007,menopause,44-45 Years,13.1
+Ukraine,2007,menopause,46-47 Years,21.8
+Ukraine,2007,menopause,48-49 Years,48.3
+Uzbekistan,1996,menopause,30-34 Years,1.1
+Uzbekistan,1996,menopause,35-39 Years,1.5
+Uzbekistan,1996,menopause,40-41 Years,4.6
+Uzbekistan,1996,menopause,42-43 Years,5.2
+Uzbekistan,1996,menopause,44-45 Years,8.7
+Uzbekistan,1996,menopause,46-47 Years,34
+Uzbekistan,1996,menopause,48-49 Years,38.4
+Vietnam,2002,menopause,30-34 Years,0.8
+Vietnam,2002,menopause,35-39 Years,1.1
+Vietnam,2002,menopause,40-41 Years,1.9
+Vietnam,2002,menopause,42-43 Years,2.8
+Vietnam,2002,menopause,44-45 Years,10.7
+Vietnam,2002,menopause,46-47 Years,18.2
+Vietnam,2002,menopause,48-49 Years,35.9
+Yemen,2013,menopause,30-34 Years,2
+Yemen,2013,menopause,35-39 Years,2.6
+Yemen,2013,menopause,40-41 Years,5.6
+Yemen,2013,menopause,42-43 Years,5.6
+Yemen,2013,menopause,44-45 Years,12.5
+Yemen,2013,menopause,46-47 Years,14.5
+Yemen,2013,menopause,48-49 Years,22.3
+Zambia,2018,menopause,30-34 Years,3.8
+Zambia,2018,menopause,35-39 Years,4.3
+Zambia,2018,menopause,40-41 Years,7.6
+Zambia,2018,menopause,42-43 Years,6.2
+Zambia,2018,menopause,44-45 Years,13.7
+Zambia,2018,menopause,46-47 Years,26.4
+Zambia,2018,menopause,48-49 Years,45.5
+Zimbabwe,2015,menopause,30-34 Years,2.7
+Zimbabwe,2015,menopause,35-39 Years,4
+Zimbabwe,2015,menopause,40-41 Years,7.2
+Zimbabwe,2015,menopause,42-43 Years,9.7
+Zimbabwe,2015,menopause,44-45 Years,18.6
+Zimbabwe,2015,menopause,46-47 Years,24.9
+Zimbabwe,2015,menopause,48-49 Years,32.2
