@@ -7,9 +7,7 @@ Period poverty worldwide is exposing women to toxic shock and other significant 
 
 This project is important because it is vital to understand who is being impacted by period poverty and how it is impacting them to address the issue and mitigate harm. Research can help us allocate the right resources to communities of women worldwide. A global perspective is important to calculate how much money would need to be invested into women's health to give them equitable access to period care whether that be re-usable menstrual tools such as period discs, cups and underwear, or disposable period products, in contrast to giving away feminine products that they cannot use.
 
-<p align="center">
-  <img src="assets/images/screenshot.png" alt="Screenshot">
-</p>
+![Screenshot](assets/images/screenshot.png)
 
 -------
 
