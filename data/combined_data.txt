@@ -1,0 +1,2634 @@
+country	survey_year	menarche_age	current_age	value
+Burkina Faso	2021	Age at first menarche: <=10	Total	0.7
+Burkina Faso	2021	Age at first menarche: <=10	15-19	0.9
+Burkina Faso	2021	Age at first menarche: <=10	20-24	0.8
+Burkina Faso	2021	Age at first menarche: <=10	25-29	0.7
+Burkina Faso	2021	Age at first menarche: <=10	30-34	0.5
+Burkina Faso	2021	Age at first menarche: <=10	35-39	0.3
+Burkina Faso	2021	Age at first menarche: <=10	40-44	0.5
+Burkina Faso	2021	Age at first menarche: <=10	45-49	0.6
+Burkina Faso	2021	Age at first menarche: 11	Total	0.7
+Burkina Faso	2021	Age at first menarche: 11	15-19	1.2
+Burkina Faso	2021	Age at first menarche: 11	20-24	0.8
+Burkina Faso	2021	Age at first menarche: 11	25-29	0.6
+Burkina Faso	2021	Age at first menarche: 11	30-34	0.5
+Burkina Faso	2021	Age at first menarche: 11	35-39	0.2
+Burkina Faso	2021	Age at first menarche: 11	40-44	0.4
+Burkina Faso	2021	Age at first menarche: 11	45-49	0.6
+Burkina Faso	2021	Age at first menarche: 12	Total	5.3
+Burkina Faso	2021	Age at first menarche: 12	15-19	7.2
+Burkina Faso	2021	Age at first menarche: 12	20-24	6
+Burkina Faso	2021	Age at first menarche: 12	25-29	5
+Burkina Faso	2021	Age at first menarche: 12	30-34	4
+Burkina Faso	2021	Age at first menarche: 12	35-39	4.7
+Burkina Faso	2021	Age at first menarche: 12	40-44	4.8
+Burkina Faso	2021	Age at first menarche: 12	45-49	3.3
+Burkina Faso	2021	Age at first menarche: 13	Total	10.8
+Burkina Faso	2021	Age at first menarche: 13	15-19	15.1
+Burkina Faso	2021	Age at first menarche: 13	20-24	12.6
+Burkina Faso	2021	Age at first menarche: 13	25-29	10.1
+Burkina Faso	2021	Age at first menarche: 13	30-34	10.4
+Burkina Faso	2021	Age at first menarche: 13	35-39	8.6
+Burkina Faso	2021	Age at first menarche: 13	40-44	6.1
+Burkina Faso	2021	Age at first menarche: 13	45-49	6.6
+Burkina Faso	2021	Age at first menarche: 14	Total	24
+Burkina Faso	2021	Age at first menarche: 14	15-19	28.9
+Burkina Faso	2021	Age at first menarche: 14	20-24	24.3
+Burkina Faso	2021	Age at first menarche: 14	25-29	23.7
+Burkina Faso	2021	Age at first menarche: 14	30-34	25
+Burkina Faso	2021	Age at first menarche: 14	35-39	21.3
+Burkina Faso	2021	Age at first menarche: 14	40-44	19.2
+Burkina Faso	2021	Age at first menarche: 14	45-49	19.4
+Burkina Faso	2021	Age at first menarche: 15	Total	31.9
+Burkina Faso	2021	Age at first menarche: 15	15-19	28.9
+Burkina Faso	2021	Age at first menarche: 15	20-24	30.6
+Burkina Faso	2021	Age at first menarche: 15	25-29	31
+Burkina Faso	2021	Age at first menarche: 15	30-34	31.1
+Burkina Faso	2021	Age at first menarche: 15	35-39	35.2
+Burkina Faso	2021	Age at first menarche: 15	40-44	36.7
+Burkina Faso	2021	Age at first menarche: 15	45-49	35
+Burkina Faso	2021	Age at first menarche: Never	Total	1.5
+Burkina Faso	2021	Age at first menarche: Never	15-19	6.4
+Burkina Faso	2021	Age at first menarche: Never	20-24	0.1
+Burkina Faso	2021	Age at first menarche: Never	25-29	0.1
+Burkina Faso	2021	Age at first menarche: Never	30-34	0
+Burkina Faso	2021	Age at first menarche: Never	35-39	0.2
+Burkina Faso	2021	Age at first menarche: Never	40-44	0.1
+Burkina Faso	2021	Age at first menarche: Never	45-49	0.2
+Burkina Faso	2021	Age at first menarche: Don't know	Total	1.8
+Burkina Faso	2021	Age at first menarche: Don't know	15-19	0.9
+Burkina Faso	2021	Age at first menarche: Don't know	20-24	1.7
+Burkina Faso	2021	Age at first menarche: Don't know	25-29	1.9
+Burkina Faso	2021	Age at first menarche: Don't know	30-34	2.5
+Burkina Faso	2021	Age at first menarche: Don't know	35-39	2.2
+Burkina Faso	2021	Age at first menarche: Don't know	40-44	2.3
+Burkina Faso	2021	Age at first menarche: Don't know	45-49	2.4
+Burkina Faso	2021	Mean age at menarche	Total	14.7
+Burkina Faso	2021	Mean age at menarche	15-19	14.2
+Burkina Faso	2021	Mean age at menarche	20-24	14.6
+Burkina Faso	2021	Mean age at menarche	25-29	14.8
+Burkina Faso	2021	Mean age at menarche	30-34	14.8
+Burkina Faso	2021	Mean age at menarche	35-39	14.9
+Burkina Faso	2021	Mean age at menarche	40-44	15
+Burkina Faso	2021	Mean age at menarche	45-49	15.1
+Cambodia	2021	Age at first menarche: <=10	Total	0.1
+Cambodia	2021	Age at first menarche: <=10	15-19	0.1
+Cambodia	2021	Age at first menarche: <=10	20-24	0.1
+Cambodia	2021	Age at first menarche: <=10	25-29	0.2
+Cambodia	2021	Age at first menarche: <=10	30-34	0.2
+Cambodia	2021	Age at first menarche: <=10	35-39	0.1
+Cambodia	2021	Age at first menarche: <=10	40-44	0.2
+Cambodia	2021	Age at first menarche: <=10	45-49	0
+Cambodia	2021	Age at first menarche: 11	Total	0.5
+Cambodia	2021	Age at first menarche: 11	15-19	1
+Cambodia	2021	Age at first menarche: 11	20-24	0.8
+Cambodia	2021	Age at first menarche: 11	25-29	0.3
+Cambodia	2021	Age at first menarche: 11	30-34	0.3
+Cambodia	2021	Age at first menarche: 11	35-39	0.3
+Cambodia	2021	Age at first menarche: 11	40-44	0.2
+Cambodia	2021	Age at first menarche: 11	45-49	0.2
+Cambodia	2021	Age at first menarche: 12	Total	4.3
+Cambodia	2021	Age at first menarche: 12	15-19	11.1
+Cambodia	2021	Age at first menarche: 12	20-24	6.6
+Cambodia	2021	Age at first menarche: 12	25-29	4.1
+Cambodia	2021	Age at first menarche: 12	30-34	2.8
+Cambodia	2021	Age at first menarche: 12	35-39	1.8
+Cambodia	2021	Age at first menarche: 12	40-44	1.8
+Cambodia	2021	Age at first menarche: 12	45-49	1.3
+Cambodia	2021	Age at first menarche: 13	Total	11.7
+Cambodia	2021	Age at first menarche: 13	15-19	21.3
+Cambodia	2021	Age at first menarche: 13	20-24	14.1
+Cambodia	2021	Age at first menarche: 13	25-29	13.1
+Cambodia	2021	Age at first menarche: 13	30-34	8.5
+Cambodia	2021	Age at first menarche: 13	35-39	9.3
+Cambodia	2021	Age at first menarche: 13	40-44	8.2
+Cambodia	2021	Age at first menarche: 13	45-49	5.3
+Cambodia	2021	Age at first menarche: 14	Total	22
+Cambodia	2021	Age at first menarche: 14	15-19	31.7
+Cambodia	2021	Age at first menarche: 14	20-24	25.4
+Cambodia	2021	Age at first menarche: 14	25-29	23.4
+Cambodia	2021	Age at first menarche: 14	30-34	20.9
+Cambodia	2021	Age at first menarche: 14	35-39	18.3
+Cambodia	2021	Age at first menarche: 14	40-44	17.3
+Cambodia	2021	Age at first menarche: 14	45-49	14.1
+Cambodia	2021	Age at first menarche: 15	Total	21.9
+Cambodia	2021	Age at first menarche: 15	15-19	21.2
+Cambodia	2021	Age at first menarche: 15	20-24	24.4
+Cambodia	2021	Age at first menarche: 15	25-29	23.3
+Cambodia	2021	Age at first menarche: 15	30-34	24
+Cambodia	2021	Age at first menarche: 15	35-39	20.8
+Cambodia	2021	Age at first menarche: 15	40-44	19.4
+Cambodia	2021	Age at first menarche: 15	45-49	19
+Cambodia	2021	Age at first menarche: Never	Total	1.1
+Cambodia	2021	Age at first menarche: Never	15-19	2.2
+Cambodia	2021	Age at first menarche: Never	20-24	0.5
+Cambodia	2021	Age at first menarche: Never	25-29	0.7
+Cambodia	2021	Age at first menarche: Never	30-34	0.7
+Cambodia	2021	Age at first menarche: Never	35-39	0.7
+Cambodia	2021	Age at first menarche: Never	40-44	0.7
+Cambodia	2021	Age at first menarche: Never	45-49	2.4
+Cambodia	2021	Age at first menarche: Don't know	Total	0.8
+Cambodia	2021	Age at first menarche: Don't know	15-19	0.2
+Cambodia	2021	Age at first menarche: Don't know	20-24	1.2
+Cambodia	2021	Age at first menarche: Don't know	25-29	0.7
+Cambodia	2021	Age at first menarche: Don't know	30-34	0.7
+Cambodia	2021	Age at first menarche: Don't know	35-39	0.9
+Cambodia	2021	Age at first menarche: Don't know	40-44	0.9
+Cambodia	2021	Age at first menarche: Don't know	45-49	0.7
+Cambodia	2021	Mean age at menarche	Total	15.1
+Cambodia	2021	Mean age at menarche	15-19	14
+Cambodia	2021	Mean age at menarche	20-24	14.7
+Cambodia	2021	Mean age at menarche	25-29	15
+Cambodia	2021	Mean age at menarche	30-34	15.3
+Cambodia	2021	Mean age at menarche	35-39	15.5
+Cambodia	2021	Mean age at menarche	40-44	15.7
+Cambodia	2021	Mean age at menarche	45-49	16
+Cote d'Ivoire	2021	Age at first menarche: <=10	Total	1.3
+Cote d'Ivoire	2021	Age at first menarche: <=10	15-19	1.7
+Cote d'Ivoire	2021	Age at first menarche: <=10	20-24	1.5
+Cote d'Ivoire	2021	Age at first menarche: <=10	25-29	1.5
+Cote d'Ivoire	2021	Age at first menarche: <=10	30-34	1.2
+Cote d'Ivoire	2021	Age at first menarche: <=10	35-39	1
+Cote d'Ivoire	2021	Age at first menarche: <=10	40-44	0.8
+Cote d'Ivoire	2021	Age at first menarche: <=10	45-49	0.8
+Cote d'Ivoire	2021	Age at first menarche: 11	Total	3.1
+Cote d'Ivoire	2021	Age at first menarche: 11	15-19	3.9
+Cote d'Ivoire	2021	Age at first menarche: 11	20-24	3.3
+Cote d'Ivoire	2021	Age at first menarche: 11	25-29	2.3
+Cote d'Ivoire	2021	Age at first menarche: 11	30-34	3.1
+Cote d'Ivoire	2021	Age at first menarche: 11	35-39	2.4
+Cote d'Ivoire	2021	Age at first menarche: 11	40-44	3.4
+Cote d'Ivoire	2021	Age at first menarche: 11	45-49	2
+Cote d'Ivoire	2021	Age at first menarche: 12	Total	13.1
+Cote d'Ivoire	2021	Age at first menarche: 12	15-19	15
+Cote d'Ivoire	2021	Age at first menarche: 12	20-24	14.1
+Cote d'Ivoire	2021	Age at first menarche: 12	25-29	14.8
+Cote d'Ivoire	2021	Age at first menarche: 12	30-34	10.9
+Cote d'Ivoire	2021	Age at first menarche: 12	35-39	11.9
+Cote d'Ivoire	2021	Age at first menarche: 12	40-44	10.9
+Cote d'Ivoire	2021	Age at first menarche: 12	45-49	11.7
+Cote d'Ivoire	2021	Age at first menarche: 13	Total	22.3
+Cote d'Ivoire	2021	Age at first menarche: 13	15-19	25.6
+Cote d'Ivoire	2021	Age at first menarche: 13	20-24	22.1
+Cote d'Ivoire	2021	Age at first menarche: 13	25-29	21.5
+Cote d'Ivoire	2021	Age at first menarche: 13	30-34	23.2
+Cote d'Ivoire	2021	Age at first menarche: 13	35-39	19.2
+Cote d'Ivoire	2021	Age at first menarche: 13	40-44	22.1
+Cote d'Ivoire	2021	Age at first menarche: 13	45-49	17.6
+Cote d'Ivoire	2021	Age at first menarche: 14	Total	26.4
+Cote d'Ivoire	2021	Age at first menarche: 14	15-19	27.2
+Cote d'Ivoire	2021	Age at first menarche: 14	20-24	24.9
+Cote d'Ivoire	2021	Age at first menarche: 14	25-29	25.4
+Cote d'Ivoire	2021	Age at first menarche: 14	30-34	26.3
+Cote d'Ivoire	2021	Age at first menarche: 14	35-39	27.2
+Cote d'Ivoire	2021	Age at first menarche: 14	40-44	26.8
+Cote d'Ivoire	2021	Age at first menarche: 14	45-49	28.1
+Cote d'Ivoire	2021	Age at first menarche: 15	Total	19.3
+Cote d'Ivoire	2021	Age at first menarche: 15	15-19	17.7
+Cote d'Ivoire	2021	Age at first menarche: 15	20-24	17.9
+Cote d'Ivoire	2021	Age at first menarche: 15	25-29	19.3
+Cote d'Ivoire	2021	Age at first menarche: 15	30-34	19.3
+Cote d'Ivoire	2021	Age at first menarche: 15	35-39	21.7
+Cote d'Ivoire	2021	Age at first menarche: 15	40-44	20.1
+Cote d'Ivoire	2021	Age at first menarche: 15	45-49	23.4
+Cote d'Ivoire	2021	Age at first menarche: Never	Total	0.7
+Cote d'Ivoire	2021	Age at first menarche: Never	15-19	3
+Cote d'Ivoire	2021	Age at first menarche: Never	20-24	0.1
+Cote d'Ivoire	2021	Age at first menarche: Never	25-29	0
+Cote d'Ivoire	2021	Age at first menarche: Never	30-34	0
+Cote d'Ivoire	2021	Age at first menarche: Never	35-39	0
+Cote d'Ivoire	2021	Age at first menarche: Never	40-44	0.2
+Cote d'Ivoire	2021	Age at first menarche: Never	45-49	0.1
+Cote d'Ivoire	2021	Age at first menarche: Don't know	Total	1.1
+Cote d'Ivoire	2021	Age at first menarche: Don't know	15-19	0.6
+Cote d'Ivoire	2021	Age at first menarche: Don't know	20-24	1.4
+Cote d'Ivoire	2021	Age at first menarche: Don't know	25-29	1.3
+Cote d'Ivoire	2021	Age at first menarche: Don't know	30-34	1.2
+Cote d'Ivoire	2021	Age at first menarche: Don't know	35-39	1
+Cote d'Ivoire	2021	Age at first menarche: Don't know	40-44	1
+Cote d'Ivoire	2021	Age at first menarche: Don't know	45-49	0.5
+Cote d'Ivoire	2021	Mean age at menarche	Total	13.9
+Cote d'Ivoire	2021	Mean age at menarche	15-19	13.5
+Cote d'Ivoire	2021	Mean age at menarche	20-24	13.9
+Cote d'Ivoire	2021	Mean age at menarche	25-29	13.9
+Cote d'Ivoire	2021	Mean age at menarche	30-34	14
+Cote d'Ivoire	2021	Mean age at menarche	35-39	14.1
+Cote d'Ivoire	2021	Mean age at menarche	40-44	14
+Cote d'Ivoire	2021	Mean age at menarche	45-49	14.3
+Ghana	2022	Age at first menarche: <=10	Total	1.1
+Ghana	2022	Age at first menarche: <=10	15-19	2.2
+Ghana	2022	Age at first menarche: <=10	20-24	1.2
+Ghana	2022	Age at first menarche: <=10	25-29	0.9
+Ghana	2022	Age at first menarche: <=10	30-34	0.8
+Ghana	2022	Age at first menarche: <=10	35-39	0.9
+Ghana	2022	Age at first menarche: <=10	40-44	0.5
+Ghana	2022	Age at first menarche: <=10	45-49	1
+Ghana	2022	Age at first menarche: 11	Total	2.6
+Ghana	2022	Age at first menarche: 11	15-19	3.8
+Ghana	2022	Age at first menarche: 11	20-24	3.9
+Ghana	2022	Age at first menarche: 11	25-29	2.8
+Ghana	2022	Age at first menarche: 11	30-34	1.9
+Ghana	2022	Age at first menarche: 11	35-39	1.9
+Ghana	2022	Age at first menarche: 11	40-44	1.6
+Ghana	2022	Age at first menarche: 11	45-49	0.7
+Ghana	2022	Age at first menarche: 12	Total	8.7
+Ghana	2022	Age at first menarche: 12	15-19	12.8
+Ghana	2022	Age at first menarche: 12	20-24	10.5
+Ghana	2022	Age at first menarche: 12	25-29	8.7
+Ghana	2022	Age at first menarche: 12	30-34	7.5
+Ghana	2022	Age at first menarche: 12	35-39	6.6
+Ghana	2022	Age at first menarche: 12	40-44	6.2
+Ghana	2022	Age at first menarche: 12	45-49	4.7
+Ghana	2022	Age at first menarche: 13	Total	15.7
+Ghana	2022	Age at first menarche: 13	15-19	24.8
+Ghana	2022	Age at first menarche: 13	20-24	16.9
+Ghana	2022	Age at first menarche: 13	25-29	15.1
+Ghana	2022	Age at first menarche: 13	30-34	14.6
+Ghana	2022	Age at first menarche: 13	35-39	11
+Ghana	2022	Age at first menarche: 13	40-44	10.9
+Ghana	2022	Age at first menarche: 13	45-49	10.9
+Ghana	2022	Age at first menarche: 14	Total	19.6
+Ghana	2022	Age at first menarche: 14	15-19	24.7
+Ghana	2022	Age at first menarche: 14	20-24	18.5
+Ghana	2022	Age at first menarche: 14	25-29	19.5
+Ghana	2022	Age at first menarche: 14	30-34	19.4
+Ghana	2022	Age at first menarche: 14	35-39	18.9
+Ghana	2022	Age at first menarche: 14	40-44	16.6
+Ghana	2022	Age at first menarche: 14	45-49	17.2
+Ghana	2022	Age at first menarche: 15	Total	24.3
+Ghana	2022	Age at first menarche: 15	15-19	21.1
+Ghana	2022	Age at first menarche: 15	20-24	22.9
+Ghana	2022	Age at first menarche: 15	25-29	21.8
+Ghana	2022	Age at first menarche: 15	30-34	24.3
+Ghana	2022	Age at first menarche: 15	35-39	26.1
+Ghana	2022	Age at first menarche: 15	40-44	29.2
+Ghana	2022	Age at first menarche: 15	45-49	29.5
+Ghana	2022	Age at first menarche: Never	Total	0.5
+Ghana	2022	Age at first menarche: Never	15-19	2.5
+Ghana	2022	Age at first menarche: Never	20-24	0.1
+Ghana	2022	Age at first menarche: Never	25-29	0
+Ghana	2022	Age at first menarche: Never	30-34	0.3
+Ghana	2022	Age at first menarche: Never	35-39	0.1
+Ghana	2022	Age at first menarche: Never	40-44	0.3
+Ghana	2022	Age at first menarche: Never	45-49	0
+Ghana	2022	Age at first menarche: Don't know	Total	0.9
+Ghana	2022	Age at first menarche: Don't know	15-19	0.2
+Ghana	2022	Age at first menarche: Don't know	20-24	0.5
+Ghana	2022	Age at first menarche: Don't know	25-29	1
+Ghana	2022	Age at first menarche: Don't know	30-34	0.8
+Ghana	2022	Age at first menarche: Don't know	35-39	1.8
+Ghana	2022	Age at first menarche: Don't know	40-44	1
+Ghana	2022	Age at first menarche: Don't know	45-49	1.1
+Ghana	2022	Mean age at menarche	Total	14.6
+Ghana	2022	Mean age at menarche	15-19	13.7
+Ghana	2022	Mean age at menarche	20-24	14.4
+Ghana	2022	Mean age at menarche	25-29	14.7
+Ghana	2022	Mean age at menarche	30-34	14.7
+Ghana	2022	Mean age at menarche	35-39	15
+Ghana	2022	Mean age at menarche	40-44	15.1
+Ghana	2022	Mean age at menarche	45-49	15.2
+Kenya	2022	Age at first menarche: <=10	Total	0.9
+Kenya	2022	Age at first menarche: <=10	15-19	1.1
+Kenya	2022	Age at first menarche: <=10	20-24	1
+Kenya	2022	Age at first menarche: <=10	25-29	0.9
+Kenya	2022	Age at first menarche: <=10	30-34	1
+Kenya	2022	Age at first menarche: <=10	35-39	0.8
+Kenya	2022	Age at first menarche: <=10	40-44	0.7
+Kenya	2022	Age at first menarche: <=10	45-49	1
+Kenya	2022	Age at first menarche: 11	Total	1.2
+Kenya	2022	Age at first menarche: 11	15-19	1.1
+Kenya	2022	Age at first menarche: 11	20-24	1.5
+Kenya	2022	Age at first menarche: 11	25-29	1.6
+Kenya	2022	Age at first menarche: 11	30-34	1.5
+Kenya	2022	Age at first menarche: 11	35-39	0.5
+Kenya	2022	Age at first menarche: 11	40-44	0.5
+Kenya	2022	Age at first menarche: 11	45-49	1.1
+Kenya	2022	Age at first menarche: 12	Total	9.1
+Kenya	2022	Age at first menarche: 12	15-19	10.1
+Kenya	2022	Age at first menarche: 12	20-24	8.8
+Kenya	2022	Age at first menarche: 12	25-29	9.3
+Kenya	2022	Age at first menarche: 12	30-34	10.1
+Kenya	2022	Age at first menarche: 12	35-39	8.4
+Kenya	2022	Age at first menarche: 12	40-44	8.2
+Kenya	2022	Age at first menarche: 12	45-49	7
+Kenya	2022	Age at first menarche: 13	Total	17.5
+Kenya	2022	Age at first menarche: 13	15-19	19.4
+Kenya	2022	Age at first menarche: 13	20-24	17.7
+Kenya	2022	Age at first menarche: 13	25-29	18.1
+Kenya	2022	Age at first menarche: 13	30-34	15.7
+Kenya	2022	Age at first menarche: 13	35-39	18.4
+Kenya	2022	Age at first menarche: 13	40-44	15.6
+Kenya	2022	Age at first menarche: 13	45-49	14.6
+Kenya	2022	Age at first menarche: 14	Total	23.5
+Kenya	2022	Age at first menarche: 14	15-19	31.8
+Kenya	2022	Age at first menarche: 14	20-24	22.3
+Kenya	2022	Age at first menarche: 14	25-29	21.8
+Kenya	2022	Age at first menarche: 14	30-34	22.6
+Kenya	2022	Age at first menarche: 14	35-39	21.2
+Kenya	2022	Age at first menarche: 14	40-44	20.6
+Kenya	2022	Age at first menarche: 14	45-49	19.1
+Kenya	2022	Age at first menarche: 15	Total	22.8
+Kenya	2022	Age at first menarche: 15	15-19	21.2
+Kenya	2022	Age at first menarche: 15	20-24	23.7
+Kenya	2022	Age at first menarche: 15	25-29	22.6
+Kenya	2022	Age at first menarche: 15	30-34	21.6
+Kenya	2022	Age at first menarche: 15	35-39	23.2
+Kenya	2022	Age at first menarche: 15	40-44	23.6
+Kenya	2022	Age at first menarche: 15	45-49	25
+Kenya	2022	Age at first menarche: Never	Total	0.6
+Kenya	2022	Age at first menarche: Never	15-19	2.6
+Kenya	2022	Age at first menarche: Never	20-24	0.1
+Kenya	2022	Age at first menarche: Never	25-29	0
+Kenya	2022	Age at first menarche: Never	30-34	0.1
+Kenya	2022	Age at first menarche: Never	35-39	0
+Kenya	2022	Age at first menarche: Never	40-44	0.1
+Kenya	2022	Age at first menarche: Never	45-49	0.2
+Kenya	2022	Age at first menarche: Don't know	Total	1.3
+Kenya	2022	Age at first menarche: Don't know	15-19	0.1
+Kenya	2022	Age at first menarche: Don't know	20-24	0.6
+Kenya	2022	Age at first menarche: Don't know	25-29	0.8
+Kenya	2022	Age at first menarche: Don't know	30-34	2.2
+Kenya	2022	Age at first menarche: Don't know	35-39	2.6
+Kenya	2022	Age at first menarche: Don't know	40-44	1.1
+Kenya	2022	Age at first menarche: Don't know	45-49	2.9
+Kenya	2022	Mean age at menarche	Total	14.5
+Kenya	2022	Mean age at menarche	15-19	14
+Kenya	2022	Mean age at menarche	20-24	14.4
+Kenya	2022	Mean age at menarche	25-29	14.5
+Kenya	2022	Mean age at menarche	30-34	14.5
+Kenya	2022	Mean age at menarche	35-39	14.6
+Kenya	2022	Mean age at menarche	40-44	14.7
+Kenya	2022	Mean age at menarche	45-49	14.8
+Mozambique	2022	Age at first menarche: <=10	Total	1.1
+Mozambique	2022	Age at first menarche: <=10	15-19	1.2
+Mozambique	2022	Age at first menarche: <=10	20-24	0.9
+Mozambique	2022	Age at first menarche: <=10	25-29	1.3
+Mozambique	2022	Age at first menarche: <=10	30-34	0.7
+Mozambique	2022	Age at first menarche: <=10	35-39	1.1
+Mozambique	2022	Age at first menarche: <=10	40-44	1.1
+Mozambique	2022	Age at first menarche: <=10	45-49	0.8
+Mozambique	2022	Age at first menarche: 11	Total	4.1
+Mozambique	2022	Age at first menarche: 11	15-19	2.8
+Mozambique	2022	Age at first menarche: 11	20-24	4.8
+Mozambique	2022	Age at first menarche: 11	25-29	4.6
+Mozambique	2022	Age at first menarche: 11	30-34	4.8
+Mozambique	2022	Age at first menarche: 11	35-39	4.9
+Mozambique	2022	Age at first menarche: 11	40-44	3.9
+Mozambique	2022	Age at first menarche: 11	45-49	2.7
+Mozambique	2022	Age at first menarche: 12	Total	15
+Mozambique	2022	Age at first menarche: 12	15-19	15
+Mozambique	2022	Age at first menarche: 12	20-24	15.4
+Mozambique	2022	Age at first menarche: 12	25-29	17.2
+Mozambique	2022	Age at first menarche: 12	30-34	13.1
+Mozambique	2022	Age at first menarche: 12	35-39	14.9
+Mozambique	2022	Age at first menarche: 12	40-44	11.5
+Mozambique	2022	Age at first menarche: 12	45-49	16.7
+Mozambique	2022	Age at first menarche: 13	Total	20.1
+Mozambique	2022	Age at first menarche: 13	15-19	21.4
+Mozambique	2022	Age at first menarche: 13	20-24	22.6
+Mozambique	2022	Age at first menarche: 13	25-29	20.4
+Mozambique	2022	Age at first menarche: 13	30-34	19.8
+Mozambique	2022	Age at first menarche: 13	35-39	18
+Mozambique	2022	Age at first menarche: 13	40-44	17.6
+Mozambique	2022	Age at first menarche: 13	45-49	14.8
+Mozambique	2022	Age at first menarche: 14	Total	23.4
+Mozambique	2022	Age at first menarche: 14	15-19	27.7
+Mozambique	2022	Age at first menarche: 14	20-24	22.7
+Mozambique	2022	Age at first menarche: 14	25-29	22.2
+Mozambique	2022	Age at first menarche: 14	30-34	24.6
+Mozambique	2022	Age at first menarche: 14	35-39	22.6
+Mozambique	2022	Age at first menarche: 14	40-44	19.5
+Mozambique	2022	Age at first menarche: 14	45-49	18.6
+Mozambique	2022	Age at first menarche: 15	Total	16.7
+Mozambique	2022	Age at first menarche: 15	15-19	19.1
+Mozambique	2022	Age at first menarche: 15	20-24	15.2
+Mozambique	2022	Age at first menarche: 15	25-29	15.1
+Mozambique	2022	Age at first menarche: 15	30-34	15.6
+Mozambique	2022	Age at first menarche: 15	35-39	15.1
+Mozambique	2022	Age at first menarche: 15	40-44	18.3
+Mozambique	2022	Age at first menarche: 15	45-49	19.4
+Mozambique	2022	Age at first menarche: Never	Total	0.9
+Mozambique	2022	Age at first menarche: Never	15-19	3.9
+Mozambique	2022	Age at first menarche: Never	20-24	0.1
+Mozambique	2022	Age at first menarche: Never	25-29	0.1
+Mozambique	2022	Age at first menarche: Never	30-34	0
+Mozambique	2022	Age at first menarche: Never	35-39	0
+Mozambique	2022	Age at first menarche: Never	40-44	0.1
+Mozambique	2022	Age at first menarche: Never	45-49	0.1
+Mozambique	2022	Age at first menarche: Don't know	Total	5.8
+Mozambique	2022	Age at first menarche: Don't know	15-19	2
+Mozambique	2022	Age at first menarche: Don't know	20-24	5.4
+Mozambique	2022	Age at first menarche: Don't know	25-29	6.6
+Mozambique	2022	Age at first menarche: Don't know	30-34	7.2
+Mozambique	2022	Age at first menarche: Don't know	35-39	6.3
+Mozambique	2022	Age at first menarche: Don't know	40-44	8.9
+Mozambique	2022	Age at first menarche: Don't know	45-49	10.8
+Mozambique	2022	Mean age at menarche	Total	13.9
+Mozambique	2022	Mean age at menarche	15-19	13.7
+Mozambique	2022	Mean age at menarche	20-24	13.8
+Mozambique	2022	Mean age at menarche	25-29	13.7
+Mozambique	2022	Mean age at menarche	30-34	13.9
+Mozambique	2022	Mean age at menarche	35-39	14
+Mozambique	2022	Mean age at menarche	40-44	14.2
+Mozambique	2022	Mean age at menarche	45-49	14.1
+Nepal	2022	Age at first menarche: <=10	Total	0.8
+Nepal	2022	Age at first menarche: <=10	15-19	1.1
+Nepal	2022	Age at first menarche: <=10	20-24	0.7
+Nepal	2022	Age at first menarche: <=10	25-29	1.2
+Nepal	2022	Age at first menarche: <=10	30-34	0.9
+Nepal	2022	Age at first menarche: <=10	35-39	0.6
+Nepal	2022	Age at first menarche: <=10	40-44	0.3
+Nepal	2022	Age at first menarche: <=10	45-49	0.4
+Nepal	2022	Age at first menarche: 11	Total	3.2
+Nepal	2022	Age at first menarche: 11	15-19	5
+Nepal	2022	Age at first menarche: 11	20-24	3.6
+Nepal	2022	Age at first menarche: 11	25-29	3.2
+Nepal	2022	Age at first menarche: 11	30-34	3
+Nepal	2022	Age at first menarche: 11	35-39	2.5
+Nepal	2022	Age at first menarche: 11	40-44	1.4
+Nepal	2022	Age at first menarche: 11	45-49	2.3
+Nepal	2022	Age at first menarche: 12	Total	17.1
+Nepal	2022	Age at first menarche: 12	15-19	22
+Nepal	2022	Age at first menarche: 12	20-24	18.8
+Nepal	2022	Age at first menarche: 12	25-29	16.6
+Nepal	2022	Age at first menarche: 12	30-34	16.2
+Nepal	2022	Age at first menarche: 12	35-39	15.6
+Nepal	2022	Age at first menarche: 12	40-44	14.8
+Nepal	2022	Age at first menarche: 12	45-49	11
+Nepal	2022	Age at first menarche: 13	Total	26.2
+Nepal	2022	Age at first menarche: 13	15-19	29.7
+Nepal	2022	Age at first menarche: 13	20-24	27
+Nepal	2022	Age at first menarche: 13	25-29	26.6
+Nepal	2022	Age at first menarche: 13	30-34	28.4
+Nepal	2022	Age at first menarche: 13	35-39	24.3
+Nepal	2022	Age at first menarche: 13	40-44	22.7
+Nepal	2022	Age at first menarche: 13	45-49	21.1
+Nepal	2022	Age at first menarche: 14	Total	25
+Nepal	2022	Age at first menarche: 14	15-19	24.5
+Nepal	2022	Age at first menarche: 14	20-24	24.4
+Nepal	2022	Age at first menarche: 14	25-29	25.3
+Nepal	2022	Age at first menarche: 14	30-34	25.3
+Nepal	2022	Age at first menarche: 14	35-39	26.5
+Nepal	2022	Age at first menarche: 14	40-44	25.3
+Nepal	2022	Age at first menarche: 14	45-49	24
+Nepal	2022	Age at first menarche: 15	Total	14.1
+Nepal	2022	Age at first menarche: 15	15-19	11.3
+Nepal	2022	Age at first menarche: 15	20-24	13.6
+Nepal	2022	Age at first menarche: 15	25-29	13.9
+Nepal	2022	Age at first menarche: 15	30-34	14.2
+Nepal	2022	Age at first menarche: 15	35-39	14.5
+Nepal	2022	Age at first menarche: 15	40-44	15.8
+Nepal	2022	Age at first menarche: 15	45-49	18.6
+Nepal	2022	Age at first menarche: Never	Total	0.2
+Nepal	2022	Age at first menarche: Never	15-19	0.8
+Nepal	2022	Age at first menarche: Never	20-24	0
+Nepal	2022	Age at first menarche: Never	25-29	0.2
+Nepal	2022	Age at first menarche: Never	30-34	0
+Nepal	2022	Age at first menarche: Never	35-39	0.1
+Nepal	2022	Age at first menarche: Never	40-44	0
+Nepal	2022	Age at first menarche: Never	45-49	0
+Nepal	2022	Age at first menarche: Don't know	Total	3.4
+Nepal	2022	Age at first menarche: Don't know	15-19	1.6
+Nepal	2022	Age at first menarche: Don't know	20-24	3.5
+Nepal	2022	Age at first menarche: Don't know	25-29	4.1
+Nepal	2022	Age at first menarche: Don't know	30-34	3
+Nepal	2022	Age at first menarche: Don't know	35-39	4.3
+Nepal	2022	Age at first menarche: Don't know	40-44	3.9
+Nepal	2022	Age at first menarche: Don't know	45-49	4.4
+Nepal	2022	Mean age at menarche	Total	13.6
+Nepal	2022	Mean age at menarche	15-19	13.2
+Nepal	2022	Mean age at menarche	20-24	13.5
+Nepal	2022	Mean age at menarche	25-29	13.6
+Nepal	2022	Mean age at menarche	30-34	13.6
+Nepal	2022	Mean age at menarche	35-39	13.8
+Nepal	2022	Mean age at menarche	40-44	14
+Nepal	2022	Mean age at menarche	45-49	14.1
+Philippines	2022	Age at first menarche: <=10	Total	4.5
+Philippines	2022	Age at first menarche: <=10	15-19	5.2
+Philippines	2022	Age at first menarche: <=10	20-24	5.2
+Philippines	2022	Age at first menarche: <=10	25-29	5.1
+Philippines	2022	Age at first menarche: <=10	30-34	4.8
+Philippines	2022	Age at first menarche: <=10	35-39	3.1
+Philippines	2022	Age at first menarche: <=10	40-44	3.4
+Philippines	2022	Age at first menarche: <=10	45-49	3.7
+Philippines	2022	Age at first menarche: 11	Total	9.8
+Philippines	2022	Age at first menarche: 11	15-19	11.5
+Philippines	2022	Age at first menarche: 11	20-24	10.3
+Philippines	2022	Age at first menarche: 11	25-29	11.2
+Philippines	2022	Age at first menarche: 11	30-34	8.3
+Philippines	2022	Age at first menarche: 11	35-39	8.9
+Philippines	2022	Age at first menarche: 11	40-44	7.3
+Philippines	2022	Age at first menarche: 11	45-49	10.1
+Philippines	2022	Age at first menarche: 12	Total	27.6
+Philippines	2022	Age at first menarche: 12	15-19	31.1
+Philippines	2022	Age at first menarche: 12	20-24	27.4
+Philippines	2022	Age at first menarche: 12	25-29	28.5
+Philippines	2022	Age at first menarche: 12	30-34	28.9
+Philippines	2022	Age at first menarche: 12	35-39	27.1
+Philippines	2022	Age at first menarche: 12	40-44	26.8
+Philippines	2022	Age at first menarche: 12	45-49	21.1
+Philippines	2022	Age at first menarche: 13	Total	25.6
+Philippines	2022	Age at first menarche: 13	15-19	27.3
+Philippines	2022	Age at first menarche: 13	20-24	28.1
+Philippines	2022	Age at first menarche: 13	25-29	22.2
+Philippines	2022	Age at first menarche: 13	30-34	24.4
+Philippines	2022	Age at first menarche: 13	35-39	26.9
+Philippines	2022	Age at first menarche: 13	40-44	24
+Philippines	2022	Age at first menarche: 13	45-49	24.6
+Philippines	2022	Age at first menarche: 14	Total	15.8
+Philippines	2022	Age at first menarche: 14	15-19	14.6
+Philippines	2022	Age at first menarche: 14	20-24	13.7
+Philippines	2022	Age at first menarche: 14	25-29	15.8
+Philippines	2022	Age at first menarche: 14	30-34	17.9
+Philippines	2022	Age at first menarche: 14	35-39	15.1
+Philippines	2022	Age at first menarche: 14	40-44	17.6
+Philippines	2022	Age at first menarche: 14	45-49	17.5
+Philippines	2022	Age at first menarche: 15	Total	8.9
+Philippines	2022	Age at first menarche: 15	15-19	7.2
+Philippines	2022	Age at first menarche: 15	20-24	7.8
+Philippines	2022	Age at first menarche: 15	25-29	8.9
+Philippines	2022	Age at first menarche: 15	30-34	8.6
+Philippines	2022	Age at first menarche: 15	35-39	10.8
+Philippines	2022	Age at first menarche: 15	40-44	9.8
+Philippines	2022	Age at first menarche: 15	45-49	10.7
+Philippines	2022	Age at first menarche: Never	Total	0.2
+Philippines	2022	Age at first menarche: Never	15-19	0.4
+Philippines	2022	Age at first menarche: Never	20-24	0.1
+Philippines	2022	Age at first menarche: Never	25-29	0.1
+Philippines	2022	Age at first menarche: Never	30-34	0.2
+Philippines	2022	Age at first menarche: Never	35-39	0.2
+Philippines	2022	Age at first menarche: Never	40-44	0
+Philippines	2022	Age at first menarche: Never	45-49	0.1
+Philippines	2022	Age at first menarche: Don't know	Total	0.1
+Philippines	2022	Age at first menarche: Don't know	15-19	0
+Philippines	2022	Age at first menarche: Don't know	20-24	0
+Philippines	2022	Age at first menarche: Don't know	25-29	0
+Philippines	2022	Age at first menarche: Don't know	30-34	0.1
+Philippines	2022	Age at first menarche: Don't know	35-39	0
+Philippines	2022	Age at first menarche: Don't know	40-44	0.1
+Philippines	2022	Age at first menarche: Don't know	45-49	0.1
+Philippines	2022	Mean age at menarche	Total	13
+Philippines	2022	Mean age at menarche	15-19	12.7
+Philippines	2022	Mean age at menarche	20-24	12.9
+Philippines	2022	Mean age at menarche	25-29	13
+Philippines	2022	Mean age at menarche	30-34	13
+Philippines	2022	Mean age at menarche	35-39	13.2
+Philippines	2022	Mean age at menarche	40-44	13.3
+Philippines	2022	Mean age at menarche	45-49	13.4
+Tanzania	2022	Age at first menarche: <=10	Total	0.4
+Tanzania	2022	Age at first menarche: <=10	15-19	0.4
+Tanzania	2022	Age at first menarche: <=10	20-24	0.6
+Tanzania	2022	Age at first menarche: <=10	25-29	0.3
+Tanzania	2022	Age at first menarche: <=10	30-34	0.6
+Tanzania	2022	Age at first menarche: <=10	35-39	0.4
+Tanzania	2022	Age at first menarche: <=10	40-44	0.1
+Tanzania	2022	Age at first menarche: <=10	45-49	0.6
+Tanzania	2022	Age at first menarche: 11	Total	0.9
+Tanzania	2022	Age at first menarche: 11	15-19	1.1
+Tanzania	2022	Age at first menarche: 11	20-24	0.9
+Tanzania	2022	Age at first menarche: 11	25-29	0.9
+Tanzania	2022	Age at first menarche: 11	30-34	0.5
+Tanzania	2022	Age at first menarche: 11	35-39	1
+Tanzania	2022	Age at first menarche: 11	40-44	0.7
+Tanzania	2022	Age at first menarche: 11	45-49	0.8
+Tanzania	2022	Age at first menarche: 12	Total	4.8
+Tanzania	2022	Age at first menarche: 12	15-19	6.2
+Tanzania	2022	Age at first menarche: 12	20-24	5.7
+Tanzania	2022	Age at first menarche: 12	25-29	3.9
+Tanzania	2022	Age at first menarche: 12	30-34	4.3
+Tanzania	2022	Age at first menarche: 12	35-39	3.5
+Tanzania	2022	Age at first menarche: 12	40-44	3.9
+Tanzania	2022	Age at first menarche: 12	45-49	5.4
+Tanzania	2022	Age at first menarche: 13	Total	13.2
+Tanzania	2022	Age at first menarche: 13	15-19	17.5
+Tanzania	2022	Age at first menarche: 13	20-24	14.7
+Tanzania	2022	Age at first menarche: 13	25-29	13.4
+Tanzania	2022	Age at first menarche: 13	30-34	11.9
+Tanzania	2022	Age at first menarche: 13	35-39	11.1
+Tanzania	2022	Age at first menarche: 13	40-44	10.6
+Tanzania	2022	Age at first menarche: 13	45-49	8
+Tanzania	2022	Age at first menarche: 14	Total	27.1
+Tanzania	2022	Age at first menarche: 14	15-19	32.3
+Tanzania	2022	Age at first menarche: 14	20-24	27.7
+Tanzania	2022	Age at first menarche: 14	25-29	30.1
+Tanzania	2022	Age at first menarche: 14	30-34	26.7
+Tanzania	2022	Age at first menarche: 14	35-39	24.7
+Tanzania	2022	Age at first menarche: 14	40-44	20.1
+Tanzania	2022	Age at first menarche: 14	45-49	21.2
+Tanzania	2022	Age at first menarche: 15	Total	24.2
+Tanzania	2022	Age at first menarche: 15	15-19	22.3
+Tanzania	2022	Age at first menarche: 15	20-24	23.4
+Tanzania	2022	Age at first menarche: 15	25-29	22.9
+Tanzania	2022	Age at first menarche: 15	30-34	23.7
+Tanzania	2022	Age at first menarche: 15	35-39	24.8
+Tanzania	2022	Age at first menarche: 15	40-44	27.6
+Tanzania	2022	Age at first menarche: 15	45-49	28.4
+Tanzania	2022	Age at first menarche: Never	Total	2.1
+Tanzania	2022	Age at first menarche: Never	15-19	6.7
+Tanzania	2022	Age at first menarche: Never	20-24	0.6
+Tanzania	2022	Age at first menarche: Never	25-29	0.6
+Tanzania	2022	Age at first menarche: Never	30-34	0.7
+Tanzania	2022	Age at first menarche: Never	35-39	1.4
+Tanzania	2022	Age at first menarche: Never	40-44	1.1
+Tanzania	2022	Age at first menarche: Never	45-49	1.6
+Tanzania	2022	Age at first menarche: Don't know	Total	1.5
+Tanzania	2022	Age at first menarche: Don't know	15-19	0.6
+Tanzania	2022	Age at first menarche: Don't know	20-24	0.9
+Tanzania	2022	Age at first menarche: Don't know	25-29	1.8
+Tanzania	2022	Age at first menarche: Don't know	30-34	1.7
+Tanzania	2022	Age at first menarche: Don't know	35-39	2.1
+Tanzania	2022	Age at first menarche: Don't know	40-44	2.9
+Tanzania	2022	Age at first menarche: Don't know	45-49	2.2
+Tanzania	2022	Mean age at menarche	Total	14.7
+Tanzania	2022	Mean age at menarche	15-19	14.2
+Tanzania	2022	Mean age at menarche	20-24	14.6
+Tanzania	2022	Mean age at menarche	25-29	14.7
+Tanzania	2022	Mean age at menarche	30-34	14.9
+Tanzania	2022	Mean age at menarche	35-39	15
+Tanzania	2022	Mean age at menarche	40-44	15.1
+Tanzania	2022	Mean age at menarche	45-49	15
+	NA			NA
+Percentage of women whose first menstruation occurred by age 10 or younger	NA			NA
+Percentage of women whose first menstruation occurred by age 11	NA			NA
+Percentage of women whose first menstruation occurred by age 12	NA			NA
+Percentage of women whose first menstruation occurred by age 13	NA			NA
+Percentage of women whose first menstruation occurred by age 14	NA			NA
+Percentage of women whose first menstruation occurred by age 15	NA			NA
+Percentage of women who have never menstruated	NA			NA
+Percentage of women who don't know their age of first menstruation	NA			NA
+Mean age at menarche	NA			NA
+	NA			NA
+Afghanistan	2015	Age at menopause: 30-34	NA	2
+Afghanistan	2015	Age at menopause: 35-39	NA	4.9
+Afghanistan	2015	Age at menopause: 40-41	NA	14
+Afghanistan	2015	Age at menopause: 42-43	NA	16.5
+Afghanistan	2015	Age at menopause: 44-45	NA	26.8
+Afghanistan	2015	Age at menopause: 46-47	NA	28.8
+Afghanistan	2015	Age at menopause: 48-49	NA	50.1
+Albania	2017	Age at menopause: 30-34	NA	1.4
+Albania	2017	Age at menopause: 35-39	NA	3
+Albania	2017	Age at menopause: 40-41	NA	4.6
+Albania	2017	Age at menopause: 42-43	NA	4.8
+Albania	2017	Age at menopause: 44-45	NA	9.6
+Albania	2017	Age at menopause: 46-47	NA	22.9
+Albania	2017	Age at menopause: 48-49	NA	30
+Albania	2008	Age at menopause: 30-34	NA	0.8
+Albania	2008	Age at menopause: 35-39	NA	2.3
+Albania	2008	Age at menopause: 40-41	NA	5.4
+Albania	2008	Age at menopause: 42-43	NA	6
+Albania	2008	Age at menopause: 44-45	NA	8.3
+Albania	2008	Age at menopause: 46-47	NA	23.6
+Albania	2008	Age at menopause: 48-49	NA	37.2
+Angola	2015	Age at menopause: 30-34	NA	4.2
+Angola	2015	Age at menopause: 35-39	NA	6.5
+Angola	2015	Age at menopause: 40-41	NA	12.7
+Angola	2015	Age at menopause: 42-43	NA	18.3
+Angola	2015	Age at menopause: 44-45	NA	33.7
+Angola	2015	Age at menopause: 46-47	NA	41.4
+Angola	2015	Age at menopause: 48-49	NA	50.7
+Armenia	2015	Age at menopause: 30-34	NA	1.1
+Armenia	2015	Age at menopause: 35-39	NA	2.8
+Armenia	2015	Age at menopause: 40-41	NA	6.2
+Armenia	2015	Age at menopause: 42-43	NA	6
+Armenia	2015	Age at menopause: 44-45	NA	13.6
+Armenia	2015	Age at menopause: 46-47	NA	17.5
+Armenia	2015	Age at menopause: 48-49	NA	37.4
+Armenia	2010	Age at menopause: 30-34	NA	0.6
+Armenia	2010	Age at menopause: 35-39	NA	2.6
+Armenia	2010	Age at menopause: 40-41	NA	4.9
+Armenia	2010	Age at menopause: 42-43	NA	7.1
+Armenia	2010	Age at menopause: 44-45	NA	8.6
+Armenia	2010	Age at menopause: 46-47	NA	17.4
+Armenia	2010	Age at menopause: 48-49	NA	35.9
+Armenia	2005	Age at menopause: 30-34	NA	1.5
+Armenia	2005	Age at menopause: 35-39	NA	2.6
+Armenia	2005	Age at menopause: 40-41	NA	3.9
+Armenia	2005	Age at menopause: 42-43	NA	10.6
+Armenia	2005	Age at menopause: 44-45	NA	14.4
+Armenia	2005	Age at menopause: 46-47	NA	19.7
+Armenia	2005	Age at menopause: 48-49	NA	30.6
+Armenia	2000	Age at menopause: 30-34	NA	0.7
+Armenia	2000	Age at menopause: 35-39	NA	0.7
+Armenia	2000	Age at menopause: 40-41	NA	3.8
+Armenia	2000	Age at menopause: 42-43	NA	5.7
+Armenia	2000	Age at menopause: 44-45	NA	13.4
+Armenia	2000	Age at menopause: 46-47	NA	16.6
+Armenia	2000	Age at menopause: 48-49	NA	31.8
+Azerbaijan	2006	Age at menopause: 30-34	NA	0.4
+Azerbaijan	2006	Age at menopause: 35-39	NA	3.2
+Azerbaijan	2006	Age at menopause: 40-41	NA	5.9
+Azerbaijan	2006	Age at menopause: 42-43	NA	9
+Azerbaijan	2006	Age at menopause: 44-45	NA	16.2
+Azerbaijan	2006	Age at menopause: 46-47	NA	32.1
+Azerbaijan	2006	Age at menopause: 48-49	NA	46.6
+Bangladesh	2017	Age at menopause: 30-34	NA	6.9
+Bangladesh	2017	Age at menopause: 35-39	NA	12.9
+Bangladesh	2017	Age at menopause: 40-41	NA	21.1
+Bangladesh	2017	Age at menopause: 42-43	NA	26.6
+Bangladesh	2017	Age at menopause: 44-45	NA	40.1
+Bangladesh	2017	Age at menopause: 46-47	NA	50.4
+Bangladesh	2017	Age at menopause: 48-49	NA	65.4
+Bangladesh	2014	Age at menopause: 30-34	NA	7.7
+Bangladesh	2014	Age at menopause: 35-39	NA	12.7
+Bangladesh	2014	Age at menopause: 40-41	NA	23.5
+Bangladesh	2014	Age at menopause: 42-43	NA	27.6
+Bangladesh	2014	Age at menopause: 44-45	NA	37.8
+Bangladesh	2014	Age at menopause: 46-47	NA	55.3
+Bangladesh	2014	Age at menopause: 48-49	NA	68.4
+Bangladesh	2011	Age at menopause: 30-34	NA	6.7
+Bangladesh	2011	Age at menopause: 35-39	NA	10.4
+Bangladesh	2011	Age at menopause: 40-41	NA	15.6
+Bangladesh	2011	Age at menopause: 42-43	NA	25.8
+Bangladesh	2011	Age at menopause: 44-45	NA	34.5
+Bangladesh	2011	Age at menopause: 46-47	NA	50.1
+Bangladesh	2011	Age at menopause: 48-49	NA	61.8
+Bangladesh	2007	Age at menopause: 30-34	NA	4.9
+Bangladesh	2007	Age at menopause: 35-39	NA	8
+Bangladesh	2007	Age at menopause: 40-41	NA	19.1
+Bangladesh	2007	Age at menopause: 42-43	NA	24.8
+Bangladesh	2007	Age at menopause: 44-45	NA	32.5
+Bangladesh	2007	Age at menopause: 46-47	NA	45.5
+Bangladesh	2007	Age at menopause: 48-49	NA	61.3
+Bangladesh	2004	Age at menopause: 30-34	NA	4.8
+Bangladesh	2004	Age at menopause: 35-39	NA	8.7
+Bangladesh	2004	Age at menopause: 40-41	NA	16.9
+Bangladesh	2004	Age at menopause: 42-43	NA	21.6
+Bangladesh	2004	Age at menopause: 44-45	NA	25.2
+Bangladesh	2004	Age at menopause: 46-47	NA	41.4
+Bangladesh	2004	Age at menopause: 48-49	NA	63.9
+Bangladesh	1999	Age at menopause: 30-34	NA	5.1
+Bangladesh	1999	Age at menopause: 35-39	NA	6.2
+Bangladesh	1999	Age at menopause: 40-41	NA	11
+Bangladesh	1999	Age at menopause: 42-43	NA	12.9
+Bangladesh	1999	Age at menopause: 44-45	NA	29.3
+Bangladesh	1999	Age at menopause: 46-47	NA	39.6
+Bangladesh	1999	Age at menopause: 48-49	NA	56.1
+Bangladesh	1996	Age at menopause: 30-34	NA	3.5
+Bangladesh	1996	Age at menopause: 35-39	NA	4.5
+Bangladesh	1996	Age at menopause: 40-41	NA	9.6
+Bangladesh	1996	Age at menopause: 42-43	NA	18.9
+Bangladesh	1996	Age at menopause: 44-45	NA	32.1
+Bangladesh	1996	Age at menopause: 46-47	NA	42.9
+Bangladesh	1996	Age at menopause: 48-49	NA	53.7
+Bangladesh	1993	Age at menopause: 30-34	NA	2.7
+Bangladesh	1993	Age at menopause: 35-39	NA	5.3
+Bangladesh	1993	Age at menopause: 40-41	NA	12.4
+Bangladesh	1993	Age at menopause: 42-43	NA	15.3
+Bangladesh	1993	Age at menopause: 44-45	NA	25.9
+Bangladesh	1993	Age at menopause: 46-47	NA	39
+Bangladesh	1993	Age at menopause: 48-49	NA	50.3
+Benin	2017	Age at menopause: 30-34	NA	1.3
+Benin	2017	Age at menopause: 35-39	NA	3
+Benin	2017	Age at menopause: 40-41	NA	8.3
+Benin	2017	Age at menopause: 42-43	NA	15.8
+Benin	2017	Age at menopause: 44-45	NA	20.9
+Benin	2017	Age at menopause: 46-47	NA	35.5
+Benin	2017	Age at menopause: 48-49	NA	52.6
+Benin	2011	Age at menopause: 30-34	NA	1.7
+Benin	2011	Age at menopause: 35-39	NA	4.4
+Benin	2011	Age at menopause: 40-41	NA	14.6
+Benin	2011	Age at menopause: 42-43	NA	20.3
+Benin	2011	Age at menopause: 44-45	NA	34.9
+Benin	2011	Age at menopause: 46-47	NA	49
+Benin	2011	Age at menopause: 48-49	NA	53.8
+Benin	2006	Age at menopause: 30-34	NA	0.7
+Benin	2006	Age at menopause: 35-39	NA	3.3
+Benin	2006	Age at menopause: 40-41	NA	10.1
+Benin	2006	Age at menopause: 42-43	NA	13.4
+Benin	2006	Age at menopause: 44-45	NA	23.6
+Benin	2006	Age at menopause: 46-47	NA	38.7
+Benin	2006	Age at menopause: 48-49	NA	58.4
+Benin	2001	Age at menopause: 30-34	NA	0.8
+Benin	2001	Age at menopause: 35-39	NA	3.3
+Benin	2001	Age at menopause: 40-41	NA	7
+Benin	2001	Age at menopause: 42-43	NA	16.6
+Benin	2001	Age at menopause: 44-45	NA	25.8
+Benin	2001	Age at menopause: 46-47	NA	38.1
+Benin	2001	Age at menopause: 48-49	NA	43.8
+Benin	1996	Age at menopause: 30-34	NA	1.1
+Benin	1996	Age at menopause: 35-39	NA	3.2
+Benin	1996	Age at menopause: 40-41	NA	13.1
+Benin	1996	Age at menopause: 42-43	NA	15.7
+Benin	1996	Age at menopause: 44-45	NA	23
+Benin	1996	Age at menopause: 46-47	NA	36.7
+Benin	1996	Age at menopause: 48-49	NA	61
+Bolivia	2008	Age at menopause: 30-34	NA	4.4
+Bolivia	2008	Age at menopause: 35-39	NA	5.5
+Bolivia	2008	Age at menopause: 40-41	NA	9.3
+Bolivia	2008	Age at menopause: 42-43	NA	14
+Bolivia	2008	Age at menopause: 44-45	NA	24.6
+Bolivia	2008	Age at menopause: 46-47	NA	38.8
+Bolivia	2008	Age at menopause: 48-49	NA	57
+Bolivia	2003	Age at menopause: 30-34	NA	4.4
+Bolivia	2003	Age at menopause: 35-39	NA	4.3
+Bolivia	2003	Age at menopause: 40-41	NA	8.3
+Bolivia	2003	Age at menopause: 42-43	NA	12
+Bolivia	2003	Age at menopause: 44-45	NA	20.3
+Bolivia	2003	Age at menopause: 46-47	NA	37.5
+Bolivia	2003	Age at menopause: 48-49	NA	55.2
+Bolivia	1998	Age at menopause: 30-34	NA	0.8
+Bolivia	1998	Age at menopause: 35-39	NA	2.5
+Bolivia	1998	Age at menopause: 40-41	NA	9.1
+Bolivia	1998	Age at menopause: 42-43	NA	10.2
+Bolivia	1998	Age at menopause: 44-45	NA	23.3
+Bolivia	1998	Age at menopause: 46-47	NA	36.2
+Bolivia	1998	Age at menopause: 48-49	NA	56.4
+Bolivia	1994	Age at menopause: 30-34	NA	0.9
+Bolivia	1994	Age at menopause: 35-39	NA	1.6
+Bolivia	1994	Age at menopause: 40-41	NA	8.4
+Bolivia	1994	Age at menopause: 42-43	NA	12.2
+Bolivia	1994	Age at menopause: 44-45	NA	25.5
+Bolivia	1994	Age at menopause: 46-47	NA	50.1
+Bolivia	1994	Age at menopause: 48-49	NA	63.7
+Brazil	1996	Age at menopause: 30-34	NA	1.9
+Brazil	1996	Age at menopause: 35-39	NA	3.8
+Brazil	1996	Age at menopause: 40-41	NA	10.1
+Brazil	1996	Age at menopause: 42-43	NA	11.8
+Brazil	1996	Age at menopause: 44-45	NA	17.3
+Brazil	1996	Age at menopause: 46-47	NA	28.2
+Brazil	1996	Age at menopause: 48-49	NA	43
+Burkina Faso	2021	Age at menopause: 30-34	NA	1.6
+Burkina Faso	2021	Age at menopause: 35-39	NA	3
+Burkina Faso	2021	Age at menopause: 40-41	NA	7.5
+Burkina Faso	2021	Age at menopause: 42-43	NA	12.3
+Burkina Faso	2021	Age at menopause: 44-45	NA	23.8
+Burkina Faso	2021	Age at menopause: 46-47	NA	36.9
+Burkina Faso	2021	Age at menopause: 48-49	NA	49.5
+Burkina Faso	2010	Age at menopause: 30-34	NA	1.3
+Burkina Faso	2010	Age at menopause: 35-39	NA	2.5
+Burkina Faso	2010	Age at menopause: 40-41	NA	6.3
+Burkina Faso	2010	Age at menopause: 42-43	NA	10.5
+Burkina Faso	2010	Age at menopause: 44-45	NA	23.4
+Burkina Faso	2010	Age at menopause: 46-47	NA	33.5
+Burkina Faso	2010	Age at menopause: 48-49	NA	58.7
+Burkina Faso	2003	Age at menopause: 30-34	NA	1.3
+Burkina Faso	2003	Age at menopause: 35-39	NA	1.5
+Burkina Faso	2003	Age at menopause: 40-41	NA	6.5
+Burkina Faso	2003	Age at menopause: 42-43	NA	13.6
+Burkina Faso	2003	Age at menopause: 44-45	NA	21.9
+Burkina Faso	2003	Age at menopause: 46-47	NA	32.7
+Burkina Faso	2003	Age at menopause: 48-49	NA	46.5
+Burkina Faso	1998	Age at menopause: 30-34	NA	1.3
+Burkina Faso	1998	Age at menopause: 35-39	NA	2.8
+Burkina Faso	1998	Age at menopause: 40-41	NA	7.7
+Burkina Faso	1998	Age at menopause: 42-43	NA	14.2
+Burkina Faso	1998	Age at menopause: 44-45	NA	22.4
+Burkina Faso	1998	Age at menopause: 46-47	NA	40
+Burkina Faso	1998	Age at menopause: 48-49	NA	51.6
+Burkina Faso	1993	Age at menopause: 30-34	NA	1
+Burkina Faso	1993	Age at menopause: 35-39	NA	1.7
+Burkina Faso	1993	Age at menopause: 40-41	NA	8.3
+Burkina Faso	1993	Age at menopause: 42-43	NA	14.4
+Burkina Faso	1993	Age at menopause: 44-45	NA	24.9
+Burkina Faso	1993	Age at menopause: 46-47	NA	37.8
+Burkina Faso	1993	Age at menopause: 48-49	NA	50.3
+Burundi	2016	Age at menopause: 30-34	NA	2.2
+Burundi	2016	Age at menopause: 35-39	NA	2.6
+Burundi	2016	Age at menopause: 40-41	NA	6.2
+Burundi	2016	Age at menopause: 42-43	NA	9.1
+Burundi	2016	Age at menopause: 44-45	NA	16.3
+Burundi	2016	Age at menopause: 46-47	NA	24
+Burundi	2016	Age at menopause: 48-49	NA	38.7
+Burundi	2010	Age at menopause: 30-34	NA	2.5
+Burundi	2010	Age at menopause: 35-39	NA	2.3
+Burundi	2010	Age at menopause: 40-41	NA	7.2
+Burundi	2010	Age at menopause: 42-43	NA	5.4
+Burundi	2010	Age at menopause: 44-45	NA	14.5
+Burundi	2010	Age at menopause: 46-47	NA	26.3
+Burundi	2010	Age at menopause: 48-49	NA	35.4
+Cambodia	2021	Age at menopause: 30-34	NA	3.3
+Cambodia	2021	Age at menopause: 35-39	NA	6.1
+Cambodia	2021	Age at menopause: 40-41	NA	6.2
+Cambodia	2021	Age at menopause: 42-43	NA	9.2
+Cambodia	2021	Age at menopause: 44-45	NA	13.3
+Cambodia	2021	Age at menopause: 46-47	NA	20.6
+Cambodia	2021	Age at menopause: 48-49	NA	34.6
+Cambodia	2014	Age at menopause: 30-34	NA	5.5
+Cambodia	2014	Age at menopause: 35-39	NA	7
+Cambodia	2014	Age at menopause: 40-41	NA	9.8
+Cambodia	2014	Age at menopause: 42-43	NA	10.3
+Cambodia	2014	Age at menopause: 44-45	NA	11.9
+Cambodia	2014	Age at menopause: 46-47	NA	21.8
+Cambodia	2014	Age at menopause: 48-49	NA	39
+Cambodia	2010	Age at menopause: 30-34	NA	5.7
+Cambodia	2010	Age at menopause: 35-39	NA	7.2
+Cambodia	2010	Age at menopause: 40-41	NA	9
+Cambodia	2010	Age at menopause: 42-43	NA	8.1
+Cambodia	2010	Age at menopause: 44-45	NA	11.6
+Cambodia	2010	Age at menopause: 46-47	NA	18.8
+Cambodia	2010	Age at menopause: 48-49	NA	37.3
+Cambodia	2005	Age at menopause: 30-34	NA	4
+Cambodia	2005	Age at menopause: 35-39	NA	5.6
+Cambodia	2005	Age at menopause: 40-41	NA	5.6
+Cambodia	2005	Age at menopause: 42-43	NA	8.3
+Cambodia	2005	Age at menopause: 44-45	NA	10.9
+Cambodia	2005	Age at menopause: 46-47	NA	24.6
+Cambodia	2005	Age at menopause: 48-49	NA	40.8
+Cambodia	2000	Age at menopause: 30-34	NA	3.3
+Cambodia	2000	Age at menopause: 35-39	NA	4.5
+Cambodia	2000	Age at menopause: 40-41	NA	5.9
+Cambodia	2000	Age at menopause: 42-43	NA	9.5
+Cambodia	2000	Age at menopause: 44-45	NA	14.5
+Cambodia	2000	Age at menopause: 46-47	NA	23
+Cambodia	2000	Age at menopause: 48-49	NA	44.4
+Cameroon	2018	Age at menopause: 30-34	NA	1.5
+Cameroon	2018	Age at menopause: 35-39	NA	2.3
+Cameroon	2018	Age at menopause: 40-41	NA	4.9
+Cameroon	2018	Age at menopause: 42-43	NA	11.8
+Cameroon	2018	Age at menopause: 44-45	NA	21.1
+Cameroon	2018	Age at menopause: 46-47	NA	31
+Cameroon	2018	Age at menopause: 48-49	NA	49
+Cameroon	2011	Age at menopause: 30-34	NA	0.8
+Cameroon	2011	Age at menopause: 35-39	NA	3.1
+Cameroon	2011	Age at menopause: 40-41	NA	6.8
+Cameroon	2011	Age at menopause: 42-43	NA	9.6
+Cameroon	2011	Age at menopause: 44-45	NA	19.5
+Cameroon	2011	Age at menopause: 46-47	NA	30
+Cameroon	2011	Age at menopause: 48-49	NA	51
+Cameroon	2004	Age at menopause: 30-34	NA	0.5
+Cameroon	2004	Age at menopause: 35-39	NA	1.6
+Cameroon	2004	Age at menopause: 40-41	NA	7.8
+Cameroon	2004	Age at menopause: 42-43	NA	10.3
+Cameroon	2004	Age at menopause: 44-45	NA	25.1
+Cameroon	2004	Age at menopause: 46-47	NA	24.1
+Cameroon	2004	Age at menopause: 48-49	NA	44.8
+Cameroon	1998	Age at menopause: 30-34	NA	0.8
+Cameroon	1998	Age at menopause: 35-39	NA	1.5
+Cameroon	1998	Age at menopause: 40-41	NA	10.4
+Cameroon	1998	Age at menopause: 42-43	NA	8.1
+Cameroon	1998	Age at menopause: 44-45	NA	17.1
+Cameroon	1998	Age at menopause: 46-47	NA	17.8
+Cameroon	1998	Age at menopause: 48-49	NA	46
+Cameroon	1991	Age at menopause: 30-34	NA	1
+Cameroon	1991	Age at menopause: 35-39	NA	2.3
+Cameroon	1991	Age at menopause: 40-41	NA	11.7
+Cameroon	1991	Age at menopause: 42-43	NA	19.5
+Cameroon	1991	Age at menopause: 44-45	NA	27.9
+Cameroon	1991	Age at menopause: 46-47	NA	27.8
+Cameroon	1991	Age at menopause: 48-49	NA	48.7
+Central African Republic	1994	Age at menopause: 30-34	NA	1.7
+Central African Republic	1994	Age at menopause: 35-39	NA	4.5
+Central African Republic	1994	Age at menopause: 40-41	NA	15.3
+Central African Republic	1994	Age at menopause: 42-43	NA	21.1
+Central African Republic	1994	Age at menopause: 44-45	NA	30.9
+Central African Republic	1994	Age at menopause: 46-47	NA	50.2
+Central African Republic	1994	Age at menopause: 48-49	NA	64.4
+Chad	2014	Age at menopause: 30-34	NA	0.9
+Chad	2014	Age at menopause: 35-39	NA	3.1
+Chad	2014	Age at menopause: 40-41	NA	14.1
+Chad	2014	Age at menopause: 42-43	NA	14.4
+Chad	2014	Age at menopause: 44-45	NA	38
+Chad	2014	Age at menopause: 46-47	NA	47.2
+Chad	2014	Age at menopause: 48-49	NA	68.1
+Chad	2004	Age at menopause: 30-34	NA	0.6
+Chad	2004	Age at menopause: 35-39	NA	3.2
+Chad	2004	Age at menopause: 40-41	NA	14.5
+Chad	2004	Age at menopause: 42-43	NA	17.9
+Chad	2004	Age at menopause: 44-45	NA	36.5
+Chad	2004	Age at menopause: 46-47	NA	72.7
+Chad	2004	Age at menopause: 48-49	NA	72.9
+Chad	1996	Age at menopause: 30-34	NA	0.4
+Chad	1996	Age at menopause: 35-39	NA	3.1
+Chad	1996	Age at menopause: 40-41	NA	13.4
+Chad	1996	Age at menopause: 42-43	NA	19.8
+Chad	1996	Age at menopause: 44-45	NA	41.5
+Chad	1996	Age at menopause: 46-47	NA	61.6
+Chad	1996	Age at menopause: 48-49	NA	73.5
+Colombia	2015	Age at menopause: 30-34	NA	2.7
+Colombia	2015	Age at menopause: 35-39	NA	4.1
+Colombia	2015	Age at menopause: 40-41	NA	5.8
+Colombia	2015	Age at menopause: 42-43	NA	9.7
+Colombia	2015	Age at menopause: 44-45	NA	16.9
+Colombia	2015	Age at menopause: 46-47	NA	26.1
+Colombia	2015	Age at menopause: 48-49	NA	40.2
+Colombia	2010	Age at menopause: 30-34	NA	2
+Colombia	2010	Age at menopause: 35-39	NA	4
+Colombia	2010	Age at menopause: 40-41	NA	7
+Colombia	2010	Age at menopause: 42-43	NA	9.6
+Colombia	2010	Age at menopause: 44-45	NA	15.4
+Colombia	2010	Age at menopause: 46-47	NA	24.3
+Colombia	2010	Age at menopause: 48-49	NA	41.3
+Colombia	2005	Age at menopause: 30-34	NA	1.5
+Colombia	2005	Age at menopause: 35-39	NA	3.2
+Colombia	2005	Age at menopause: 40-41	NA	7.7
+Colombia	2005	Age at menopause: 42-43	NA	8.8
+Colombia	2005	Age at menopause: 44-45	NA	14.9
+Colombia	2005	Age at menopause: 46-47	NA	25.1
+Colombia	2005	Age at menopause: 48-49	NA	44.7
+Colombia	2000	Age at menopause: 30-34	NA	1.7
+Colombia	2000	Age at menopause: 35-39	NA	3.3
+Colombia	2000	Age at menopause: 40-41	NA	5.9
+Colombia	2000	Age at menopause: 42-43	NA	11.5
+Colombia	2000	Age at menopause: 44-45	NA	15
+Colombia	2000	Age at menopause: 46-47	NA	26.5
+Colombia	2000	Age at menopause: 48-49	NA	41.6
+Colombia	1995	Age at menopause: 30-34	NA	1
+Colombia	1995	Age at menopause: 35-39	NA	3.2
+Colombia	1995	Age at menopause: 40-41	NA	5.2
+Colombia	1995	Age at menopause: 42-43	NA	9.4
+Colombia	1995	Age at menopause: 44-45	NA	18.8
+Colombia	1995	Age at menopause: 46-47	NA	29.6
+Colombia	1995	Age at menopause: 48-49	NA	40.5
+Colombia	1990	Age at menopause: 30-34	NA	0.7
+Colombia	1990	Age at menopause: 35-39	NA	1.8
+Colombia	1990	Age at menopause: 40-41	NA	3.9
+Colombia	1990	Age at menopause: 42-43	NA	11.9
+Colombia	1990	Age at menopause: 44-45	NA	17.4
+Colombia	1990	Age at menopause: 46-47	NA	31.9
+Colombia	1990	Age at menopause: 48-49	NA	43.9
+Comoros	2012	Age at menopause: 30-34	NA	3.1
+Comoros	2012	Age at menopause: 35-39	NA	2.8
+Comoros	2012	Age at menopause: 40-41	NA	4.3
+Comoros	2012	Age at menopause: 42-43	NA	5.6
+Comoros	2012	Age at menopause: 44-45	NA	12.9
+Comoros	2012	Age at menopause: 46-47	NA	18.1
+Comoros	2012	Age at menopause: 48-49	NA	40.5
+Comoros	1996	Age at menopause: 30-34	NA	1.9
+Comoros	1996	Age at menopause: 35-39	NA	0.8
+Comoros	1996	Age at menopause: 40-41	NA	7.8
+Comoros	1996	Age at menopause: 42-43	NA	11.9
+Comoros	1996	Age at menopause: 44-45	NA	19.8
+Comoros	1996	Age at menopause: 46-47	NA	24.7
+Comoros	1996	Age at menopause: 48-49	NA	37.5
+Congo	2011	Age at menopause: 30-34	NA	0.7
+Congo	2011	Age at menopause: 35-39	NA	3
+Congo	2011	Age at menopause: 40-41	NA	6.8
+Congo	2011	Age at menopause: 42-43	NA	7.5
+Congo	2011	Age at menopause: 44-45	NA	19.8
+Congo	2011	Age at menopause: 46-47	NA	40.9
+Congo	2011	Age at menopause: 48-49	NA	56.8
+Congo	2005	Age at menopause: 30-34	NA	1.2
+Congo	2005	Age at menopause: 35-39	NA	0.7
+Congo	2005	Age at menopause: 40-41	NA	2.9
+Congo	2005	Age at menopause: 42-43	NA	11.4
+Congo	2005	Age at menopause: 44-45	NA	12.4
+Congo	2005	Age at menopause: 46-47	NA	32.3
+Congo	2005	Age at menopause: 48-49	NA	44.1
+Congo Democratic Republic	2013	Age at menopause: 30-34	NA	1
+Congo Democratic Republic	2013	Age at menopause: 35-39	NA	2.1
+Congo Democratic Republic	2013	Age at menopause: 40-41	NA	5.9
+Congo Democratic Republic	2013	Age at menopause: 42-43	NA	13.8
+Congo Democratic Republic	2013	Age at menopause: 44-45	NA	25.8
+Congo Democratic Republic	2013	Age at menopause: 46-47	NA	37.7
+Congo Democratic Republic	2013	Age at menopause: 48-49	NA	58.9
+Congo Democratic Republic	2007	Age at menopause: 30-34	NA	1.8
+Congo Democratic Republic	2007	Age at menopause: 35-39	NA	2.6
+Congo Democratic Republic	2007	Age at menopause: 40-41	NA	6.8
+Congo Democratic Republic	2007	Age at menopause: 42-43	NA	12.5
+Congo Democratic Republic	2007	Age at menopause: 44-45	NA	25.4
+Congo Democratic Republic	2007	Age at menopause: 46-47	NA	36.8
+Congo Democratic Republic	2007	Age at menopause: 48-49	NA	59.3
+Cote d'Ivoire	2021	Age at menopause: 30-34	NA	1.8
+Cote d'Ivoire	2021	Age at menopause: 35-39	NA	3.4
+Cote d'Ivoire	2021	Age at menopause: 40-41	NA	10.2
+Cote d'Ivoire	2021	Age at menopause: 42-43	NA	12.3
+Cote d'Ivoire	2021	Age at menopause: 44-45	NA	18.9
+Cote d'Ivoire	2021	Age at menopause: 46-47	NA	30
+Cote d'Ivoire	2021	Age at menopause: 48-49	NA	47.5
+Cote d'Ivoire	2011	Age at menopause: 30-34	NA	0.6
+Cote d'Ivoire	2011	Age at menopause: 35-39	NA	1.9
+Cote d'Ivoire	2011	Age at menopause: 40-41	NA	7.3
+Cote d'Ivoire	2011	Age at menopause: 42-43	NA	6.9
+Cote d'Ivoire	2011	Age at menopause: 44-45	NA	15.4
+Cote d'Ivoire	2011	Age at menopause: 46-47	NA	34.4
+Cote d'Ivoire	2011	Age at menopause: 48-49	NA	47.5
+Cote d'Ivoire	1998	Age at menopause: 30-34	NA	1.8
+Cote d'Ivoire	1998	Age at menopause: 35-39	NA	2
+Cote d'Ivoire	1998	Age at menopause: 40-41	NA	5.4
+Cote d'Ivoire	1998	Age at menopause: 42-43	NA	7.1
+Cote d'Ivoire	1998	Age at menopause: 44-45	NA	27.4
+Cote d'Ivoire	1998	Age at menopause: 46-47	NA	28
+Cote d'Ivoire	1998	Age at menopause: 48-49	NA	38.7
+Cote d'Ivoire	1994	Age at menopause: 30-34	NA	1
+Cote d'Ivoire	1994	Age at menopause: 35-39	NA	2.4
+Cote d'Ivoire	1994	Age at menopause: 40-41	NA	6.6
+Cote d'Ivoire	1994	Age at menopause: 42-43	NA	12.9
+Cote d'Ivoire	1994	Age at menopause: 44-45	NA	25.7
+Cote d'Ivoire	1994	Age at menopause: 46-47	NA	40.4
+Cote d'Ivoire	1994	Age at menopause: 48-49	NA	53.6
+Dominican Republic	2013	Age at menopause: 30-34	NA	2.4
+Dominican Republic	2013	Age at menopause: 35-39	NA	7.2
+Dominican Republic	2013	Age at menopause: 40-41	NA	12.2
+Dominican Republic	2013	Age at menopause: 42-43	NA	18.3
+Dominican Republic	2013	Age at menopause: 44-45	NA	25.2
+Dominican Republic	2013	Age at menopause: 46-47	NA	30.9
+Dominican Republic	2013	Age at menopause: 48-49	NA	48.3
+Dominican Republic	2007	Age at menopause: 30-34	NA	3.8
+Dominican Republic	2007	Age at menopause: 35-39	NA	7.8
+Dominican Republic	2007	Age at menopause: 40-41	NA	12
+Dominican Republic	2007	Age at menopause: 42-43	NA	19.1
+Dominican Republic	2007	Age at menopause: 44-45	NA	27.9
+Dominican Republic	2007	Age at menopause: 46-47	NA	39.4
+Dominican Republic	2007	Age at menopause: 48-49	NA	49.8
+Dominican Republic	2002	Age at menopause: 30-34	NA	2.6
+Dominican Republic	2002	Age at menopause: 35-39	NA	7.6
+Dominican Republic	2002	Age at menopause: 40-41	NA	14.3
+Dominican Republic	2002	Age at menopause: 42-43	NA	19.5
+Dominican Republic	2002	Age at menopause: 44-45	NA	25.5
+Dominican Republic	2002	Age at menopause: 46-47	NA	37.3
+Dominican Republic	2002	Age at menopause: 48-49	NA	46.9
+Dominican Republic	1999	Age at menopause: 30-34	NA	5.4
+Dominican Republic	1999	Age at menopause: 35-39	NA	4.5
+Dominican Republic	1999	Age at menopause: 40-41	NA	9
+Dominican Republic	1999	Age at menopause: 42-43	NA	17.2
+Dominican Republic	1999	Age at menopause: 44-45	NA	24.7
+Dominican Republic	1999	Age at menopause: 46-47	NA	44.9
+Dominican Republic	1999	Age at menopause: 48-49	NA	67.3
+Dominican Republic	1996	Age at menopause: 30-34	NA	3.4
+Dominican Republic	1996	Age at menopause: 35-39	NA	8.3
+Dominican Republic	1996	Age at menopause: 40-41	NA	13.5
+Dominican Republic	1996	Age at menopause: 42-43	NA	13.3
+Dominican Republic	1996	Age at menopause: 44-45	NA	21.9
+Dominican Republic	1996	Age at menopause: 46-47	NA	33.1
+Dominican Republic	1996	Age at menopause: 48-49	NA	50.1
+Dominican Republic	1991	Age at menopause: 30-34	NA	0.9
+Dominican Republic	1991	Age at menopause: 35-39	NA	7.2
+Dominican Republic	1991	Age at menopause: 40-41	NA	15.9
+Dominican Republic	1991	Age at menopause: 42-43	NA	16.4
+Dominican Republic	1991	Age at menopause: 44-45	NA	25.9
+Dominican Republic	1991	Age at menopause: 46-47	NA	26.7
+Dominican Republic	1991	Age at menopause: 48-49	NA	54.1
+Egypt	2014	Age at menopause: 30-34	NA	3.1
+Egypt	2014	Age at menopause: 35-39	NA	5.5
+Egypt	2014	Age at menopause: 40-41	NA	8.1
+Egypt	2014	Age at menopause: 42-43	NA	8.5
+Egypt	2014	Age at menopause: 44-45	NA	12.5
+Egypt	2014	Age at menopause: 46-47	NA	19.3
+Egypt	2014	Age at menopause: 48-49	NA	31
+Egypt	2008	Age at menopause: 30-34	NA	2.3
+Egypt	2008	Age at menopause: 35-39	NA	3.8
+Egypt	2008	Age at menopause: 40-41	NA	5.7
+Egypt	2008	Age at menopause: 42-43	NA	7.5
+Egypt	2008	Age at menopause: 44-45	NA	13.6
+Egypt	2008	Age at menopause: 46-47	NA	23.2
+Egypt	2008	Age at menopause: 48-49	NA	38.3
+Egypt	2005	Age at menopause: 30-34	NA	2.6
+Egypt	2005	Age at menopause: 35-39	NA	4.8
+Egypt	2005	Age at menopause: 40-41	NA	7.6
+Egypt	2005	Age at menopause: 42-43	NA	10.5
+Egypt	2005	Age at menopause: 44-45	NA	18.1
+Egypt	2005	Age at menopause: 46-47	NA	25.2
+Egypt	2005	Age at menopause: 48-49	NA	44.2
+Egypt	2003	Age at menopause: 30-34	NA	3.4
+Egypt	2003	Age at menopause: 35-39	NA	5.3
+Egypt	2003	Age at menopause: 40-41	NA	6.7
+Egypt	2003	Age at menopause: 42-43	NA	9.2
+Egypt	2003	Age at menopause: 44-45	NA	18
+Egypt	2003	Age at menopause: 46-47	NA	22.5
+Egypt	2003	Age at menopause: 48-49	NA	47.8
+Egypt	2000	Age at menopause: 30-34	NA	2.7
+Egypt	2000	Age at menopause: 35-39	NA	3.1
+Egypt	2000	Age at menopause: 40-41	NA	6.4
+Egypt	2000	Age at menopause: 42-43	NA	8.5
+Egypt	2000	Age at menopause: 44-45	NA	22.2
+Egypt	2000	Age at menopause: 46-47	NA	33.2
+Egypt	2000	Age at menopause: 48-49	NA	49.4
+Egypt	1995	Age at menopause: 30-34	NA	1.2
+Egypt	1995	Age at menopause: 35-39	NA	2.6
+Egypt	1995	Age at menopause: 40-41	NA	7
+Egypt	1995	Age at menopause: 42-43	NA	10
+Egypt	1995	Age at menopause: 44-45	NA	22.6
+Egypt	1995	Age at menopause: 46-47	NA	30.7
+Egypt	1995	Age at menopause: 48-49	NA	52.6
+Egypt	1992	Age at menopause: 30-34	NA	1.3
+Egypt	1992	Age at menopause: 35-39	NA	2.3
+Egypt	1992	Age at menopause: 40-41	NA	5.9
+Egypt	1992	Age at menopause: 42-43	NA	9
+Egypt	1992	Age at menopause: 44-45	NA	18.4
+Egypt	1992	Age at menopause: 46-47	NA	30
+Egypt	1992	Age at menopause: 48-49	NA	47.5
+Eritrea	2002	Age at menopause: 30-34	NA	1.3
+Eritrea	2002	Age at menopause: 35-39	NA	3.8
+Eritrea	2002	Age at menopause: 40-41	NA	11.9
+Eritrea	2002	Age at menopause: 42-43	NA	17.8
+Eritrea	2002	Age at menopause: 44-45	NA	25.7
+Eritrea	2002	Age at menopause: 46-47	NA	39.4
+Eritrea	2002	Age at menopause: 48-49	NA	53.6
+Eritrea	1995	Age at menopause: 30-34	NA	1.3
+Eritrea	1995	Age at menopause: 35-39	NA	4.2
+Eritrea	1995	Age at menopause: 40-41	NA	12.5
+Eritrea	1995	Age at menopause: 42-43	NA	15
+Eritrea	1995	Age at menopause: 44-45	NA	41.2
+Eritrea	1995	Age at menopause: 46-47	NA	49
+Eritrea	1995	Age at menopause: 48-49	NA	57.1
+Eswatini	2006	Age at menopause: 30-34	NA	4.1
+Eswatini	2006	Age at menopause: 35-39	NA	4.2
+Eswatini	2006	Age at menopause: 40-41	NA	7.3
+Eswatini	2006	Age at menopause: 42-43	NA	12
+Eswatini	2006	Age at menopause: 44-45	NA	21.2
+Eswatini	2006	Age at menopause: 46-47	NA	36
+Eswatini	2006	Age at menopause: 48-49	NA	57.8
+Ethiopia	2016	Age at menopause: 30-34	NA	6.3
+Ethiopia	2016	Age at menopause: 35-39	NA	10.9
+Ethiopia	2016	Age at menopause: 40-41	NA	16.9
+Ethiopia	2016	Age at menopause: 42-43	NA	21.9
+Ethiopia	2016	Age at menopause: 44-45	NA	32
+Ethiopia	2016	Age at menopause: 46-47	NA	41.8
+Ethiopia	2016	Age at menopause: 48-49	NA	49.2
+Ethiopia	2011	Age at menopause: 30-34	NA	8.6
+Ethiopia	2011	Age at menopause: 35-39	NA	9.4
+Ethiopia	2011	Age at menopause: 40-41	NA	17.6
+Ethiopia	2011	Age at menopause: 42-43	NA	20.8
+Ethiopia	2011	Age at menopause: 44-45	NA	38.7
+Ethiopia	2011	Age at menopause: 46-47	NA	41.7
+Ethiopia	2011	Age at menopause: 48-49	NA	62
+Ethiopia	2005	Age at menopause: 30-34	NA	2.4
+Ethiopia	2005	Age at menopause: 35-39	NA	5.4
+Ethiopia	2005	Age at menopause: 40-41	NA	14.4
+Ethiopia	2005	Age at menopause: 42-43	NA	22.5
+Ethiopia	2005	Age at menopause: 44-45	NA	31.9
+Ethiopia	2005	Age at menopause: 46-47	NA	51
+Ethiopia	2005	Age at menopause: 48-49	NA	60.3
+Ethiopia	2000	Age at menopause: 30-34	NA	2.5
+Ethiopia	2000	Age at menopause: 35-39	NA	5.3
+Ethiopia	2000	Age at menopause: 40-41	NA	11.5
+Ethiopia	2000	Age at menopause: 42-43	NA	17.9
+Ethiopia	2000	Age at menopause: 44-45	NA	29.1
+Ethiopia	2000	Age at menopause: 46-47	NA	40
+Ethiopia	2000	Age at menopause: 48-49	NA	66.1
+Gabon	2019	Age at menopause: 30-34	NA	1.1
+Gabon	2019	Age at menopause: 35-39	NA	2.4
+Gabon	2019	Age at menopause: 40-41	NA	2.1
+Gabon	2019	Age at menopause: 42-43	NA	6.9
+Gabon	2019	Age at menopause: 44-45	NA	15.2
+Gabon	2019	Age at menopause: 46-47	NA	24.5
+Gabon	2019	Age at menopause: 48-49	NA	34.9
+Gabon	2012	Age at menopause: 30-34	NA	0.1
+Gabon	2012	Age at menopause: 35-39	NA	0.7
+Gabon	2012	Age at menopause: 40-41	NA	2.9
+Gabon	2012	Age at menopause: 42-43	NA	3.5
+Gabon	2012	Age at menopause: 44-45	NA	6.8
+Gabon	2012	Age at menopause: 46-47	NA	16.8
+Gabon	2012	Age at menopause: 48-49	NA	26.7
+Gabon	2000	Age at menopause: 30-34	NA	0.5
+Gabon	2000	Age at menopause: 35-39	NA	1.5
+Gabon	2000	Age at menopause: 40-41	NA	3.6
+Gabon	2000	Age at menopause: 42-43	NA	8.6
+Gabon	2000	Age at menopause: 44-45	NA	9.5
+Gabon	2000	Age at menopause: 46-47	NA	23.1
+Gabon	2000	Age at menopause: 48-49	NA	28.9
+Gambia	2019	Age at menopause: 30-34	NA	2.3
+Gambia	2019	Age at menopause: 35-39	NA	2.3
+Gambia	2019	Age at menopause: 40-41	NA	7.3
+Gambia	2019	Age at menopause: 42-43	NA	7.8
+Gambia	2019	Age at menopause: 44-45	NA	10.7
+Gambia	2019	Age at menopause: 46-47	NA	23.6
+Gambia	2019	Age at menopause: 48-49	NA	37.2
+Gambia	2013	Age at menopause: 30-34	NA	0.8
+Gambia	2013	Age at menopause: 35-39	NA	1.9
+Gambia	2013	Age at menopause: 40-41	NA	3.7
+Gambia	2013	Age at menopause: 42-43	NA	9.8
+Gambia	2013	Age at menopause: 44-45	NA	19.9
+Gambia	2013	Age at menopause: 46-47	NA	30.1
+Gambia	2013	Age at menopause: 48-49	NA	40.1
+Ghana	2022	Age at menopause: 30-34	NA	1.8
+Ghana	2022	Age at menopause: 35-39	NA	2.5
+Ghana	2022	Age at menopause: 40-41	NA	4.2
+Ghana	2022	Age at menopause: 42-43	NA	9
+Ghana	2022	Age at menopause: 44-45	NA	16.5
+Ghana	2022	Age at menopause: 46-47	NA	23.5
+Ghana	2022	Age at menopause: 48-49	NA	44.2
+Ghana	2014	Age at menopause: 30-34	NA	2.2
+Ghana	2014	Age at menopause: 35-39	NA	3.5
+Ghana	2014	Age at menopause: 40-41	NA	7
+Ghana	2014	Age at menopause: 42-43	NA	8.7
+Ghana	2014	Age at menopause: 44-45	NA	19.6
+Ghana	2014	Age at menopause: 46-47	NA	32.1
+Ghana	2014	Age at menopause: 48-49	NA	39.2
+Ghana	2008	Age at menopause: 30-34	NA	2.2
+Ghana	2008	Age at menopause: 35-39	NA	2.7
+Ghana	2008	Age at menopause: 40-41	NA	3.2
+Ghana	2008	Age at menopause: 42-43	NA	8.7
+Ghana	2008	Age at menopause: 44-45	NA	19.7
+Ghana	2008	Age at menopause: 46-47	NA	22.3
+Ghana	2008	Age at menopause: 48-49	NA	45.1
+Ghana	2003	Age at menopause: 30-34	NA	2.2
+Ghana	2003	Age at menopause: 35-39	NA	1.2
+Ghana	2003	Age at menopause: 40-41	NA	3.7
+Ghana	2003	Age at menopause: 42-43	NA	11.3
+Ghana	2003	Age at menopause: 44-45	NA	22.8
+Ghana	2003	Age at menopause: 46-47	NA	32.6
+Ghana	2003	Age at menopause: 48-49	NA	46.5
+Ghana	1998	Age at menopause: 30-34	NA	0.9
+Ghana	1998	Age at menopause: 35-39	NA	1.3
+Ghana	1998	Age at menopause: 40-41	NA	8.4
+Ghana	1998	Age at menopause: 42-43	NA	8
+Ghana	1998	Age at menopause: 44-45	NA	16.2
+Ghana	1998	Age at menopause: 46-47	NA	38.7
+Ghana	1998	Age at menopause: 48-49	NA	51.5
+Ghana	1993	Age at menopause: 30-34	NA	1.2
+Ghana	1993	Age at menopause: 35-39	NA	2.4
+Ghana	1993	Age at menopause: 40-41	NA	4.8
+Ghana	1993	Age at menopause: 42-43	NA	8.9
+Ghana	1993	Age at menopause: 44-45	NA	19.7
+Ghana	1993	Age at menopause: 46-47	NA	29.9
+Ghana	1993	Age at menopause: 48-49	NA	57.7
+Guatemala	2014	Age at menopause: 30-34	NA	3.8
+Guatemala	2014	Age at menopause: 35-39	NA	7.1
+Guatemala	2014	Age at menopause: 40-41	NA	12.8
+Guatemala	2014	Age at menopause: 42-43	NA	17.2
+Guatemala	2014	Age at menopause: 44-45	NA	28.6
+Guatemala	2014	Age at menopause: 46-47	NA	46.3
+Guatemala	2014	Age at menopause: 48-49	NA	58.1
+Guatemala	1998	Age at menopause: 30-34	NA	2.4
+Guatemala	1998	Age at menopause: 35-39	NA	4.5
+Guatemala	1998	Age at menopause: 40-41	NA	9.7
+Guatemala	1998	Age at menopause: 42-43	NA	16.2
+Guatemala	1998	Age at menopause: 44-45	NA	29.3
+Guatemala	1998	Age at menopause: 46-47	NA	40.8
+Guatemala	1998	Age at menopause: 48-49	NA	55.8
+Guatemala	1995	Age at menopause: 30-34	NA	2.1
+Guatemala	1995	Age at menopause: 35-39	NA	5.2
+Guatemala	1995	Age at menopause: 40-41	NA	9.4
+Guatemala	1995	Age at menopause: 42-43	NA	18.3
+Guatemala	1995	Age at menopause: 44-45	NA	29.1
+Guatemala	1995	Age at menopause: 46-47	NA	42.4
+Guatemala	1995	Age at menopause: 48-49	NA	63.3
+Guinea	2018	Age at menopause: 30-34	NA	2.7
+Guinea	2018	Age at menopause: 35-39	NA	3.9
+Guinea	2018	Age at menopause: 40-41	NA	12
+Guinea	2018	Age at menopause: 42-43	NA	13.3
+Guinea	2018	Age at menopause: 44-45	NA	28.3
+Guinea	2018	Age at menopause: 46-47	NA	36.5
+Guinea	2018	Age at menopause: 48-49	NA	50.8
+Guinea	2012	Age at menopause: 30-34	NA	1.3
+Guinea	2012	Age at menopause: 35-39	NA	1.6
+Guinea	2012	Age at menopause: 40-41	NA	4.6
+Guinea	2012	Age at menopause: 42-43	NA	12
+Guinea	2012	Age at menopause: 44-45	NA	24.4
+Guinea	2012	Age at menopause: 46-47	NA	37.4
+Guinea	2012	Age at menopause: 48-49	NA	55.9
+Guinea	2005	Age at menopause: 30-34	NA	0.9
+Guinea	2005	Age at menopause: 35-39	NA	2
+Guinea	2005	Age at menopause: 40-41	NA	5.7
+Guinea	2005	Age at menopause: 42-43	NA	7.4
+Guinea	2005	Age at menopause: 44-45	NA	23.8
+Guinea	2005	Age at menopause: 46-47	NA	31.9
+Guinea	2005	Age at menopause: 48-49	NA	57.2
+Guinea	1999	Age at menopause: 30-34	NA	1
+Guinea	1999	Age at menopause: 35-39	NA	1.4
+Guinea	1999	Age at menopause: 40-41	NA	6.2
+Guinea	1999	Age at menopause: 42-43	NA	12.5
+Guinea	1999	Age at menopause: 44-45	NA	24
+Guinea	1999	Age at menopause: 46-47	NA	38.7
+Guinea	1999	Age at menopause: 48-49	NA	54.5
+Guyana	2009	Age at menopause: 30-34	NA	1.2
+Guyana	2009	Age at menopause: 35-39	NA	2.6
+Guyana	2009	Age at menopause: 40-41	NA	4.6
+Guyana	2009	Age at menopause: 42-43	NA	5.8
+Guyana	2009	Age at menopause: 44-45	NA	11.8
+Guyana	2009	Age at menopause: 46-47	NA	13.3
+Guyana	2009	Age at menopause: 48-49	NA	23
+Haiti	2016	Age at menopause: 30-34	NA	5.1
+Haiti	2016	Age at menopause: 35-39	NA	5.7
+Haiti	2016	Age at menopause: 40-41	NA	8.9
+Haiti	2016	Age at menopause: 42-43	NA	9.9
+Haiti	2016	Age at menopause: 44-45	NA	19.4
+Haiti	2016	Age at menopause: 46-47	NA	23.3
+Haiti	2016	Age at menopause: 48-49	NA	49.7
+Haiti	2012	Age at menopause: 30-34	NA	5.8
+Haiti	2012	Age at menopause: 35-39	NA	5.8
+Haiti	2012	Age at menopause: 40-41	NA	7.4
+Haiti	2012	Age at menopause: 42-43	NA	8.7
+Haiti	2012	Age at menopause: 44-45	NA	19.3
+Haiti	2012	Age at menopause: 46-47	NA	29.9
+Haiti	2012	Age at menopause: 48-49	NA	48.8
+Haiti	2005	Age at menopause: 30-34	NA	5.4
+Haiti	2005	Age at menopause: 35-39	NA	4.4
+Haiti	2005	Age at menopause: 40-41	NA	9.8
+Haiti	2005	Age at menopause: 42-43	NA	8.9
+Haiti	2005	Age at menopause: 44-45	NA	19.7
+Haiti	2005	Age at menopause: 46-47	NA	30.1
+Haiti	2005	Age at menopause: 48-49	NA	41.8
+Haiti	2000	Age at menopause: 30-34	NA	4.8
+Haiti	2000	Age at menopause: 35-39	NA	6.1
+Haiti	2000	Age at menopause: 40-41	NA	5.9
+Haiti	2000	Age at menopause: 42-43	NA	6.4
+Haiti	2000	Age at menopause: 44-45	NA	20.7
+Haiti	2000	Age at menopause: 46-47	NA	25
+Haiti	2000	Age at menopause: 48-49	NA	45.1
+Haiti	1994	Age at menopause: 30-34	NA	1.3
+Haiti	1994	Age at menopause: 35-39	NA	3.7
+Haiti	1994	Age at menopause: 40-41	NA	9
+Haiti	1994	Age at menopause: 42-43	NA	9.3
+Haiti	1994	Age at menopause: 44-45	NA	31
+Haiti	1994	Age at menopause: 46-47	NA	38.4
+Haiti	1994	Age at menopause: 48-49	NA	55.9
+Honduras	2011	Age at menopause: 30-34	NA	3.9
+Honduras	2011	Age at menopause: 35-39	NA	3.6
+Honduras	2011	Age at menopause: 40-41	NA	6.5
+Honduras	2011	Age at menopause: 42-43	NA	8.1
+Honduras	2011	Age at menopause: 44-45	NA	15.4
+Honduras	2011	Age at menopause: 46-47	NA	27.7
+Honduras	2011	Age at menopause: 48-49	NA	45.2
+Honduras	2005	Age at menopause: 30-34	NA	2.8
+Honduras	2005	Age at menopause: 35-39	NA	5.1
+Honduras	2005	Age at menopause: 40-41	NA	9.3
+Honduras	2005	Age at menopause: 42-43	NA	7.2
+Honduras	2005	Age at menopause: 44-45	NA	16.9
+Honduras	2005	Age at menopause: 46-47	NA	31.6
+Honduras	2005	Age at menopause: 48-49	NA	51.2
+India	2019	Age at menopause: 30-34	NA	3
+India	2019	Age at menopause: 35-39	NA	6.7
+India	2019	Age at menopause: 40-41	NA	14.2
+India	2019	Age at menopause: 42-43	NA	19.3
+India	2019	Age at menopause: 44-45	NA	30.4
+India	2019	Age at menopause: 46-47	NA	39.7
+India	2019	Age at menopause: 48-49	NA	55.2
+India	2015	Age at menopause: 30-34	NA	3.7
+India	2015	Age at menopause: 35-39	NA	7.9
+India	2015	Age at menopause: 40-41	NA	16
+India	2015	Age at menopause: 42-43	NA	21.7
+India	2015	Age at menopause: 44-45	NA	33.1
+India	2015	Age at menopause: 46-47	NA	43.1
+India	2015	Age at menopause: 48-49	NA	55.8
+India	2005	Age at menopause: 30-34	NA	3.3
+India	2005	Age at menopause: 35-39	NA	8.2
+India	2005	Age at menopause: 40-41	NA	19.6
+India	2005	Age at menopause: 42-43	NA	25
+India	2005	Age at menopause: 44-45	NA	39.5
+India	2005	Age at menopause: 46-47	NA	50.3
+India	2005	Age at menopause: 48-49	NA	65.1
+India	1998	Age at menopause: 30-34	NA	3
+India	1998	Age at menopause: 35-39	NA	7.4
+India	1998	Age at menopause: 40-41	NA	17.1
+India	1998	Age at menopause: 42-43	NA	23.4
+India	1998	Age at menopause: 44-45	NA	34.5
+India	1998	Age at menopause: 46-47	NA	45.2
+India	1998	Age at menopause: 48-49	NA	56
+India	1992	Age at menopause: 30-34	NA	2.2
+India	1992	Age at menopause: 35-39	NA	6
+India	1992	Age at menopause: 40-41	NA	14.7
+India	1992	Age at menopause: 42-43	NA	22.1
+India	1992	Age at menopause: 44-45	NA	32.5
+India	1992	Age at menopause: 46-47	NA	47
+India	1992	Age at menopause: 48-49	NA	59.9
+Indonesia	2017	Age at menopause: 30-34	NA	9.7
+Indonesia	2017	Age at menopause: 35-39	NA	11
+Indonesia	2017	Age at menopause: 40-41	NA	12.7
+Indonesia	2017	Age at menopause: 42-43	NA	14.2
+Indonesia	2017	Age at menopause: 44-45	NA	17.1
+Indonesia	2017	Age at menopause: 46-47	NA	26.7
+Indonesia	2017	Age at menopause: 48-49	NA	43.1
+Indonesia	2012	Age at menopause: 30-34	NA	11.4
+Indonesia	2012	Age at menopause: 35-39	NA	13.6
+Indonesia	2012	Age at menopause: 40-41	NA	14.8
+Indonesia	2012	Age at menopause: 42-43	NA	17.8
+Indonesia	2012	Age at menopause: 44-45	NA	22.6
+Indonesia	2012	Age at menopause: 46-47	NA	32.6
+Indonesia	2012	Age at menopause: 48-49	NA	44
+Indonesia	2007	Age at menopause: 30-34	NA	11.1
+Indonesia	2007	Age at menopause: 35-39	NA	14.4
+Indonesia	2007	Age at menopause: 40-41	NA	13.9
+Indonesia	2007	Age at menopause: 42-43	NA	18.4
+Indonesia	2007	Age at menopause: 44-45	NA	21.6
+Indonesia	2007	Age at menopause: 46-47	NA	32
+Indonesia	2007	Age at menopause: 48-49	NA	44.8
+Indonesia	2002	Age at menopause: 30-34	NA	8.8
+Indonesia	2002	Age at menopause: 35-39	NA	9.8
+Indonesia	2002	Age at menopause: 40-41	NA	10.9
+Indonesia	2002	Age at menopause: 42-43	NA	11.1
+Indonesia	2002	Age at menopause: 44-45	NA	20.6
+Indonesia	2002	Age at menopause: 46-47	NA	29.1
+Indonesia	2002	Age at menopause: 48-49	NA	47.2
+Indonesia	1997	Age at menopause: 30-34	NA	8.3
+Indonesia	1997	Age at menopause: 35-39	NA	8.4
+Indonesia	1997	Age at menopause: 40-41	NA	8.2
+Indonesia	1997	Age at menopause: 42-43	NA	12.7
+Indonesia	1997	Age at menopause: 44-45	NA	21.3
+Indonesia	1997	Age at menopause: 46-47	NA	31.9
+Indonesia	1997	Age at menopause: 48-49	NA	48.5
+Indonesia	1994	Age at menopause: 30-34	NA	5.2
+Indonesia	1994	Age at menopause: 35-39	NA	4.9
+Indonesia	1994	Age at menopause: 40-41	NA	7.7
+Indonesia	1994	Age at menopause: 42-43	NA	13
+Indonesia	1994	Age at menopause: 44-45	NA	24.3
+Indonesia	1994	Age at menopause: 46-47	NA	36.9
+Indonesia	1994	Age at menopause: 48-49	NA	52.4
+Indonesia	1991	Age at menopause: 30-34	NA	3.1
+Indonesia	1991	Age at menopause: 35-39	NA	4.4
+Indonesia	1991	Age at menopause: 40-41	NA	9.4
+Indonesia	1991	Age at menopause: 42-43	NA	15.4
+Indonesia	1991	Age at menopause: 44-45	NA	31.6
+Indonesia	1991	Age at menopause: 46-47	NA	33.8
+Indonesia	1991	Age at menopause: 48-49	NA	59.4
+Jordan	2017	Age at menopause: 30-34	NA	1.4
+Jordan	2017	Age at menopause: 35-39	NA	1.9
+Jordan	2017	Age at menopause: 40-41	NA	2.3
+Jordan	2017	Age at menopause: 42-43	NA	5
+Jordan	2017	Age at menopause: 44-45	NA	5.1
+Jordan	2017	Age at menopause: 46-47	NA	15.3
+Jordan	2017	Age at menopause: 48-49	NA	27.9
+Jordan	2012	Age at menopause: 30-34	NA	0.5
+Jordan	2012	Age at menopause: 35-39	NA	0.3
+Jordan	2012	Age at menopause: 40-41	NA	1.4
+Jordan	2012	Age at menopause: 42-43	NA	2
+Jordan	2012	Age at menopause: 44-45	NA	6.3
+Jordan	2012	Age at menopause: 46-47	NA	12.8
+Jordan	2012	Age at menopause: 48-49	NA	21.4
+Jordan	2009	Age at menopause: 30-34	NA	0.8
+Jordan	2009	Age at menopause: 35-39	NA	0.7
+Jordan	2009	Age at menopause: 40-41	NA	2.8
+Jordan	2009	Age at menopause: 42-43	NA	1.9
+Jordan	2009	Age at menopause: 44-45	NA	8.8
+Jordan	2009	Age at menopause: 46-47	NA	11
+Jordan	2009	Age at menopause: 48-49	NA	21.8
+Jordan	2007	Age at menopause: 30-34	NA	0.5
+Jordan	2007	Age at menopause: 35-39	NA	0.8
+Jordan	2007	Age at menopause: 40-41	NA	1.6
+Jordan	2007	Age at menopause: 42-43	NA	1.6
+Jordan	2007	Age at menopause: 44-45	NA	5
+Jordan	2007	Age at menopause: 46-47	NA	12.3
+Jordan	2007	Age at menopause: 48-49	NA	22.1
+Jordan	2002	Age at menopause: 30-34	NA	0.9
+Jordan	2002	Age at menopause: 35-39	NA	0.9
+Jordan	2002	Age at menopause: 40-41	NA	2.1
+Jordan	2002	Age at menopause: 42-43	NA	3.8
+Jordan	2002	Age at menopause: 44-45	NA	4
+Jordan	2002	Age at menopause: 46-47	NA	15.3
+Jordan	2002	Age at menopause: 48-49	NA	31.4
+Jordan	1997	Age at menopause: 30-34	NA	0.8
+Jordan	1997	Age at menopause: 35-39	NA	1.6
+Jordan	1997	Age at menopause: 40-41	NA	3.9
+Jordan	1997	Age at menopause: 42-43	NA	2.8
+Jordan	1997	Age at menopause: 44-45	NA	6.6
+Jordan	1997	Age at menopause: 46-47	NA	12
+Jordan	1997	Age at menopause: 48-49	NA	24.9
+Jordan	1990	Age at menopause: 30-34	NA	0.7
+Jordan	1990	Age at menopause: 35-39	NA	1.6
+Jordan	1990	Age at menopause: 40-41	NA	5.1
+Jordan	1990	Age at menopause: 42-43	NA	6.5
+Jordan	1990	Age at menopause: 44-45	NA	10.2
+Jordan	1990	Age at menopause: 46-47	NA	15.8
+Jordan	1990	Age at menopause: 48-49	NA	24.5
+Kazakhstan	1999	Age at menopause: 30-34	NA	0.7
+Kazakhstan	1999	Age at menopause: 35-39	NA	2.7
+Kazakhstan	1999	Age at menopause: 40-41	NA	5.3
+Kazakhstan	1999	Age at menopause: 42-43	NA	8.8
+Kazakhstan	1999	Age at menopause: 44-45	NA	11.1
+Kazakhstan	1999	Age at menopause: 46-47	NA	31.4
+Kazakhstan	1999	Age at menopause: 48-49	NA	44.5
+Kazakhstan	1995	Age at menopause: 30-34	NA	1.5
+Kazakhstan	1995	Age at menopause: 35-39	NA	1.5
+Kazakhstan	1995	Age at menopause: 40-41	NA	2.9
+Kazakhstan	1995	Age at menopause: 42-43	NA	3.6
+Kazakhstan	1995	Age at menopause: 44-45	NA	9.6
+Kazakhstan	1995	Age at menopause: 46-47	NA	23
+Kazakhstan	1995	Age at menopause: 48-49	NA	48
+Kenya	2022	Age at menopause: 30-34	NA	4.6
+Kenya	2022	Age at menopause: 35-39	NA	5.6
+Kenya	2022	Age at menopause: 40-41	NA	7.3
+Kenya	2022	Age at menopause: 42-43	NA	9.5
+Kenya	2022	Age at menopause: 44-45	NA	15.9
+Kenya	2022	Age at menopause: 46-47	NA	29.9
+Kenya	2022	Age at menopause: 48-49	NA	37.9
+Kenya	2014	Age at menopause: 30-34	NA	4.7
+Kenya	2014	Age at menopause: 35-39	NA	6.1
+Kenya	2014	Age at menopause: 40-41	NA	9.2
+Kenya	2014	Age at menopause: 42-43	NA	8.9
+Kenya	2014	Age at menopause: 44-45	NA	20.8
+Kenya	2014	Age at menopause: 46-47	NA	24.4
+Kenya	2014	Age at menopause: 48-49	NA	45.1
+Kenya	2008	Age at menopause: 30-34	NA	4.5
+Kenya	2008	Age at menopause: 35-39	NA	5.5
+Kenya	2008	Age at menopause: 40-41	NA	12.6
+Kenya	2008	Age at menopause: 42-43	NA	12.9
+Kenya	2008	Age at menopause: 44-45	NA	15.2
+Kenya	2008	Age at menopause: 46-47	NA	26.4
+Kenya	2008	Age at menopause: 48-49	NA	41.9
+Kenya	2003	Age at menopause: 30-34	NA	4.2
+Kenya	2003	Age at menopause: 35-39	NA	7.5
+Kenya	2003	Age at menopause: 40-41	NA	10.8
+Kenya	2003	Age at menopause: 42-43	NA	16.9
+Kenya	2003	Age at menopause: 44-45	NA	17.4
+Kenya	2003	Age at menopause: 46-47	NA	31.6
+Kenya	2003	Age at menopause: 48-49	NA	52.7
+Kenya	1998	Age at menopause: 30-34	NA	3.9
+Kenya	1998	Age at menopause: 35-39	NA	8.2
+Kenya	1998	Age at menopause: 40-41	NA	13.3
+Kenya	1998	Age at menopause: 42-43	NA	13.1
+Kenya	1998	Age at menopause: 44-45	NA	24
+Kenya	1998	Age at menopause: 46-47	NA	36.7
+Kenya	1998	Age at menopause: 48-49	NA	58.8
+Kenya	1993	Age at menopause: 30-34	NA	3.8
+Kenya	1993	Age at menopause: 35-39	NA	3.8
+Kenya	1993	Age at menopause: 40-41	NA	6
+Kenya	1993	Age at menopause: 42-43	NA	14.6
+Kenya	1993	Age at menopause: 44-45	NA	20.7
+Kenya	1993	Age at menopause: 46-47	NA	33.7
+Kenya	1993	Age at menopause: 48-49	NA	46.7
+Kyrgyz Republic	2012	Age at menopause: 30-34	NA	1
+Kyrgyz Republic	2012	Age at menopause: 35-39	NA	2.4
+Kyrgyz Republic	2012	Age at menopause: 40-41	NA	3.2
+Kyrgyz Republic	2012	Age at menopause: 42-43	NA	6.3
+Kyrgyz Republic	2012	Age at menopause: 44-45	NA	13.5
+Kyrgyz Republic	2012	Age at menopause: 46-47	NA	23.8
+Kyrgyz Republic	2012	Age at menopause: 48-49	NA	41.7
+Kyrgyz Republic	1997	Age at menopause: 30-34	NA	1.2
+Kyrgyz Republic	1997	Age at menopause: 35-39	NA	1.8
+Kyrgyz Republic	1997	Age at menopause: 40-41	NA	5.4
+Kyrgyz Republic	1997	Age at menopause: 42-43	NA	6
+Kyrgyz Republic	1997	Age at menopause: 44-45	NA	11.6
+Kyrgyz Republic	1997	Age at menopause: 46-47	NA	28.7
+Kyrgyz Republic	1997	Age at menopause: 48-49	NA	41.5
+Lesotho	2014	Age at menopause: 30-34	NA	5.1
+Lesotho	2014	Age at menopause: 35-39	NA	6
+Lesotho	2014	Age at menopause: 40-41	NA	4.8
+Lesotho	2014	Age at menopause: 42-43	NA	12.3
+Lesotho	2014	Age at menopause: 44-45	NA	17.1
+Lesotho	2014	Age at menopause: 46-47	NA	32.1
+Lesotho	2014	Age at menopause: 48-49	NA	53.6
+Lesotho	2009	Age at menopause: 30-34	NA	5.3
+Lesotho	2009	Age at menopause: 35-39	NA	6.6
+Lesotho	2009	Age at menopause: 40-41	NA	6.3
+Lesotho	2009	Age at menopause: 42-43	NA	8.7
+Lesotho	2009	Age at menopause: 44-45	NA	19.1
+Lesotho	2009	Age at menopause: 46-47	NA	27.1
+Lesotho	2009	Age at menopause: 48-49	NA	48.8
+Lesotho	2004	Age at menopause: 30-34	NA	4.5
+Lesotho	2004	Age at menopause: 35-39	NA	5.4
+Lesotho	2004	Age at menopause: 40-41	NA	4.5
+Lesotho	2004	Age at menopause: 42-43	NA	11.2
+Lesotho	2004	Age at menopause: 44-45	NA	12.9
+Lesotho	2004	Age at menopause: 46-47	NA	23.3
+Lesotho	2004	Age at menopause: 48-49	NA	45.9
+Liberia	2019	Age at menopause: 30-34	NA	3.1
+Liberia	2019	Age at menopause: 35-39	NA	2.4
+Liberia	2019	Age at menopause: 40-41	NA	5.2
+Liberia	2019	Age at menopause: 42-43	NA	10.6
+Liberia	2019	Age at menopause: 44-45	NA	17.6
+Liberia	2019	Age at menopause: 46-47	NA	38.8
+Liberia	2019	Age at menopause: 48-49	NA	47
+Liberia	2013	Age at menopause: 30-34	NA	4
+Liberia	2013	Age at menopause: 35-39	NA	3.6
+Liberia	2013	Age at menopause: 40-41	NA	9.9
+Liberia	2013	Age at menopause: 42-43	NA	13.3
+Liberia	2013	Age at menopause: 44-45	NA	24
+Liberia	2013	Age at menopause: 46-47	NA	36.8
+Liberia	2013	Age at menopause: 48-49	NA	55.7
+Liberia	2007	Age at menopause: 30-34	NA	1.7
+Liberia	2007	Age at menopause: 35-39	NA	2.5
+Liberia	2007	Age at menopause: 40-41	NA	5.2
+Liberia	2007	Age at menopause: 42-43	NA	9.4
+Liberia	2007	Age at menopause: 44-45	NA	15.7
+Liberia	2007	Age at menopause: 46-47	NA	25.9
+Liberia	2007	Age at menopause: 48-49	NA	43.7
+Madagascar	2021	Age at menopause: 30-34	NA	8
+Madagascar	2021	Age at menopause: 35-39	NA	10.5
+Madagascar	2021	Age at menopause: 40-41	NA	13.9
+Madagascar	2021	Age at menopause: 42-43	NA	13.8
+Madagascar	2021	Age at menopause: 44-45	NA	22.3
+Madagascar	2021	Age at menopause: 46-47	NA	28.7
+Madagascar	2021	Age at menopause: 48-49	NA	47.3
+Madagascar	2008	Age at menopause: 30-34	NA	7.7
+Madagascar	2008	Age at menopause: 35-39	NA	7.8
+Madagascar	2008	Age at menopause: 40-41	NA	10.8
+Madagascar	2008	Age at menopause: 42-43	NA	14.7
+Madagascar	2008	Age at menopause: 44-45	NA	16.7
+Madagascar	2008	Age at menopause: 46-47	NA	26.4
+Madagascar	2008	Age at menopause: 48-49	NA	45.6
+Madagascar	2003	Age at menopause: 30-34	NA	4.2
+Madagascar	2003	Age at menopause: 35-39	NA	3.5
+Madagascar	2003	Age at menopause: 40-41	NA	7.8
+Madagascar	2003	Age at menopause: 42-43	NA	11.9
+Madagascar	2003	Age at menopause: 44-45	NA	15.3
+Madagascar	2003	Age at menopause: 46-47	NA	33.1
+Madagascar	2003	Age at menopause: 48-49	NA	44.2
+Madagascar	1997	Age at menopause: 30-34	NA	1.8
+Madagascar	1997	Age at menopause: 35-39	NA	2.8
+Madagascar	1997	Age at menopause: 40-41	NA	7.4
+Madagascar	1997	Age at menopause: 42-43	NA	8.9
+Madagascar	1997	Age at menopause: 44-45	NA	18.4
+Madagascar	1997	Age at menopause: 46-47	NA	23.7
+Madagascar	1997	Age at menopause: 48-49	NA	50
+Madagascar	1992	Age at menopause: 30-34	NA	1
+Madagascar	1992	Age at menopause: 35-39	NA	1.3
+Madagascar	1992	Age at menopause: 40-41	NA	3.6
+Madagascar	1992	Age at menopause: 42-43	NA	6.2
+Madagascar	1992	Age at menopause: 44-45	NA	19.6
+Madagascar	1992	Age at menopause: 46-47	NA	39.4
+Madagascar	1992	Age at menopause: 48-49	NA	46.1
+Malawi	2015	Age at menopause: 30-34	NA	5.8
+Malawi	2015	Age at menopause: 35-39	NA	6.1
+Malawi	2015	Age at menopause: 40-41	NA	12.1
+Malawi	2015	Age at menopause: 42-43	NA	12.1
+Malawi	2015	Age at menopause: 44-45	NA	18.2
+Malawi	2015	Age at menopause: 46-47	NA	29.4
+Malawi	2015	Age at menopause: 48-49	NA	49.5
+Malawi	2010	Age at menopause: 30-34	NA	4.5
+Malawi	2010	Age at menopause: 35-39	NA	5.7
+Malawi	2010	Age at menopause: 40-41	NA	7
+Malawi	2010	Age at menopause: 42-43	NA	11.6
+Malawi	2010	Age at menopause: 44-45	NA	21
+Malawi	2010	Age at menopause: 46-47	NA	27.4
+Malawi	2010	Age at menopause: 48-49	NA	40.3
+Malawi	2004	Age at menopause: 30-34	NA	2.9
+Malawi	2004	Age at menopause: 35-39	NA	4.4
+Malawi	2004	Age at menopause: 40-41	NA	11.1
+Malawi	2004	Age at menopause: 42-43	NA	15.9
+Malawi	2004	Age at menopause: 44-45	NA	17.4
+Malawi	2004	Age at menopause: 46-47	NA	28.3
+Malawi	2004	Age at menopause: 48-49	NA	41.9
+Malawi	2000	Age at menopause: 30-34	NA	3.2
+Malawi	2000	Age at menopause: 35-39	NA	3.1
+Malawi	2000	Age at menopause: 40-41	NA	5.4
+Malawi	2000	Age at menopause: 42-43	NA	12.9
+Malawi	2000	Age at menopause: 44-45	NA	16.1
+Malawi	2000	Age at menopause: 46-47	NA	23.3
+Malawi	2000	Age at menopause: 48-49	NA	37
+Malawi	1992	Age at menopause: 30-34	NA	1.4
+Malawi	1992	Age at menopause: 35-39	NA	2.7
+Malawi	1992	Age at menopause: 40-41	NA	8.2
+Malawi	1992	Age at menopause: 42-43	NA	12.1
+Malawi	1992	Age at menopause: 44-45	NA	16.5
+Malawi	1992	Age at menopause: 46-47	NA	26.5
+Malawi	1992	Age at menopause: 48-49	NA	30.5
+Maldives	2016	Age at menopause: 30-34	NA	6.3
+Maldives	2016	Age at menopause: 35-39	NA	5.5
+Maldives	2016	Age at menopause: 40-41	NA	4.8
+Maldives	2016	Age at menopause: 42-43	NA	7.6
+Maldives	2016	Age at menopause: 44-45	NA	11
+Maldives	2016	Age at menopause: 46-47	NA	10.2
+Maldives	2016	Age at menopause: 48-49	NA	26.6
+Maldives	2009	Age at menopause: 30-34	NA	1.5
+Maldives	2009	Age at menopause: 35-39	NA	2.3
+Maldives	2009	Age at menopause: 40-41	NA	5.4
+Maldives	2009	Age at menopause: 42-43	NA	6.9
+Maldives	2009	Age at menopause: 44-45	NA	8.4
+Maldives	2009	Age at menopause: 46-47	NA	11.6
+Maldives	2009	Age at menopause: 48-49	NA	23
+Mali	2018	Age at menopause: 30-34	NA	1.1
+Mali	2018	Age at menopause: 35-39	NA	2.9
+Mali	2018	Age at menopause: 40-41	NA	9.3
+Mali	2018	Age at menopause: 42-43	NA	10.3
+Mali	2018	Age at menopause: 44-45	NA	21.9
+Mali	2018	Age at menopause: 46-47	NA	35.5
+Mali	2018	Age at menopause: 48-49	NA	45.3
+Mali	2012	Age at menopause: 30-34	NA	2.1
+Mali	2012	Age at menopause: 35-39	NA	3.9
+Mali	2012	Age at menopause: 40-41	NA	12
+Mali	2012	Age at menopause: 42-43	NA	16.7
+Mali	2012	Age at menopause: 44-45	NA	30.3
+Mali	2012	Age at menopause: 46-47	NA	38.5
+Mali	2012	Age at menopause: 48-49	NA	56.4
+Mali	2006	Age at menopause: 30-34	NA	1.1
+Mali	2006	Age at menopause: 35-39	NA	2.3
+Mali	2006	Age at menopause: 40-41	NA	9.9
+Mali	2006	Age at menopause: 42-43	NA	12.7
+Mali	2006	Age at menopause: 44-45	NA	24
+Mali	2006	Age at menopause: 46-47	NA	33.8
+Mali	2006	Age at menopause: 48-49	NA	55.2
+Mali	2001	Age at menopause: 30-34	NA	1.4
+Mali	2001	Age at menopause: 35-39	NA	2
+Mali	2001	Age at menopause: 40-41	NA	6.7
+Mali	2001	Age at menopause: 42-43	NA	11.1
+Mali	2001	Age at menopause: 44-45	NA	25.1
+Mali	2001	Age at menopause: 46-47	NA	27.7
+Mali	2001	Age at menopause: 48-49	NA	51.1
+Mali	1995	Age at menopause: 30-34	NA	1.8
+Mali	1995	Age at menopause: 35-39	NA	2.9
+Mali	1995	Age at menopause: 40-41	NA	6
+Mali	1995	Age at menopause: 42-43	NA	10.6
+Mali	1995	Age at menopause: 44-45	NA	24.9
+Mali	1995	Age at menopause: 46-47	NA	38.2
+Mali	1995	Age at menopause: 48-49	NA	56
+Mauritania	2019	Age at menopause: 30-34	NA	1.8
+Mauritania	2019	Age at menopause: 35-39	NA	1.8
+Mauritania	2019	Age at menopause: 40-41	NA	5.5
+Mauritania	2019	Age at menopause: 42-43	NA	9.5
+Mauritania	2019	Age at menopause: 44-45	NA	15.4
+Mauritania	2019	Age at menopause: 46-47	NA	27.3
+Mauritania	2019	Age at menopause: 48-49	NA	43.2
+Mauritania	2000	Age at menopause: 30-34	NA	2.6
+Mauritania	2000	Age at menopause: 35-39	NA	4.6
+Mauritania	2000	Age at menopause: 40-41	NA	14.6
+Mauritania	2000	Age at menopause: 42-43	NA	20.5
+Mauritania	2000	Age at menopause: 44-45	NA	28.7
+Mauritania	2000	Age at menopause: 46-47	NA	34
+Mauritania	2000	Age at menopause: 48-49	NA	48.8
+Moldova	2005	Age at menopause: 30-34	NA	1.1
+Moldova	2005	Age at menopause: 35-39	NA	1.1
+Moldova	2005	Age at menopause: 40-41	NA	4.1
+Moldova	2005	Age at menopause: 42-43	NA	6.6
+Moldova	2005	Age at menopause: 44-45	NA	10.4
+Moldova	2005	Age at menopause: 46-47	NA	26.7
+Moldova	2005	Age at menopause: 48-49	NA	43.4
+Morocco	2003	Age at menopause: 30-34	NA	1.3
+Morocco	2003	Age at menopause: 35-39	NA	2.2
+Morocco	2003	Age at menopause: 40-41	NA	3.7
+Morocco	2003	Age at menopause: 42-43	NA	7.2
+Morocco	2003	Age at menopause: 44-45	NA	12.3
+Morocco	2003	Age at menopause: 46-47	NA	19.9
+Morocco	2003	Age at menopause: 48-49	NA	33.9
+Morocco	1992	Age at menopause: 30-34	NA	1
+Morocco	1992	Age at menopause: 35-39	NA	1.9
+Morocco	1992	Age at menopause: 40-41	NA	4.1
+Morocco	1992	Age at menopause: 42-43	NA	3.9
+Morocco	1992	Age at menopause: 44-45	NA	12.2
+Morocco	1992	Age at menopause: 46-47	NA	25.4
+Morocco	1992	Age at menopause: 48-49	NA	29.8
+Mozambique	2022	Age at menopause: 30-34	NA	5.1
+Mozambique	2022	Age at menopause: 35-39	NA	4.9
+Mozambique	2022	Age at menopause: 40-41	NA	7.9
+Mozambique	2022	Age at menopause: 42-43	NA	11.9
+Mozambique	2022	Age at menopause: 44-45	NA	15.8
+Mozambique	2022	Age at menopause: 46-47	NA	25.1
+Mozambique	2022	Age at menopause: 48-49	NA	36.8
+Mozambique	2015	Age at menopause: 30-34	NA	15.5
+Mozambique	2015	Age at menopause: 35-39	NA	15.5
+Mozambique	2015	Age at menopause: 40-41	NA	19
+Mozambique	2015	Age at menopause: 42-43	NA	23.7
+Mozambique	2015	Age at menopause: 44-45	NA	28.1
+Mozambique	2015	Age at menopause: 46-47	NA	27.7
+Mozambique	2015	Age at menopause: 48-49	NA	44.4
+Mozambique	2011	Age at menopause: 30-34	NA	2.4
+Mozambique	2011	Age at menopause: 35-39	NA	3.4
+Mozambique	2011	Age at menopause: 40-41	NA	9.4
+Mozambique	2011	Age at menopause: 42-43	NA	14.1
+Mozambique	2011	Age at menopause: 44-45	NA	19.6
+Mozambique	2011	Age at menopause: 46-47	NA	30.5
+Mozambique	2011	Age at menopause: 48-49	NA	40.1
+Mozambique	2003	Age at menopause: 30-34	NA	1.1
+Mozambique	2003	Age at menopause: 35-39	NA	2.4
+Mozambique	2003	Age at menopause: 40-41	NA	6.4
+Mozambique	2003	Age at menopause: 42-43	NA	12.9
+Mozambique	2003	Age at menopause: 44-45	NA	19.6
+Mozambique	2003	Age at menopause: 46-47	NA	31
+Mozambique	2003	Age at menopause: 48-49	NA	44.9
+Mozambique	1997	Age at menopause: 30-34	NA	1.8
+Mozambique	1997	Age at menopause: 35-39	NA	3.1
+Mozambique	1997	Age at menopause: 40-41	NA	18.6
+Mozambique	1997	Age at menopause: 42-43	NA	14.3
+Mozambique	1997	Age at menopause: 44-45	NA	19.3
+Mozambique	1997	Age at menopause: 46-47	NA	33.3
+Mozambique	1997	Age at menopause: 48-49	NA	44
+Myanmar	2015	Age at menopause: 30-34	NA	9.6
+Myanmar	2015	Age at menopause: 35-39	NA	11.4
+Myanmar	2015	Age at menopause: 40-41	NA	10
+Myanmar	2015	Age at menopause: 42-43	NA	13.5
+Myanmar	2015	Age at menopause: 44-45	NA	17
+Myanmar	2015	Age at menopause: 46-47	NA	29.1
+Myanmar	2015	Age at menopause: 48-49	NA	50
+Namibia	2013	Age at menopause: 30-34	NA	5.6
+Namibia	2013	Age at menopause: 35-39	NA	5.9
+Namibia	2013	Age at menopause: 40-41	NA	13.6
+Namibia	2013	Age at menopause: 42-43	NA	10
+Namibia	2013	Age at menopause: 44-45	NA	19.9
+Namibia	2013	Age at menopause: 46-47	NA	24.2
+Namibia	2013	Age at menopause: 48-49	NA	33.6
+Namibia	2006	Age at menopause: 30-34	NA	4.9
+Namibia	2006	Age at menopause: 35-39	NA	7
+Namibia	2006	Age at menopause: 40-41	NA	13.1
+Namibia	2006	Age at menopause: 42-43	NA	13.5
+Namibia	2006	Age at menopause: 44-45	NA	19
+Namibia	2006	Age at menopause: 46-47	NA	25.7
+Namibia	2006	Age at menopause: 48-49	NA	42.6
+Namibia	2000	Age at menopause: 30-34	NA	5.3
+Namibia	2000	Age at menopause: 35-39	NA	6.2
+Namibia	2000	Age at menopause: 40-41	NA	5.3
+Namibia	2000	Age at menopause: 42-43	NA	16.3
+Namibia	2000	Age at menopause: 44-45	NA	19
+Namibia	2000	Age at menopause: 46-47	NA	26.1
+Namibia	2000	Age at menopause: 48-49	NA	46.9
+Namibia	1992	Age at menopause: 30-34	NA	1.7
+Namibia	1992	Age at menopause: 35-39	NA	4.9
+Namibia	1992	Age at menopause: 40-41	NA	5.4
+Namibia	1992	Age at menopause: 42-43	NA	10.1
+Namibia	1992	Age at menopause: 44-45	NA	16.6
+Namibia	1992	Age at menopause: 46-47	NA	20.9
+Namibia	1992	Age at menopause: 48-49	NA	32.3
+Nepal	2022	Age at menopause: 30-34	NA	5.4
+Nepal	2022	Age at menopause: 35-39	NA	7.9
+Nepal	2022	Age at menopause: 40-41	NA	13.5
+Nepal	2022	Age at menopause: 42-43	NA	16.6
+Nepal	2022	Age at menopause: 44-45	NA	21.1
+Nepal	2022	Age at menopause: 46-47	NA	34.3
+Nepal	2022	Age at menopause: 48-49	NA	42.3
+Nepal	2016	Age at menopause: 30-34	NA	5.7
+Nepal	2016	Age at menopause: 35-39	NA	10.5
+Nepal	2016	Age at menopause: 40-41	NA	14
+Nepal	2016	Age at menopause: 42-43	NA	12.6
+Nepal	2016	Age at menopause: 44-45	NA	22.7
+Nepal	2016	Age at menopause: 46-47	NA	28
+Nepal	2016	Age at menopause: 48-49	NA	47.3
+Nepal	2011	Age at menopause: 30-34	NA	4.7
+Nepal	2011	Age at menopause: 35-39	NA	7.4
+Nepal	2011	Age at menopause: 40-41	NA	10.2
+Nepal	2011	Age at menopause: 42-43	NA	16.1
+Nepal	2011	Age at menopause: 44-45	NA	19.5
+Nepal	2011	Age at menopause: 46-47	NA	30.8
+Nepal	2011	Age at menopause: 48-49	NA	50
+Nepal	2006	Age at menopause: 30-34	NA	4.6
+Nepal	2006	Age at menopause: 35-39	NA	6
+Nepal	2006	Age at menopause: 40-41	NA	12
+Nepal	2006	Age at menopause: 42-43	NA	11.9
+Nepal	2006	Age at menopause: 44-45	NA	24.6
+Nepal	2006	Age at menopause: 46-47	NA	48.2
+Nepal	2006	Age at menopause: 48-49	NA	63.5
+Nepal	2001	Age at menopause: 30-34	NA	3.3
+Nepal	2001	Age at menopause: 35-39	NA	4.9
+Nepal	2001	Age at menopause: 40-41	NA	9.7
+Nepal	2001	Age at menopause: 42-43	NA	14.2
+Nepal	2001	Age at menopause: 44-45	NA	26.4
+Nepal	2001	Age at menopause: 46-47	NA	44.6
+Nepal	2001	Age at menopause: 48-49	NA	57.2
+Nepal	1996	Age at menopause: 30-34	NA	2.5
+Nepal	1996	Age at menopause: 35-39	NA	4.3
+Nepal	1996	Age at menopause: 40-41	NA	11
+Nepal	1996	Age at menopause: 42-43	NA	17.6
+Nepal	1996	Age at menopause: 44-45	NA	23.6
+Nepal	1996	Age at menopause: 46-47	NA	37.1
+Nepal	1996	Age at menopause: 48-49	NA	49.8
+Nicaragua	2001	Age at menopause: 30-34	NA	3.1
+Nicaragua	2001	Age at menopause: 35-39	NA	4.3
+Nicaragua	2001	Age at menopause: 40-41	NA	9.3
+Nicaragua	2001	Age at menopause: 42-43	NA	16.5
+Nicaragua	2001	Age at menopause: 44-45	NA	20.8
+Nicaragua	2001	Age at menopause: 46-47	NA	36.1
+Nicaragua	2001	Age at menopause: 48-49	NA	48.5
+Nicaragua	1998	Age at menopause: 30-34	NA	1.7
+Nicaragua	1998	Age at menopause: 35-39	NA	3.6
+Nicaragua	1998	Age at menopause: 40-41	NA	8.1
+Nicaragua	1998	Age at menopause: 42-43	NA	14.7
+Nicaragua	1998	Age at menopause: 44-45	NA	21.7
+Nicaragua	1998	Age at menopause: 46-47	NA	41.4
+Nicaragua	1998	Age at menopause: 48-49	NA	54.4
+Niger	2012	Age at menopause: 30-34	NA	1.5
+Niger	2012	Age at menopause: 35-39	NA	2.7
+Niger	2012	Age at menopause: 40-41	NA	6.5
+Niger	2012	Age at menopause: 42-43	NA	12.9
+Niger	2012	Age at menopause: 44-45	NA	23
+Niger	2012	Age at menopause: 46-47	NA	32.6
+Niger	2012	Age at menopause: 48-49	NA	49.5
+Niger	2006	Age at menopause: 30-34	NA	1
+Niger	2006	Age at menopause: 35-39	NA	2.3
+Niger	2006	Age at menopause: 40-41	NA	7.6
+Niger	2006	Age at menopause: 42-43	NA	11.8
+Niger	2006	Age at menopause: 44-45	NA	23.6
+Niger	2006	Age at menopause: 46-47	NA	28
+Niger	2006	Age at menopause: 48-49	NA	46.9
+Niger	1998	Age at menopause: 30-34	NA	0.9
+Niger	1998	Age at menopause: 35-39	NA	3
+Niger	1998	Age at menopause: 40-41	NA	9.5
+Niger	1998	Age at menopause: 42-43	NA	15.5
+Niger	1998	Age at menopause: 44-45	NA	34.6
+Niger	1998	Age at menopause: 46-47	NA	42
+Niger	1998	Age at menopause: 48-49	NA	52.1
+Niger	1992	Age at menopause: 30-34	NA	1.4
+Niger	1992	Age at menopause: 35-39	NA	4.8
+Niger	1992	Age at menopause: 40-41	NA	11.1
+Niger	1992	Age at menopause: 42-43	NA	11.1
+Niger	1992	Age at menopause: 44-45	NA	25.5
+Niger	1992	Age at menopause: 46-47	NA	33.1
+Niger	1992	Age at menopause: 48-49	NA	47.1
+Nigeria	2018	Age at menopause: 30-34	NA	1.3
+Nigeria	2018	Age at menopause: 35-39	NA	2.3
+Nigeria	2018	Age at menopause: 40-41	NA	7.6
+Nigeria	2018	Age at menopause: 42-43	NA	9
+Nigeria	2018	Age at menopause: 44-45	NA	23.1
+Nigeria	2018	Age at menopause: 46-47	NA	28.6
+Nigeria	2018	Age at menopause: 48-49	NA	51.4
+Nigeria	2013	Age at menopause: 30-34	NA	0.9
+Nigeria	2013	Age at menopause: 35-39	NA	1.3
+Nigeria	2013	Age at menopause: 40-41	NA	6.5
+Nigeria	2013	Age at menopause: 42-43	NA	10.4
+Nigeria	2013	Age at menopause: 44-45	NA	18.7
+Nigeria	2013	Age at menopause: 46-47	NA	26.8
+Nigeria	2013	Age at menopause: 48-49	NA	44
+Nigeria	2008	Age at menopause: 30-34	NA	1
+Nigeria	2008	Age at menopause: 35-39	NA	2.2
+Nigeria	2008	Age at menopause: 40-41	NA	6.9
+Nigeria	2008	Age at menopause: 42-43	NA	9.8
+Nigeria	2008	Age at menopause: 44-45	NA	19
+Nigeria	2008	Age at menopause: 46-47	NA	29.1
+Nigeria	2008	Age at menopause: 48-49	NA	47.9
+Nigeria	2003	Age at menopause: 30-34	NA	0.6
+Nigeria	2003	Age at menopause: 35-39	NA	1.5
+Nigeria	2003	Age at menopause: 40-41	NA	5.9
+Nigeria	2003	Age at menopause: 42-43	NA	12.7
+Nigeria	2003	Age at menopause: 44-45	NA	28.9
+Nigeria	2003	Age at menopause: 46-47	NA	36.3
+Nigeria	2003	Age at menopause: 48-49	NA	52.4
+Nigeria	1990	Age at menopause: 30-34	NA	1.6
+Nigeria	1990	Age at menopause: 35-39	NA	3.2
+Nigeria	1990	Age at menopause: 40-41	NA	13.8
+Nigeria	1990	Age at menopause: 42-43	NA	12.9
+Nigeria	1990	Age at menopause: 44-45	NA	25.2
+Nigeria	1990	Age at menopause: 46-47	NA	22
+Nigeria	1990	Age at menopause: 48-49	NA	43
+Pakistan	2017	Age at menopause: 30-34	NA	2.2
+Pakistan	2017	Age at menopause: 35-39	NA	3.9
+Pakistan	2017	Age at menopause: 40-41	NA	12.7
+Pakistan	2017	Age at menopause: 42-43	NA	16.5
+Pakistan	2017	Age at menopause: 44-45	NA	23.8
+Pakistan	2017	Age at menopause: 46-47	NA	36.5
+Pakistan	2017	Age at menopause: 48-49	NA	39
+Pakistan	2012	Age at menopause: 30-34	NA	1.7
+Pakistan	2012	Age at menopause: 35-39	NA	4.5
+Pakistan	2012	Age at menopause: 40-41	NA	12.5
+Pakistan	2012	Age at menopause: 42-43	NA	20.5
+Pakistan	2012	Age at menopause: 44-45	NA	29.2
+Pakistan	2012	Age at menopause: 46-47	NA	30.1
+Pakistan	2012	Age at menopause: 48-49	NA	51.6
+Pakistan	2006	Age at menopause: 30-34	NA	1.7
+Pakistan	2006	Age at menopause: 35-39	NA	4
+Pakistan	2006	Age at menopause: 40-41	NA	10.7
+Pakistan	2006	Age at menopause: 42-43	NA	10.5
+Pakistan	2006	Age at menopause: 44-45	NA	22.9
+Pakistan	2006	Age at menopause: 46-47	NA	36.9
+Pakistan	2006	Age at menopause: 48-49	NA	48.5
+Pakistan	1990	Age at menopause: 30-34	NA	1
+Pakistan	1990	Age at menopause: 35-39	NA	2
+Pakistan	1990	Age at menopause: 40-41	NA	10.2
+Pakistan	1990	Age at menopause: 42-43	NA	13.5
+Pakistan	1990	Age at menopause: 44-45	NA	21.3
+Pakistan	1990	Age at menopause: 46-47	NA	37.1
+Pakistan	1990	Age at menopause: 48-49	NA	60.4
+Papua New Guinea	2016	Age at menopause: 30-34	NA	3.7
+Papua New Guinea	2016	Age at menopause: 35-39	NA	4.3
+Papua New Guinea	2016	Age at menopause: 40-41	NA	7.9
+Papua New Guinea	2016	Age at menopause: 42-43	NA	12.2
+Papua New Guinea	2016	Age at menopause: 44-45	NA	14.6
+Papua New Guinea	2016	Age at menopause: 46-47	NA	26.7
+Papua New Guinea	2016	Age at menopause: 48-49	NA	41.6
+Paraguay	1990	Age at menopause: 30-34	NA	0.3
+Paraguay	1990	Age at menopause: 35-39	NA	2.4
+Paraguay	1990	Age at menopause: 40-41	NA	3.4
+Paraguay	1990	Age at menopause: 42-43	NA	8.8
+Paraguay	1990	Age at menopause: 44-45	NA	14.1
+Paraguay	1990	Age at menopause: 46-47	NA	26.9
+Paraguay	1990	Age at menopause: 48-49	NA	43
+Peru	2012	Age at menopause: 30-34	NA	5.5
+Peru	2012	Age at menopause: 35-39	NA	6.7
+Peru	2012	Age at menopause: 40-41	NA	10.5
+Peru	2012	Age at menopause: 42-43	NA	14.8
+Peru	2012	Age at menopause: 44-45	NA	22.3
+Peru	2012	Age at menopause: 46-47	NA	35.1
+Peru	2012	Age at menopause: 48-49	NA	57.6
+Peru	2011	Age at menopause: 30-34	NA	6.7
+Peru	2011	Age at menopause: 35-39	NA	7.3
+Peru	2011	Age at menopause: 40-41	NA	9.2
+Peru	2011	Age at menopause: 42-43	NA	10.9
+Peru	2011	Age at menopause: 44-45	NA	20.8
+Peru	2011	Age at menopause: 46-47	NA	33
+Peru	2011	Age at menopause: 48-49	NA	58.4
+Peru	2010	Age at menopause: 30-34	NA	6.2
+Peru	2010	Age at menopause: 35-39	NA	6.8
+Peru	2010	Age at menopause: 40-41	NA	6.4
+Peru	2010	Age at menopause: 42-43	NA	13.2
+Peru	2010	Age at menopause: 44-45	NA	19.6
+Peru	2010	Age at menopause: 46-47	NA	34.4
+Peru	2010	Age at menopause: 48-49	NA	57.8
+Peru	2009	Age at menopause: 30-34	NA	6.9
+Peru	2009	Age at menopause: 35-39	NA	6.5
+Peru	2009	Age at menopause: 40-41	NA	7.1
+Peru	2009	Age at menopause: 42-43	NA	11.9
+Peru	2009	Age at menopause: 44-45	NA	23
+Peru	2009	Age at menopause: 46-47	NA	43.5
+Peru	2009	Age at menopause: 48-49	NA	58.7
+Peru	2007	Age at menopause: 30-34	NA	5
+Peru	2007	Age at menopause: 35-39	NA	6.3
+Peru	2007	Age at menopause: 40-41	NA	10
+Peru	2007	Age at menopause: 42-43	NA	15.1
+Peru	2007	Age at menopause: 44-45	NA	18.6
+Peru	2007	Age at menopause: 46-47	NA	37.1
+Peru	2007	Age at menopause: 48-49	NA	62.7
+Peru	2004	Age at menopause: 30-34	NA	6.3
+Peru	2004	Age at menopause: 35-39	NA	5.4
+Peru	2004	Age at menopause: 40-41	NA	7.6
+Peru	2004	Age at menopause: 42-43	NA	14.4
+Peru	2004	Age at menopause: 44-45	NA	24.2
+Peru	2004	Age at menopause: 46-47	NA	36.5
+Peru	2004	Age at menopause: 48-49	NA	58.6
+Peru	2000	Age at menopause: 30-34	NA	5
+Peru	2000	Age at menopause: 35-39	NA	4.9
+Peru	2000	Age at menopause: 40-41	NA	7.7
+Peru	2000	Age at menopause: 42-43	NA	12.7
+Peru	2000	Age at menopause: 44-45	NA	24
+Peru	2000	Age at menopause: 46-47	NA	31.1
+Peru	2000	Age at menopause: 48-49	NA	56.1
+Peru	1996	Age at menopause: 30-34	NA	1.7
+Peru	1996	Age at menopause: 35-39	NA	2.8
+Peru	1996	Age at menopause: 40-41	NA	8
+Peru	1996	Age at menopause: 42-43	NA	12.4
+Peru	1996	Age at menopause: 44-45	NA	21.2
+Peru	1996	Age at menopause: 46-47	NA	40.4
+Peru	1996	Age at menopause: 48-49	NA	61.9
+Peru	1991	Age at menopause: 30-34	NA	1.1
+Peru	1991	Age at menopause: 35-39	NA	3.1
+Peru	1991	Age at menopause: 40-41	NA	7.9
+Peru	1991	Age at menopause: 42-43	NA	12
+Peru	1991	Age at menopause: 44-45	NA	25.2
+Peru	1991	Age at menopause: 46-47	NA	34.7
+Peru	1991	Age at menopause: 48-49	NA	56.6
+Philippines	2022	Age at menopause: 30-34	NA	1.8
+Philippines	2022	Age at menopause: 35-39	NA	2.7
+Philippines	2022	Age at menopause: 40-41	NA	2.7
+Philippines	2022	Age at menopause: 42-43	NA	3.9
+Philippines	2022	Age at menopause: 44-45	NA	5.3
+Philippines	2022	Age at menopause: 46-47	NA	13
+Philippines	2022	Age at menopause: 48-49	NA	23.1
+Philippines	2017	Age at menopause: 30-34	NA	2.2
+Philippines	2017	Age at menopause: 35-39	NA	2.5
+Philippines	2017	Age at menopause: 40-41	NA	2.3
+Philippines	2017	Age at menopause: 42-43	NA	3.7
+Philippines	2017	Age at menopause: 44-45	NA	6.7
+Philippines	2017	Age at menopause: 46-47	NA	16.2
+Philippines	2017	Age at menopause: 48-49	NA	29.2
+Philippines	2013	Age at menopause: 30-34	NA	0.9
+Philippines	2013	Age at menopause: 35-39	NA	1.5
+Philippines	2013	Age at menopause: 40-41	NA	2.8
+Philippines	2013	Age at menopause: 42-43	NA	4
+Philippines	2013	Age at menopause: 44-45	NA	7.9
+Philippines	2013	Age at menopause: 46-47	NA	15.6
+Philippines	2013	Age at menopause: 48-49	NA	31.8
+Philippines	2008	Age at menopause: 30-34	NA	1.3
+Philippines	2008	Age at menopause: 35-39	NA	1.6
+Philippines	2008	Age at menopause: 40-41	NA	1.5
+Philippines	2008	Age at menopause: 42-43	NA	4.5
+Philippines	2008	Age at menopause: 44-45	NA	8.4
+Philippines	2008	Age at menopause: 46-47	NA	16.3
+Philippines	2008	Age at menopause: 48-49	NA	35.1
+Philippines	2003	Age at menopause: 30-34	NA	1.1
+Philippines	2003	Age at menopause: 35-39	NA	1.8
+Philippines	2003	Age at menopause: 40-41	NA	3.7
+Philippines	2003	Age at menopause: 42-43	NA	5.3
+Philippines	2003	Age at menopause: 44-45	NA	10.8
+Philippines	2003	Age at menopause: 46-47	NA	18.2
+Philippines	2003	Age at menopause: 48-49	NA	38.2
+Philippines	1998	Age at menopause: 30-34	NA	1.2
+Philippines	1998	Age at menopause: 35-39	NA	1.4
+Philippines	1998	Age at menopause: 40-41	NA	3.6
+Philippines	1998	Age at menopause: 42-43	NA	5.8
+Philippines	1998	Age at menopause: 44-45	NA	9.4
+Philippines	1998	Age at menopause: 46-47	NA	20.7
+Philippines	1998	Age at menopause: 48-49	NA	37.6
+Philippines	1993	Age at menopause: 30-34	NA	0.6
+Philippines	1993	Age at menopause: 35-39	NA	1
+Philippines	1993	Age at menopause: 40-41	NA	2.6
+Philippines	1993	Age at menopause: 42-43	NA	6.6
+Philippines	1993	Age at menopause: 44-45	NA	12.8
+Philippines	1993	Age at menopause: 46-47	NA	25.5
+Philippines	1993	Age at menopause: 48-49	NA	42.2
+Rwanda	2019	Age at menopause: 30-34	NA	4.4
+Rwanda	2019	Age at menopause: 35-39	NA	5.4
+Rwanda	2019	Age at menopause: 40-41	NA	5.5
+Rwanda	2019	Age at menopause: 42-43	NA	7.9
+Rwanda	2019	Age at menopause: 44-45	NA	9.8
+Rwanda	2019	Age at menopause: 46-47	NA	19.3
+Rwanda	2019	Age at menopause: 48-49	NA	41.3
+Rwanda	2014	Age at menopause: 30-34	NA	5.1
+Rwanda	2014	Age at menopause: 35-39	NA	5
+Rwanda	2014	Age at menopause: 40-41	NA	7.7
+Rwanda	2014	Age at menopause: 42-43	NA	6.2
+Rwanda	2014	Age at menopause: 44-45	NA	13.4
+Rwanda	2014	Age at menopause: 46-47	NA	15.4
+Rwanda	2014	Age at menopause: 48-49	NA	30.8
+Rwanda	2010	Age at menopause: 30-34	NA	4.9
+Rwanda	2010	Age at menopause: 35-39	NA	6.2
+Rwanda	2010	Age at menopause: 40-41	NA	6
+Rwanda	2010	Age at menopause: 42-43	NA	6.7
+Rwanda	2010	Age at menopause: 44-45	NA	8.7
+Rwanda	2010	Age at menopause: 46-47	NA	16
+Rwanda	2010	Age at menopause: 48-49	NA	28.8
+Rwanda	2005	Age at menopause: 30-34	NA	1.3
+Rwanda	2005	Age at menopause: 35-39	NA	2
+Rwanda	2005	Age at menopause: 40-41	NA	3.7
+Rwanda	2005	Age at menopause: 42-43	NA	4
+Rwanda	2005	Age at menopause: 44-45	NA	6.7
+Rwanda	2005	Age at menopause: 46-47	NA	14.5
+Rwanda	2005	Age at menopause: 48-49	NA	31.7
+Rwanda	2000	Age at menopause: 30-34	NA	0.7
+Rwanda	2000	Age at menopause: 35-39	NA	1.5
+Rwanda	2000	Age at menopause: 40-41	NA	2.4
+Rwanda	2000	Age at menopause: 42-43	NA	5.2
+Rwanda	2000	Age at menopause: 44-45	NA	8.3
+Rwanda	2000	Age at menopause: 46-47	NA	19.9
+Rwanda	2000	Age at menopause: 48-49	NA	39.8
+Rwanda	1992	Age at menopause: 30-34	NA	2.2
+Rwanda	1992	Age at menopause: 35-39	NA	3.3
+Rwanda	1992	Age at menopause: 40-41	NA	3
+Rwanda	1992	Age at menopause: 42-43	NA	5.6
+Rwanda	1992	Age at menopause: 44-45	NA	11.4
+Rwanda	1992	Age at menopause: 46-47	NA	20.3
+Rwanda	1992	Age at menopause: 48-49	NA	35.1
+Sao Tome and Principe	2008	Age at menopause: 30-34	NA	2.6
+Sao Tome and Principe	2008	Age at menopause: 35-39	NA	2.3
+Sao Tome and Principe	2008	Age at menopause: 40-41	NA	2.9
+Sao Tome and Principe	2008	Age at menopause: 42-43	NA	2.1
+Sao Tome and Principe	2008	Age at menopause: 44-45	NA	8.2
+Sao Tome and Principe	2008	Age at menopause: 46-47	NA	13.3
+Sao Tome and Principe	2008	Age at menopause: 48-49	NA	29.9
+Senegal	2019	Age at menopause: 30-34	NA	1.3
+Senegal	2019	Age at menopause: 35-39	NA	2.2
+Senegal	2019	Age at menopause: 40-41	NA	4.7
+Senegal	2019	Age at menopause: 42-43	NA	6.7
+Senegal	2019	Age at menopause: 44-45	NA	10.5
+Senegal	2019	Age at menopause: 46-47	NA	23.8
+Senegal	2019	Age at menopause: 48-49	NA	23.8
+Senegal	2018	Age at menopause: 30-34	NA	2.4
+Senegal	2018	Age at menopause: 35-39	NA	2.3
+Senegal	2018	Age at menopause: 40-41	NA	6.1
+Senegal	2018	Age at menopause: 42-43	NA	6.2
+Senegal	2018	Age at menopause: 44-45	NA	9.4
+Senegal	2018	Age at menopause: 46-47	NA	15.7
+Senegal	2018	Age at menopause: 48-49	NA	28
+Senegal	2017	Age at menopause: 30-34	NA	1.4
+Senegal	2017	Age at menopause: 35-39	NA	3.1
+Senegal	2017	Age at menopause: 40-41	NA	4.8
+Senegal	2017	Age at menopause: 42-43	NA	6.1
+Senegal	2017	Age at menopause: 44-45	NA	15.1
+Senegal	2017	Age at menopause: 46-47	NA	21.9
+Senegal	2017	Age at menopause: 48-49	NA	27
+Senegal	2016	Age at menopause: 30-34	NA	2.5
+Senegal	2016	Age at menopause: 35-39	NA	1.9
+Senegal	2016	Age at menopause: 40-41	NA	3.5
+Senegal	2016	Age at menopause: 42-43	NA	11.1
+Senegal	2016	Age at menopause: 44-45	NA	11.1
+Senegal	2016	Age at menopause: 46-47	NA	19.8
+Senegal	2016	Age at menopause: 48-49	NA	34.7
+Senegal	2015	Age at menopause: 30-34	NA	2.1
+Senegal	2015	Age at menopause: 35-39	NA	2.6
+Senegal	2015	Age at menopause: 40-41	NA	3.7
+Senegal	2015	Age at menopause: 42-43	NA	7
+Senegal	2015	Age at menopause: 44-45	NA	13
+Senegal	2015	Age at menopause: 46-47	NA	17.2
+Senegal	2015	Age at menopause: 48-49	NA	38.1
+Senegal	2014	Age at menopause: 30-34	NA	1.3
+Senegal	2014	Age at menopause: 35-39	NA	3.6
+Senegal	2014	Age at menopause: 40-41	NA	6.9
+Senegal	2014	Age at menopause: 42-43	NA	9.9
+Senegal	2014	Age at menopause: 44-45	NA	13.1
+Senegal	2014	Age at menopause: 46-47	NA	31.5
+Senegal	2014	Age at menopause: 48-49	NA	29.2
+Senegal	2012	Age at menopause: 30-34	NA	1.1
+Senegal	2012	Age at menopause: 35-39	NA	3.3
+Senegal	2012	Age at menopause: 40-41	NA	2.3
+Senegal	2012	Age at menopause: 42-43	NA	14.7
+Senegal	2012	Age at menopause: 44-45	NA	15.1
+Senegal	2012	Age at menopause: 46-47	NA	29.9
+Senegal	2012	Age at menopause: 48-49	NA	39.3
+Senegal	2010	Age at menopause: 30-34	NA	0.7
+Senegal	2010	Age at menopause: 35-39	NA	2.6
+Senegal	2010	Age at menopause: 40-41	NA	12.2
+Senegal	2010	Age at menopause: 42-43	NA	13
+Senegal	2010	Age at menopause: 44-45	NA	23.2
+Senegal	2010	Age at menopause: 46-47	NA	28.7
+Senegal	2010	Age at menopause: 48-49	NA	37.7
+Senegal	2005	Age at menopause: 30-34	NA	1
+Senegal	2005	Age at menopause: 35-39	NA	2.7
+Senegal	2005	Age at menopause: 40-41	NA	7.2
+Senegal	2005	Age at menopause: 42-43	NA	11.4
+Senegal	2005	Age at menopause: 44-45	NA	19
+Senegal	2005	Age at menopause: 46-47	NA	28.4
+Senegal	2005	Age at menopause: 48-49	NA	48.6
+Senegal	1992	Age at menopause: 30-34	NA	0.8
+Senegal	1992	Age at menopause: 35-39	NA	2
+Senegal	1992	Age at menopause: 40-41	NA	7.2
+Senegal	1992	Age at menopause: 42-43	NA	8
+Senegal	1992	Age at menopause: 44-45	NA	21.5
+Senegal	1992	Age at menopause: 46-47	NA	35.3
+Senegal	1992	Age at menopause: 48-49	NA	40.2
+Sierra Leone	2019	Age at menopause: 30-34	NA	2.7
+Sierra Leone	2019	Age at menopause: 35-39	NA	4.3
+Sierra Leone	2019	Age at menopause: 40-41	NA	9.3
+Sierra Leone	2019	Age at menopause: 42-43	NA	16.1
+Sierra Leone	2019	Age at menopause: 44-45	NA	30.1
+Sierra Leone	2019	Age at menopause: 46-47	NA	38.3
+Sierra Leone	2019	Age at menopause: 48-49	NA	55.7
+Sierra Leone	2013	Age at menopause: 30-34	NA	1.7
+Sierra Leone	2013	Age at menopause: 35-39	NA	3.4
+Sierra Leone	2013	Age at menopause: 40-41	NA	9.2
+Sierra Leone	2013	Age at menopause: 42-43	NA	16.1
+Sierra Leone	2013	Age at menopause: 44-45	NA	23.4
+Sierra Leone	2013	Age at menopause: 46-47	NA	46.6
+Sierra Leone	2013	Age at menopause: 48-49	NA	45.3
+Sierra Leone	2008	Age at menopause: 30-34	NA	3.7
+Sierra Leone	2008	Age at menopause: 35-39	NA	5.1
+Sierra Leone	2008	Age at menopause: 40-41	NA	12.9
+Sierra Leone	2008	Age at menopause: 42-43	NA	23.5
+Sierra Leone	2008	Age at menopause: 44-45	NA	31.6
+Sierra Leone	2008	Age at menopause: 46-47	NA	33.5
+Sierra Leone	2008	Age at menopause: 48-49	NA	57.2
+South Africa	2016	Age at menopause: 30-34	NA	8.9
+South Africa	2016	Age at menopause: 35-39	NA	9.5
+South Africa	2016	Age at menopause: 40-41	NA	13.7
+South Africa	2016	Age at menopause: 42-43	NA	16.1
+South Africa	2016	Age at menopause: 44-45	NA	24.7
+South Africa	2016	Age at menopause: 46-47	NA	30.4
+South Africa	2016	Age at menopause: 48-49	NA	44.7
+South Africa	1998	Age at menopause: 30-34	NA	9
+South Africa	1998	Age at menopause: 35-39	NA	11.2
+South Africa	1998	Age at menopause: 40-41	NA	13.2
+South Africa	1998	Age at menopause: 42-43	NA	21.1
+South Africa	1998	Age at menopause: 44-45	NA	23.1
+South Africa	1998	Age at menopause: 46-47	NA	32.3
+South Africa	1998	Age at menopause: 48-49	NA	47.4
+Tajikistan	2017	Age at menopause: 30-34	NA	1.1
+Tajikistan	2017	Age at menopause: 35-39	NA	2.6
+Tajikistan	2017	Age at menopause: 40-41	NA	5.6
+Tajikistan	2017	Age at menopause: 42-43	NA	10.5
+Tajikistan	2017	Age at menopause: 44-45	NA	17.4
+Tajikistan	2017	Age at menopause: 46-47	NA	22.1
+Tajikistan	2017	Age at menopause: 48-49	NA	44.4
+Tajikistan	2012	Age at menopause: 30-34	NA	1.1
+Tajikistan	2012	Age at menopause: 35-39	NA	2.7
+Tajikistan	2012	Age at menopause: 40-41	NA	4.4
+Tajikistan	2012	Age at menopause: 42-43	NA	8
+Tajikistan	2012	Age at menopause: 44-45	NA	13.1
+Tajikistan	2012	Age at menopause: 46-47	NA	32
+Tajikistan	2012	Age at menopause: 48-49	NA	49.1
+Tanzania	2022	Age at menopause: 30-34	NA	3.1
+Tanzania	2022	Age at menopause: 35-39	NA	4.5
+Tanzania	2022	Age at menopause: 40-41	NA	8.2
+Tanzania	2022	Age at menopause: 42-43	NA	11
+Tanzania	2022	Age at menopause: 44-45	NA	12.1
+Tanzania	2022	Age at menopause: 46-47	NA	26.6
+Tanzania	2022	Age at menopause: 48-49	NA	46.1
+Tanzania	2015	Age at menopause: 30-34	NA	2.1
+Tanzania	2015	Age at menopause: 35-39	NA	3.2
+Tanzania	2015	Age at menopause: 40-41	NA	4.5
+Tanzania	2015	Age at menopause: 42-43	NA	9.2
+Tanzania	2015	Age at menopause: 44-45	NA	10.5
+Tanzania	2015	Age at menopause: 46-47	NA	27
+Tanzania	2015	Age at menopause: 48-49	NA	35
+Tanzania	2010	Age at menopause: 30-34	NA	2.2
+Tanzania	2010	Age at menopause: 35-39	NA	2.8
+Tanzania	2010	Age at menopause: 40-41	NA	5.8
+Tanzania	2010	Age at menopause: 42-43	NA	9
+Tanzania	2010	Age at menopause: 44-45	NA	18.5
+Tanzania	2010	Age at menopause: 46-47	NA	31.1
+Tanzania	2010	Age at menopause: 48-49	NA	37.1
+Tanzania	2004	Age at menopause: 30-34	NA	2.1
+Tanzania	2004	Age at menopause: 35-39	NA	2.8
+Tanzania	2004	Age at menopause: 40-41	NA	5.7
+Tanzania	2004	Age at menopause: 42-43	NA	5.1
+Tanzania	2004	Age at menopause: 44-45	NA	20.1
+Tanzania	2004	Age at menopause: 46-47	NA	27.4
+Tanzania	2004	Age at menopause: 48-49	NA	43
+Tanzania	1999	Age at menopause: 30-34	NA	2.4
+Tanzania	1999	Age at menopause: 35-39	NA	3.9
+Tanzania	1999	Age at menopause: 40-41	NA	5.7
+Tanzania	1999	Age at menopause: 42-43	NA	14.5
+Tanzania	1999	Age at menopause: 44-45	NA	30.5
+Tanzania	1999	Age at menopause: 46-47	NA	15.7
+Tanzania	1999	Age at menopause: 48-49	NA	43.2
+Tanzania	1996	Age at menopause: 30-34	NA	1.5
+Tanzania	1996	Age at menopause: 35-39	NA	2.3
+Tanzania	1996	Age at menopause: 40-41	NA	6.7
+Tanzania	1996	Age at menopause: 42-43	NA	8.3
+Tanzania	1996	Age at menopause: 44-45	NA	16.1
+Tanzania	1996	Age at menopause: 46-47	NA	33.6
+Tanzania	1996	Age at menopause: 48-49	NA	43.9
+Tanzania	1991	Age at menopause: 30-34	NA	0.7
+Tanzania	1991	Age at menopause: 35-39	NA	3
+Tanzania	1991	Age at menopause: 40-41	NA	5.8
+Tanzania	1991	Age at menopause: 42-43	NA	10.9
+Tanzania	1991	Age at menopause: 44-45	NA	20.2
+Tanzania	1991	Age at menopause: 46-47	NA	25.3
+Tanzania	1991	Age at menopause: 48-49	NA	40.9
+Timor-Leste	2016	Age at menopause: 30-34	NA	6
+Timor-Leste	2016	Age at menopause: 35-39	NA	7.3
+Timor-Leste	2016	Age at menopause: 40-41	NA	15.5
+Timor-Leste	2016	Age at menopause: 42-43	NA	17.2
+Timor-Leste	2016	Age at menopause: 44-45	NA	22.8
+Timor-Leste	2016	Age at menopause: 46-47	NA	35.5
+Timor-Leste	2016	Age at menopause: 48-49	NA	43.3
+Timor-Leste	2009	Age at menopause: 30-34	NA	1.9
+Timor-Leste	2009	Age at menopause: 35-39	NA	2.5
+Timor-Leste	2009	Age at menopause: 40-41	NA	8
+Timor-Leste	2009	Age at menopause: 42-43	NA	9.7
+Timor-Leste	2009	Age at menopause: 44-45	NA	11.4
+Timor-Leste	2009	Age at menopause: 46-47	NA	18.4
+Timor-Leste	2009	Age at menopause: 48-49	NA	36.5
+Togo	2013	Age at menopause: 30-34	NA	1.3
+Togo	2013	Age at menopause: 35-39	NA	3.4
+Togo	2013	Age at menopause: 40-41	NA	10.6
+Togo	2013	Age at menopause: 42-43	NA	12.4
+Togo	2013	Age at menopause: 44-45	NA	23
+Togo	2013	Age at menopause: 46-47	NA	39.7
+Togo	2013	Age at menopause: 48-49	NA	52.5
+Togo	1998	Age at menopause: 30-34	NA	0.6
+Togo	1998	Age at menopause: 35-39	NA	2.9
+Togo	1998	Age at menopause: 40-41	NA	6.1
+Togo	1998	Age at menopause: 42-43	NA	16.3
+Togo	1998	Age at menopause: 44-45	NA	27.9
+Togo	1998	Age at menopause: 46-47	NA	36.9
+Togo	1998	Age at menopause: 48-49	NA	50.5
+Turkey	2013	Age at menopause: 30-34	NA	0.4
+Turkey	2013	Age at menopause: 35-39	NA	1.5
+Turkey	2013	Age at menopause: 40-41	NA	3.8
+Turkey	2013	Age at menopause: 42-43	NA	5.6
+Turkey	2013	Age at menopause: 44-45	NA	13.1
+Turkey	2013	Age at menopause: 46-47	NA	27.3
+Turkey	2013	Age at menopause: 48-49	NA	49.1
+Turkey	2008	Age at menopause: 30-34	NA	0.6
+Turkey	2008	Age at menopause: 35-39	NA	1.9
+Turkey	2008	Age at menopause: 40-41	NA	4
+Turkey	2008	Age at menopause: 42-43	NA	9.3
+Turkey	2008	Age at menopause: 44-45	NA	15.5
+Turkey	2008	Age at menopause: 46-47	NA	30.5
+Turkey	2008	Age at menopause: 48-49	NA	42
+Turkey	2003	Age at menopause: 30-34	NA	0.3
+Turkey	2003	Age at menopause: 35-39	NA	2.2
+Turkey	2003	Age at menopause: 40-41	NA	5.6
+Turkey	2003	Age at menopause: 42-43	NA	8.4
+Turkey	2003	Age at menopause: 44-45	NA	20.7
+Turkey	2003	Age at menopause: 46-47	NA	31.5
+Turkey	2003	Age at menopause: 48-49	NA	47.2
+Turkey	1998	Age at menopause: 30-34	NA	0.7
+Turkey	1998	Age at menopause: 35-39	NA	2.7
+Turkey	1998	Age at menopause: 40-41	NA	3.9
+Turkey	1998	Age at menopause: 42-43	NA	11.2
+Turkey	1998	Age at menopause: 44-45	NA	19.8
+Turkey	1998	Age at menopause: 46-47	NA	29.3
+Turkey	1998	Age at menopause: 48-49	NA	42.5
+Turkey	1993	Age at menopause: 30-34	NA	0.5
+Turkey	1993	Age at menopause: 35-39	NA	2.5
+Turkey	1993	Age at menopause: 40-41	NA	6.3
+Turkey	1993	Age at menopause: 42-43	NA	8.9
+Turkey	1993	Age at menopause: 44-45	NA	17.2
+Turkey	1993	Age at menopause: 46-47	NA	27.1
+Turkey	1993	Age at menopause: 48-49	NA	40.5
+Turkmenistan	2000	Age at menopause: 30-34	NA	0.9
+Turkmenistan	2000	Age at menopause: 35-39	NA	2.6
+Turkmenistan	2000	Age at menopause: 40-41	NA	5.3
+Turkmenistan	2000	Age at menopause: 42-43	NA	7.9
+Turkmenistan	2000	Age at menopause: 44-45	NA	13
+Turkmenistan	2000	Age at menopause: 46-47	NA	34.8
+Turkmenistan	2000	Age at menopause: 48-49	NA	54.1
+Uganda	2016	Age at menopause: 30-34	NA	3.2
+Uganda	2016	Age at menopause: 35-39	NA	4.8
+Uganda	2016	Age at menopause: 40-41	NA	7.6
+Uganda	2016	Age at menopause: 42-43	NA	9.4
+Uganda	2016	Age at menopause: 44-45	NA	18.7
+Uganda	2016	Age at menopause: 46-47	NA	24.6
+Uganda	2016	Age at menopause: 48-49	NA	40
+Uganda	2011	Age at menopause: 30-34	NA	2.6
+Uganda	2011	Age at menopause: 35-39	NA	4
+Uganda	2011	Age at menopause: 40-41	NA	9.3
+Uganda	2011	Age at menopause: 42-43	NA	10.2
+Uganda	2011	Age at menopause: 44-45	NA	15.1
+Uganda	2011	Age at menopause: 46-47	NA	19.5
+Uganda	2011	Age at menopause: 48-49	NA	39.7
+Uganda	2006	Age at menopause: 30-34	NA	2.4
+Uganda	2006	Age at menopause: 35-39	NA	4.3
+Uganda	2006	Age at menopause: 40-41	NA	8.6
+Uganda	2006	Age at menopause: 42-43	NA	9.9
+Uganda	2006	Age at menopause: 44-45	NA	13.1
+Uganda	2006	Age at menopause: 46-47	NA	24.4
+Uganda	2006	Age at menopause: 48-49	NA	42.8
+Uganda	2000	Age at menopause: 30-34	NA	1.8
+Uganda	2000	Age at menopause: 35-39	NA	3.5
+Uganda	2000	Age at menopause: 40-41	NA	4.1
+Uganda	2000	Age at menopause: 42-43	NA	9.4
+Uganda	2000	Age at menopause: 44-45	NA	14.7
+Uganda	2000	Age at menopause: 46-47	NA	28.2
+Uganda	2000	Age at menopause: 48-49	NA	41.8
+Uganda	1995	Age at menopause: 30-34	NA	0.8
+Uganda	1995	Age at menopause: 35-39	NA	2.3
+Uganda	1995	Age at menopause: 40-41	NA	7.6
+Uganda	1995	Age at menopause: 42-43	NA	10.2
+Uganda	1995	Age at menopause: 44-45	NA	19.5
+Uganda	1995	Age at menopause: 46-47	NA	27.9
+Uganda	1995	Age at menopause: 48-49	NA	42.6
+Ukraine	2007	Age at menopause: 30-34	NA	0.7
+Ukraine	2007	Age at menopause: 35-39	NA	1.9
+Ukraine	2007	Age at menopause: 40-41	NA	3.4
+Ukraine	2007	Age at menopause: 42-43	NA	6.8
+Ukraine	2007	Age at menopause: 44-45	NA	13.1
+Ukraine	2007	Age at menopause: 46-47	NA	21.8
+Ukraine	2007	Age at menopause: 48-49	NA	48.3
+Uzbekistan	1996	Age at menopause: 30-34	NA	1.1
+Uzbekistan	1996	Age at menopause: 35-39	NA	1.5
+Uzbekistan	1996	Age at menopause: 40-41	NA	4.6
+Uzbekistan	1996	Age at menopause: 42-43	NA	5.2
+Uzbekistan	1996	Age at menopause: 44-45	NA	8.7
+Uzbekistan	1996	Age at menopause: 46-47	NA	34
+Uzbekistan	1996	Age at menopause: 48-49	NA	38.4
+Vietnam	2002	Age at menopause: 30-34	NA	0.8
+Vietnam	2002	Age at menopause: 35-39	NA	1.1
+Vietnam	2002	Age at menopause: 40-41	NA	1.9
+Vietnam	2002	Age at menopause: 42-43	NA	2.8
+Vietnam	2002	Age at menopause: 44-45	NA	10.7
+Vietnam	2002	Age at menopause: 46-47	NA	18.2
+Vietnam	2002	Age at menopause: 48-49	NA	35.9
+Vietnam	1997	Age at menopause: 30-34	NA	0.8
+Vietnam	1997	Age at menopause: 35-39	NA	1.3
+Vietnam	1997	Age at menopause: 40-41	NA	3.1
+Vietnam	1997	Age at menopause: 42-43	NA	3.8
+Vietnam	1997	Age at menopause: 44-45	NA	7.8
+Vietnam	1997	Age at menopause: 46-47	NA	22.9
+Vietnam	1997	Age at menopause: 48-49	NA	43.3
+Yemen	2013	Age at menopause: 30-34	NA	2
+Yemen	2013	Age at menopause: 35-39	NA	2.6
+Yemen	2013	Age at menopause: 40-41	NA	5.6
+Yemen	2013	Age at menopause: 42-43	NA	5.6
+Yemen	2013	Age at menopause: 44-45	NA	12.5
+Yemen	2013	Age at menopause: 46-47	NA	14.5
+Yemen	2013	Age at menopause: 48-49	NA	22.3
+Yemen	1997	Age at menopause: 30-34	NA	1.3
+Yemen	1997	Age at menopause: 35-39	NA	2.7
+Yemen	1997	Age at menopause: 40-41	NA	6
+Yemen	1997	Age at menopause: 42-43	NA	10.8
+Yemen	1997	Age at menopause: 44-45	NA	17.3
+Yemen	1997	Age at menopause: 46-47	NA	23.6
+Yemen	1997	Age at menopause: 48-49	NA	26.2
+Yemen	1991	Age at menopause: 30-34	NA	2.1
+Yemen	1991	Age at menopause: 35-39	NA	2.2
+Yemen	1991	Age at menopause: 40-41	NA	5.5
+Yemen	1991	Age at menopause: 42-43	NA	9
+Yemen	1991	Age at menopause: 44-45	NA	18.1
+Yemen	1991	Age at menopause: 46-47	NA	30.6
+Yemen	1991	Age at menopause: 48-49	NA	29.2
+Zambia	2018	Age at menopause: 30-34	NA	3.8
+Zambia	2018	Age at menopause: 35-39	NA	4.3
+Zambia	2018	Age at menopause: 40-41	NA	7.6
+Zambia	2018	Age at menopause: 42-43	NA	6.2
+Zambia	2018	Age at menopause: 44-45	NA	13.7
+Zambia	2018	Age at menopause: 46-47	NA	26.4
+Zambia	2018	Age at menopause: 48-49	NA	45.5
+Zambia	2013	Age at menopause: 30-34	NA	2.1
+Zambia	2013	Age at menopause: 35-39	NA	2.7
+Zambia	2013	Age at menopause: 40-41	NA	6.2
+Zambia	2013	Age at menopause: 42-43	NA	7.1
+Zambia	2013	Age at menopause: 44-45	NA	14.8
+Zambia	2013	Age at menopause: 46-47	NA	25.2
+Zambia	2013	Age at menopause: 48-49	NA	50.1
+Zambia	2007	Age at menopause: 30-34	NA	1
+Zambia	2007	Age at menopause: 35-39	NA	0.7
+Zambia	2007	Age at menopause: 40-41	NA	6.9
+Zambia	2007	Age at menopause: 42-43	NA	6.1
+Zambia	2007	Age at menopause: 44-45	NA	18.5
+Zambia	2007	Age at menopause: 46-47	NA	27.6
+Zambia	2007	Age at menopause: 48-49	NA	46.5
+Zambia	2001	Age at menopause: 30-34	NA	1.5
+Zambia	2001	Age at menopause: 35-39	NA	2.9
+Zambia	2001	Age at menopause: 40-41	NA	5.6
+Zambia	2001	Age at menopause: 42-43	NA	6.9
+Zambia	2001	Age at menopause: 44-45	NA	16
+Zambia	2001	Age at menopause: 46-47	NA	34.8
+Zambia	2001	Age at menopause: 48-49	NA	39.7
+Zambia	1996	Age at menopause: 30-34	NA	0.7
+Zambia	1996	Age at menopause: 35-39	NA	2.2
+Zambia	1996	Age at menopause: 40-41	NA	4.3
+Zambia	1996	Age at menopause: 42-43	NA	9
+Zambia	1996	Age at menopause: 44-45	NA	18.5
+Zambia	1996	Age at menopause: 46-47	NA	29.1
+Zambia	1996	Age at menopause: 48-49	NA	52.9
+Zambia	1992	Age at menopause: 30-34	NA	1.8
+Zambia	1992	Age at menopause: 35-39	NA	1.3
+Zambia	1992	Age at menopause: 40-41	NA	5.1
+Zambia	1992	Age at menopause: 42-43	NA	9.8
+Zambia	1992	Age at menopause: 44-45	NA	24.2
+Zambia	1992	Age at menopause: 46-47	NA	26.6
+Zambia	1992	Age at menopause: 48-49	NA	42.6
+Zimbabwe	2015	Age at menopause: 30-34	NA	2.7
+Zimbabwe	2015	Age at menopause: 35-39	NA	4
+Zimbabwe	2015	Age at menopause: 40-41	NA	7.2
+Zimbabwe	2015	Age at menopause: 42-43	NA	9.7
+Zimbabwe	2015	Age at menopause: 44-45	NA	18.6
+Zimbabwe	2015	Age at menopause: 46-47	NA	24.9
+Zimbabwe	2015	Age at menopause: 48-49	NA	32.2
+Zimbabwe	2010	Age at menopause: 30-34	NA	3.7
+Zimbabwe	2010	Age at menopause: 35-39	NA	7
+Zimbabwe	2010	Age at menopause: 40-41	NA	11
+Zimbabwe	2010	Age at menopause: 42-43	NA	13.9
+Zimbabwe	2010	Age at menopause: 44-45	NA	19.7
+Zimbabwe	2010	Age at menopause: 46-47	NA	31.8
+Zimbabwe	2010	Age at menopause: 48-49	NA	42.6
+Zimbabwe	2005	Age at menopause: 30-34	NA	4
+Zimbabwe	2005	Age at menopause: 35-39	NA	5.9
+Zimbabwe	2005	Age at menopause: 40-41	NA	10.1
+Zimbabwe	2005	Age at menopause: 42-43	NA	10
+Zimbabwe	2005	Age at menopause: 44-45	NA	16.9
+Zimbabwe	2005	Age at menopause: 46-47	NA	26.7
+Zimbabwe	2005	Age at menopause: 48-49	NA	37.6
+Zimbabwe	1999	Age at menopause: 30-34	NA	3.4
+Zimbabwe	1999	Age at menopause: 35-39	NA	5.1
+Zimbabwe	1999	Age at menopause: 40-41	NA	6.7
+Zimbabwe	1999	Age at menopause: 42-43	NA	10
+Zimbabwe	1999	Age at menopause: 44-45	NA	12.2
+Zimbabwe	1999	Age at menopause: 46-47	NA	25.1
+Zimbabwe	1999	Age at menopause: 48-49	NA	30.9
+Zimbabwe	1994	Age at menopause: 30-34	NA	1
+Zimbabwe	1994	Age at menopause: 35-39	NA	3.4
+Zimbabwe	1994	Age at menopause: 40-41	NA	5.3
+Zimbabwe	1994	Age at menopause: 42-43	NA	7.4
+Zimbabwe	1994	Age at menopause: 44-45	NA	17.8
+Zimbabwe	1994	Age at menopause: 46-47	NA	24.2
+Zimbabwe	1994	Age at menopause: 48-49	NA	40.1
+Women age 30-49 menopausal	NA	Age at menopause: 30-34	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 35-39	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 40-41	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 42-43	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 44-45	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 46-47	NA	NA
+Women age 30-49 menopausal	NA	Age at menopause: 48-49	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 30-34	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 35-39	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 40-41	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 42-43	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 44-45	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 46-47	NA	NA
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. July 2 2024"	NA	Age at menopause: 48-49	NA	NA
