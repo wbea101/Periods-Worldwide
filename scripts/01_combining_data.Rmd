@@ -1,0 +1,311 @@
+---
+title: "Projectperiod"
+author: "Beayonie Washington"
+date: "2024-07-08"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notes to Beayonie:
+- I have renamed this file to 01_combining_data.Rmd, so it makes sense to a new reader
+- Load all your packages in at the start, instead of continuously loading them again and again. You have typed `library(Hmisc)` multiple times, which you don't need to do. I have cleaned up your script to reflect this.
+- I have also organized your sections and numbered them, so it is easier to follow, and consistent with how we usually do it. Moving forward, try to organize your scripts in a similar way.
+- I recommend that each file you have does something distinct. So, this file should be focused on cleaning, combining, and saving the data. You can make a new file for analysis and figures. That way, if you want to work with the clean dataset, you dont have to run all your code to clean and combine every time-- you can just start from part 2, and read in the data.
+- You will see that I also cleaned your datasets, which was actually quite hard to do! I have made notes for every decision I made, but now it may be much easier for you to work with your datasets.  I think it would have taken very long to clean this alone, and you had already done some of the harder parts of thinking through your analysis, which made this easy for me to step and and support. Now you can do the fun parts of the project, like the figures and analysis, yourself!
+- Read through the notes and the comments for each line of code, which may be helpful for the future!
+- At the end, you should be ready with a few different datasets to work with. Wide format datasets are good to look through visually, while long format datasets are good for plotting and analysis.
+  - `menarche_wide.csv` - Cleaned wide-format menarche data
+  - `menarche_long.csv` - Cleaned long-format menarche data
+  - `menopause_wide.csv` - Cleaned wide-format menopause data
+  - `menopause_long.csv` - Cleaned long-format menopause data
+  - `combined_data_wide.csv` - Cleaned wide-format combined data for all menarche countries with any menopause data
+  - `combined_data_long.csv` - Cleaned long-format combined data for all menarche countries with any menopause data
+
+- You can start anywhere you would like- with the combined data, or with just one of the two options. 
+- I am happy to answer any questions or clarifications!
+- I think your next step is to create some tables or plots. To help you, I have created a new markdown file that will get you started.
+
+# 1. SETUP 
+
+## 1.1 Load package
+
+```{r}
+library(readxl)
+library(haven)
+library(jsonlite)
+library(openxlsx)
+library(dplyr)
+library(tidyverse)
+library(Hmisc)
+library(here)
+```
+
+## 1.2 Set directory using here()
+
+The here package helps you find files easily:
+ - `i_am` tells R where your project starts.
+ - It's better than setwd because it works on any computer.
+ - It finds files based on your project, not where you are working.
+ - In the future, use `here::i_am("your file")` to set the starting point.
+ - Since this script is inside the `scripts` folder of my project folder, by specifying `scripts/01_combining_data.Rmd`, I am telling R that the starting point will be the main project folder.
+ - Think about it by imaginging a file telling the computer "I am here!" 
+
+
+```{r}
+here::i_am("scripts/01_combining_data.Rmd")
+```
+
+## 1.3 Import dataset
+- Since I have used the `here` package, if I want it to find something in the data folder, I can tell it to look in the `data` folder by saying `here("data/file")`. In this case, the data sits inside the `raw_data` folder, so I can tell it to look in the `raw_data` folder by saying `here("data/raw_data/file")`. That way it does not matter what comes before the `data` folder, it will always find the file. In my laptop, your project folder is called "beayonie", so the data sits is "beayonie/data/raw_data/Menopausedata.csv", which is different from how your laptop works.
+- By specifying `here::i_am()` at the start, I make it easier for R to figure it out, regardless of what laptop is being used. 
+
+```{r}
+# this source is from ABhatia
+menopause <- read_csv(here("data/raw_data/menopause_raw.csv"))
+menarche <- read_csv(here("data/raw_data/menarche_raw.csv"))
+
+```
+
+# 2. Cleaning Menopause Data
+
+## 2.1 Explore dataset 'menopause'
+```{r}
+head(menopause)
+```
+
+```{r}
+describe(menopause$country)
+```
+
+Interpretation: In 'menopause' dataset, the variable 'country' has 80 different categories.
+
+## 2.2 Cleaning the survey year column, so you just have the year of the survey
+- Remove rows where there is no real country data
+- Rename `survey` column to `year`
+- Remove `DHS` and `AIS` from `year`
+- Trim whitespace from `year`
+- Remove trailing hyphen and two digits from `year`
+- Convert `year` to integer
+
+```{r}
+menopause <- menopause %>%
+  filter(!is.na(total)) %>%  # Remove rows where 'total' is NA
+  rename(year = survey) %>%  # Rename 'survey' column to 'year'
+  mutate(year = str_replace_all(year, "DHS", ""),  # Remove 'DHS' from 'year'
+         year = str_replace_all(year, "AIS", ""),  # Remove 'AIS' from 'year'
+         year = str_remove_all(year, "-\\d{2}"),  # Remove trailing hyphen and two digits from 'year'
+         year = str_trim(year),  # Trim whitespace from 'year'
+         year = as.integer(year))  # Convert 'year' to integer
+
+```
+
+## 2.3 Retain only the latest year of data for each country
+- I do this because the menarche data only has one year for each country, so it would be nice to have just one year for each country in the menopause data as well. 
+- We can think about this and reconsider this later, but for now, I think it is better to have just one year for each country in the menopause data. Hope that is okay!
+- I also renamed it to `year_menopause` so it's easy to tell which year is which dataset.
+
+```{r}
+menopause <- menopause %>%
+  group_by(country) %>%  # Group the data by 'country'
+  filter(year == max(year)) %>%  # Retain only the rows with the latest year for each country
+  rename(year_menopause = year) %>%  # Rename the 'year' column to 'year_menopause'
+  ungroup()  # Ungroup the data
+```
+
+## 2.4 Drop the `age` and `total` column
+- It looks like the `age` column is just empty, so we drop it
+- I don't think the `total` column is useful, so we drop it - we can reconsider this if you think it is useful!
+
+```{r}
+menopause <- menopause %>%
+  select(-age, -total)
+```
+
+## 2.5 Save the cleaned menopause data
+
+```{r}
+write_csv(menopause, here("data/cleaned_data/menopause_wide.csv"))
+```
+
+## 2.6. Pivot long
+- Remember that ggplot sometimes likes data in long format? To make it easier, I will also save a long format dataset for you.
+
+```{r}
+menopause_long <- menopause %>%
+  # Pivot the data from wide to long format
+  pivot_longer(
+    cols = -c(country, year_menopause),  # Exclude 'country' and 'year_menopause' columns from pivoting
+    names_to = c("measure", "age_group"),  # Split the column names into 'measure' and 'age_group'
+    names_sep = "_",  # Use underscore as the separator to split column names
+    values_to = "percentage"  # Store the values in a new column named 'percentage'
+  ) %>%
+  # Modify the 'age_group' column to make it more readable
+  mutate(age_group = case_when(
+    age_group == "dont" ~ "Don't Know",  # Replace 'dont' with "Don't Know"
+    age_group == "mean" ~ "Mean Age",  # Replace 'mean' with "Mean Age"
+    age_group == "never" ~ "Never",  # Replace 'never' with "Never"
+    TRUE ~ str_c(age_group, " years")  # Append " years" to other age group values
+  )) %>%
+  # Capitalize the first letter of each word in the 'age_group' column
+  mutate(age_group = str_to_title(age_group))
+```
+
+## 2.7 Save data
+
+```{r}
+write_csv(menopause_long,
+          here("data/cleaned_data/menopause_long.csv"))
+```
+
+# 3. Cleaning Menarche Data
+
+## 3.1 Explore dataset 'menarche'
+```{r}
+head(menarche)
+```
+Interpretation: Menarche doesn't have the same structure of menopause. why....
+
+```{r}
+describe(menarche$country)
+```
+Interpretation: .... 18 countries in menarche dataset
+
+In general: There are more countries in menopause instead of menarche
+
+## 3.2 Clean data
+- Here, I filter rows to only keep `current_age == "Total`. I thought about this a little more after we spoke, and I think it is much easier if you are able to compare all women that have ever gone through menarche, against all women that have gone through menopause. Later, if you have time, we can think about how to use the `current_age` column to compare women of different ages in the way that they have responded!
+- I also remove the `countrycode` column because it is not useful, as well as the `survey_year` column since no country has multiple years. Now, since my `current_age` column only has one value, I can remove it since it is not meaningful. 
+- I also renamed the `year` column to `year_menarche` so it is easy to tell which year is which dataset.
+
+
+```{r}
+menarche <- menarche %>%
+    filter(current_age == "Total") %>% # We only keep the total age group
+    select(-countrycode, -current_age) %>% # Dropping columns that we don't need
+    rename(year_menarche = survey_year)
+
+```
+
+## 3.2 Pivot to wide format
+- Here, I pivot the data to wide format, so it is easier to compare the menarche data against the menopause data.
+- I also use `janitor::clean_names()` to clean the names of the columns, so it is easier to understand what the data is.
+
+```{r}
+menarche <- menarche %>%
+  # Pivot the data from long to wide format
+  pivot_wider(
+    names_from = menarche_age,  # Use the values in 'menarche_age' column to create new column names
+    values_from = value  # Use the values in 'value' column to fill the new columns
+  ) %>%
+  # Clean the column names to be more consistent and easier to work with
+  janitor::clean_names()
+```
+
+## 3.3 Renaming columns
+- My last step is to rename the columns so they are a little easier for you to compare against menopause data. Menopause follows the logic of `menopause_30_34` while menarche follows the logic of `age_at_first_menarche_10`. To make it easier, I just remove `age_at_first_`  from the column names.
+- I also rename `mean_age_at_menarche` to `menarche_mean_age`
+
+```{r}
+menarche <- menarche %>%
+  rename(menarche_mean_age = mean_age_at_menarche) %>%
+  rename_with(~ str_remove(., "age_at_first_"), starts_with("age_at_first_"))  # Remove 'age_at_first_' prefix from column names
+```
+
+## 3.4 Save the cleaned menarche data
+
+```{r}
+write_csv(menarche, here("data/cleaned_data/menarche_wide.csv"))
+```
+
+## 3.5 Pivot long
+- I will also save a cleaned, long format dataset for you
+
+```{r}
+menarche_long <- menarche %>%
+  # Pivot the data from wide to long format
+  pivot_longer(
+    cols = -c(country, year_menarche),  # Exclude 'country' and 'year_menarche' columns from pivoting
+    names_to = c("measure", "age_group"),  # Split the column names into 'measure' and 'age_group'
+    names_sep = "_",  # Use underscore as the separator
+    values_to = "percentage"  # Name the values column as 'percentage'
+  ) %>%
+  # Modify the 'age_group' column based on specific conditions
+  mutate(age_group = case_when(
+    age_group == "dont" ~ "Don't Know",  # Rename 'dont' to "Don't Know"
+    age_group == "mean" ~ "Mean Age",  # Rename 'mean' to "Mean Age"
+    age_group == "never" ~ "Never",  # Rename 'never' to "Never"
+    TRUE ~ str_c(age_group, " years")  # Append " years" to all other age groups
+  )) %>%
+  # Capitalize the first letter of each word in the 'age_group' column
+  mutate(age_group = str_to_title(age_group))
+```
+
+## 3.6 Save data
+
+```{r}
+write_csv(menarche_long, here("data/cleaned_data/menarche_long.csv"))
+```
+
+# 4. Merging datasets
+
+## 4.1 Creating a dataset that has all the countries with both menarche and menopause data
+- Menarche data only has 9 countries
+- Menopause data has 78 countries
+- I want to keep all the countries in menarche, and add in their menopause data
+- The function I want to use, is called `left_join`
+- A left join in R is used to merge two datasets based on a common column. 
+- It keeps all the rows from the left dataset and only the matching rows from the right dataset.
+- If there is no match, the result will have NA values for columns from the right dataset.
+- In this case, you want to keep all the country rows from the menarche dataset, and only the matching country rows from the menopause dataset. So, you should use `left_join` to merge the two datasets, with `menarche` as the left dataset and `menopause` as the right dataset.
+
+```{r}
+combined_data_wide <- left_join(menarche, menopause, by = "country")
+```
+
+## 4.2 Save wide data
+- Maybe it would be helpful for you to see the data in wide format. For this reeason, I'm going to save the data in a csv file.
+
+```{r}
+write_csv(combined_data_wide, here("data/cleaned_data/combined_data_wide.csv"))
+```
+
+
+## 4.2 Pivoting to long format
+- However, the data are much more usable in long format. 
+- I think a good dataset would have:
+  - a column for the country
+  - a column for the year that the measurement was taken
+  - a column for what was measures (menarche vs. menopause)
+  - a column for the age group that was being measured/age of onset
+  - and the value of the measurement
+- So, first I will create a long dataset, then try to work through the columns to fix the names
+
+```{r}
+combined_data_long <- combined_data_wide %>% 
+  mutate(year = coalesce(year_menarche, year_menopause)) %>% # Combine 'year_menarche' and 'year_menopause' into 'year'
+  select(-year_menarche, -year_menopause) %>% # Remove 'year_menarche' and 'year_menopause'
+  pivot_longer( 
+    cols = -c(country, year), # Exclude 'country' and 'year'
+    names_to = c("measure", "age_group"), # Split column names into 'measure' and 'age_group'
+    names_sep = "_", # Use underscore as separator
+    values_to = "percentage" # Store values in 'percentage'
+  ) %>%
+  mutate(age_group = case_when( 
+    age_group == "dont" ~ "Don't Know", 
+    age_group == "mean" ~ "Mean Age", 
+    age_group == "never" ~ "Never", 
+    TRUE ~ str_c(age_group, " years") 
+  )) %>%
+  mutate(age_group = str_to_title(age_group)) # Capitalize first letter of each word in 'age_group'
+
+```
+
+
+## 4.3 Save data
+
+```{r}
+write_csv(combined_data_long, here("data/cleaned_data/combined_data_long.csv"))
+```
