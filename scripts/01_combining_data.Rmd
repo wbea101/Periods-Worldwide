@@ -2,7 +2,9 @@
 title: "Projectperiod"
 author: "Beayonie Washington"
 date: "2024-07-08"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -309,3 +311,10 @@ combined_data_long <- combined_data_wide %>%
 ```{r}
 write_csv(combined_data_long, here("data/cleaned_data/combined_data_long.csv"))
 ```
+
+```{r}
+head(combined_data_wide)
+
+
+```
+

@@ -1,0 +1,124 @@
+---
+title: "test"
+author: "Beayonie Washington"
+date: "2024-07-12"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+install.packages("DT")
+library(tidyverse)
+library(DT)
+
+set.seed(123)
+dat <- tibble(
+  Year = paste0("Y",rep(2016:2021, each=3)),
+  Instrument = rep(c("physical","mental","social"),6),
+  Score = sample(1:5, size = 3*6, replace = T))
+
+dat %>% datatable(
+  rownames = FALSE,
+  options = list(
+    columnDefs = list(list(className = 'dt-center', 
+                      targets = 0:2))))
+```
+
+```{r}
+install.packages("viridis")
+library(viridis)
+
+p <- ggplot(dat) +  
+  # Add the stacked bar
+  geom_bar(aes(x=Year, y=Score, fill=Instrument), stat="identity", size=0.6, color="white") +
+  scale_fill_viridis(discrete=TRUE, direction = 1, option = "C", name="Health Instrument") +
+  ylim(0,15) + #using -1 as the lower bound to leave space in the centre of the polar
+  coord_polar() +
+  theme(
+    panel.background = element_rect(fill = "white", colour = "white"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    axis.line = element_blank(),
+    axis.ticks = element_blank(),
+    legend.position = "right",
+    legend.text = element_text(size=18), #large font for website display
+    legend.title = element_text(size=20), #large font for website display
+    axis.text = element_blank(),
+    axis.title = element_blank()) 
+
+# Add labels on top of each bar
+label_data <- dat %>% group_by(Year) %>% summarize(Tot=sum(Score))
+angle= round(90 - 360 * (c(1:nrow(label_data))-0.5) /nrow(label_data),0)     # I substract 0.5 because the letter must have the angle of the centre of the bars. Not extreme right(1) or extreme left (0)
+label_data$hjust<-ifelse(angle < -90, 1, 0)
+label_data$angle<-ifelse(angle < -90, angle+180, angle)
+
+p + geom_text(data=label_data, aes(x=Year, y=Tot+0.5, label=Year, hjust=hjust),
+            color="black", size=6, angle= label_data$angle, inherit.aes = FALSE)
+
+```
+```{r}
+# Install and load necessary packages
+if (!require(ggplot2)) install.packages("ggplot2")
+if (!require(viridis)) install.packages("viridis")
+if (!require(dplyr)) install.packages("dplyr")
+library(ggplot2)
+library(viridis)
+library(dplyr)
+
+# Example data frame (replace this with your actual data)
+dat <- data.frame(
+  Year = rep(2021:2022, each = 5),
+  Score = runif(10, 0, 15),
+  Instrument = rep(c("Instrument A", "Instrument B"), times = 5)
+)
+
+# Create the plot
+p <- ggplot(dat) +  
+  geom_bar(aes(x = Year, y = Score, fill = Instrument), stat = "identity", size = 0.6, color = "white") +
+  scale_fill_viridis(discrete = TRUE, direction = 1, option = "C", name = "Health Instrument") +
+  ylim(0, 15) +
+  coord_polar() +
+  theme(
+    panel.background = element_rect(fill = "white", colour = "white"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    axis.line = element_blank(),
+    axis.ticks = element_blank(),
+    legend.position = "right",
+    legend.text = element_text(size = 18),
+    legend.title = element_text(size = 20),
+    axis.text = element_blank(),
+    axis.title = element_blank()
+  )
+
+# Add labels on top of each bar
+label_data <- dat %>% group_by(Year) %>% summarise(Tot = sum(Score))
+angle <- round(90 - 360 * (c(1:nrow(label_data)) - 0.5) / nrow(label_data), 0)
+label_data$hjust <- ifelse(angle < -90, 1, 0)
+label_data$angle <- ifelse(angle < -90, angle + 180, angle)
+
+p + geom_text(data = label_data, aes(x = Year, y = Tot + 0.5, label = Year, hjust = hjust),
+              color = "black", size = 6, angle = label_data$angle, inherit.aes = FALSE)
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
