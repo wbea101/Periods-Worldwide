@@ -8,4 +8,12 @@ a is the created variable, 1 is the assigned value
 DATATYPES IN R
   https://images.search.yahoo.com/search/images;_ylt=AwrhRyTkcpVmDZYSud5XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=data+types+in+r&fr2=piv-web&type=E210US91088G0&fr=mcafee#id=5&iurl=https%3A%2F%2Fsydney-informatics-hub.github.io%2Flessonbmc%2Ffig%2FRvariablesdata.jpg&action=click
 Variables-
-Integer
+Integer-cant be a decimal
+Numeric-real numbers
+complex numbers 
+boolean numbers 
+
+Variable types 
+https://statsandr.com/blog/variable-types-and-examples/
+
+graph of types of variables 
