@@ -1,0 +1,11 @@
+"Variables" are words and numbers within your dataset you imported.
+Data values are words and number you choose to assign to the variables.
+Variables store data values
+Example: Create a variable & assign it with the value of 1
+a<-1
+a is the created variable, 1 is the assigned value 
+
+DATATYPES IN R
+  https://images.search.yahoo.com/search/images;_ylt=AwrhRyTkcpVmDZYSud5XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=data+types+in+r&fr2=piv-web&type=E210US91088G0&fr=mcafee#id=5&iurl=https%3A%2F%2Fsydney-informatics-hub.github.io%2Flessonbmc%2Ffig%2FRvariablesdata.jpg&action=click
+Variables-
+Integer
