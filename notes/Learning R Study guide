@@ -1,0 +1,21 @@
+"Variables" are words and numbers within your dataset you imported.
+Data values are words and number you choose to assign to the variables.
+Variables store data values
+Example: Create a variable & assign it with the value of 1
+a<-1
+a is the created variable, 1 is the assigned value 
+
+DATATYPES IN R
+  https://images.search.yahoo.com/search/images;_ylt=AwrhRyTkcpVmDZYSud5XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=data+types+in+r&fr2=piv-web&type=E210US91088G0&fr=mcafee#id=5&iurl=https%3A%2F%2Fsydney-informatics-hub.github.io%2Flessonbmc%2Ffig%2FRvariablesdata.jpg&action=click
+Variables-
+Integer-cant be a decimal
+Numeric-real numbers
+complex numbers 
+boolean numbers 
+
+Variable types 
+https://statsandr.com/blog/variable-types-and-examples/
+
+graph of types of variables 
+
+https://images.search.yahoo.com/search/images;_ylt=AwrNZKz_ZpVmua0K8i5XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=what+is+the+main+difference+between+structured+and+unstructured+data&fr2=piv-web&type=E210US91088G0&fr=mcafee#id=21&iurl=https%3A%2F%2Fblog.collabware.com%2Fhs-fs%2Fhubfs%2FStructured-versus-unstructured-data-visual-1.jpg%3Fwidth%3D815%26name%3DStructured-versus-unstructured-data-visual-1.jpg&action=click
