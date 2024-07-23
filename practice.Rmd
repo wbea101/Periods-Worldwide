@@ -112,13 +112,35 @@ p + geom_text(data = label_data, aes(x = Year, y = Tot + 0.5, label = Year, hjus
               color = "black", size = 6, angle = label_data$angle, inherit.aes = FALSE)
 
 ```
+```{r}
+library(tidyverse)
 
-## Including Plots
+library(readxl)
+combined_data_long <- read_excel("C:/Users/BC Student/OneDrive - Bennett College/Periods-Worldwide/data/cleaned_data/combined_data_long.csv")
+View(combined_data_long)
 
-You can also embed plots, for example:
+# Read the data
+combined_data_long <- read_csv
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+# Reshape the data
+reshaped_data <- data %>%
+  pivot_longer(cols = percentage, names_to = "measure", values_to = "Rate")
+
+# Create the plot
+ggplot(reshaped_data, aes(x = age_group, y = Rate, fill = measure)) +
+  geom_col(position = "identity") +
+  coord_polar() +
+  facet_wrap(~country + measure, scales = "free") +
+  scale_fill_manual(values = c("skyblue3", "firebrick")) +
+  theme_void() +
+  theme(
+    axis.text.x = element_text(size = 9),
+    strip.text = element_text(size = 11),
+    legend.position = "bottom",
+    plot.background = element_rect(fill = alpha("cornsilk", 0.5)),
+    plot.margin = unit(c(10, 10, 10, 10), "pt"),
+    plot.title = element_text(vjust = 5)
+  ) +
+  ggtitle("Distribution of Menarche and Menopause Ages by Country")
+
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
